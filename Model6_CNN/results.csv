@@ -1,0 +1,3303 @@
+image_name,classification,localization,tb_type
+unknown_1765.png,no tb,none,none
+unknown_2884.png,no tb,none,none
+unknown_892.png,no tb,none,none
+unknown_2834.png,no tb,none,none
+unknown_2292.png,no tb,none,none
+unknown_2436.png,no tb,none,none
+unknown_349.png,no tb,none,none
+unknown_2080.png,no tb,none,none
+unknown_855.png,no tb,none,none
+unknown_2214.png,tb,"{'xmin': 228.93379, 'ymin': 87.89967, 'width': 158.97975, 'height': 179.75888}",active_tb
+unknown_299.png,no tb,none,none
+unknown_140.png,no tb,none,none
+unknown_1282.png,no tb,none,none
+unknown_2600.png,tb,"{'xmin': 131.38759, 'ymin': 36.95006, 'width': 93.106514, 'height': 110.26334}",active_tb
+unknown_524.png,no tb,none,none
+unknown_1203.png,no tb,none,none
+unknown_1453.png,no tb,none,none
+unknown_2903.png,no tb,none,none
+unknown_736.png,no tb,none,none
+unknown_2073.png,no tb,none,active_tb
+unknown_528.png,no tb,none,none
+unknown_2553.png,no tb,none,none
+unknown_881.png,no tb,none,none
+unknown_2816.png,tb,"{'xmin': 61.30987, 'ymin': 23.535353, 'width': 41.215534, 'height': 51.797077}",none
+unknown_2909.png,no tb,none,active_tb
+unknown_224.png,tb,"{'xmin': 284.76923, 'ymin': 156.18388, 'width': 151.21507, 'height': 168.81827}",active_tb
+unknown_833.png,no tb,none,none
+unknown_1411.png,no tb,none,none
+unknown_2529.png,no tb,none,none
+unknown_2061.png,tb,"{'xmin': 118.20319, 'ymin': 61.246235, 'width': 73.51432, 'height': 94.18049}",active_tb
+unknown_2744.png,tb,"{'xmin': 248.55878, 'ymin': 89.630135, 'width': 160.58238, 'height': 192.52356}",active_tb
+unknown_2150.png,no tb,none,none
+unknown_917.png,no tb,none,active_tb
+unknown_2266.png,no tb,none,none
+unknown_1711.png,no tb,none,none
+unknown_967.png,no tb,none,none
+unknown_1435.png,no tb,none,none
+unknown_269.png,no tb,none,none
+unknown_1423.png,no tb,none,none
+unknown_3260.png,no tb,none,none
+unknown_2671.png,tb,"{'xmin': 269.4101, 'ymin': 126.47577, 'width': 168.03365, 'height': 172.65894}",active_tb
+unknown_2282.png,no tb,none,none
+unknown_1821.png,no tb,none,none
+unknown_626.png,no tb,none,none
+unknown_464.png,no tb,none,none
+unknown_2316.png,no tb,none,none
+unknown_2477.png,no tb,none,none
+unknown_505.png,no tb,none,active_tb
+unknown_98.png,no tb,none,none
+unknown_2567.png,no tb,none,none
+unknown_170.png,no tb,none,none
+unknown_1874.png,no tb,none,none
+unknown_2447.png,no tb,none,none
+unknown_883.png,no tb,none,none
+unknown_739.png,no tb,none,none
+unknown_1432.png,no tb,none,none
+unknown_1849.png,no tb,none,none
+unknown_244.png,no tb,none,none
+unknown_1188.png,no tb,none,none
+unknown_1893.png,no tb,none,none
+unknown_1017.png,tb,"{'xmin': 248.1193, 'ymin': 115.095566, 'width': 112.84708, 'height': 128.61224}",active_tb
+unknown_306.png,no tb,none,none
+unknown_1562.png,no tb,none,none
+unknown_2065.png,no tb,none,none
+unknown_2637.png,no tb,none,none
+unknown_891.png,tb,"{'xmin': 217.86378, 'ymin': 108.318665, 'width': 131.28902, 'height': 152.10947}",latent_tb
+unknown_1185.png,no tb,none,none
+unknown_2013.png,no tb,none,none
+unknown_1517.png,no tb,none,none
+unknown_1768.png,no tb,none,none
+unknown_1635.png,no tb,none,none
+unknown_1919.png,no tb,none,none
+unknown_3036.png,no tb,none,none
+unknown_3296.png,no tb,none,none
+unknown_3001.png,no tb,none,none
+unknown_486.png,no tb,none,none
+unknown_1384.png,tb,"{'xmin': 141.29222, 'ymin': 68.84774, 'width': 86.68367, 'height': 98.90478}",active_tb
+unknown_3029.png,no tb,none,none
+unknown_2360.png,no tb,none,none
+unknown_2507.png,no tb,none,none
+unknown_327.png,no tb,none,none
+unknown_3161.png,tb,"{'xmin': 244.79254, 'ymin': 101.92349, 'width': 161.00278, 'height': 176.96938}",active_tb
+unknown_1020.png,no tb,none,none
+unknown_2771.png,no tb,none,none
+unknown_1941.png,no tb,none,none
+unknown_1511.png,tb,"{'xmin': 100.35062, 'ymin': 45.776608, 'width': 76.77232, 'height': 95.42078}",latent_tb
+unknown_1066.png,no tb,none,none
+unknown_1263.png,no tb,none,active_tb
+unknown_2276.png,no tb,none,none
+unknown_1132.png,no tb,none,none
+unknown_2677.png,no tb,none,none
+unknown_146.png,no tb,none,none
+unknown_812.png,no tb,none,none
+unknown_251.png,no tb,none,none
+unknown_83.png,no tb,none,none
+unknown_531.png,no tb,none,none
+unknown_1670.png,no tb,none,none
+unknown_2222.png,no tb,none,active_tb
+unknown_2722.png,no tb,none,active_tb
+unknown_938.png,tb,"{'xmin': 233.10295, 'ymin': 91.86262, 'width': 128.29556, 'height': 153.96167}",active_tb
+unknown_2975.png,no tb,none,none
+unknown_2442.png,no tb,none,none
+unknown_549.png,no tb,none,none
+unknown_1784.png,no tb,none,none
+unknown_222.png,no tb,none,none
+unknown_2611.png,no tb,none,none
+unknown_366.png,no tb,none,none
+unknown_1219.png,no tb,none,none
+unknown_3249.png,no tb,none,none
+unknown_3092.png,tb,"{'xmin': 267.15393, 'ymin': 109.357506, 'width': 164.1736, 'height': 185.71707}",active_tb
+unknown_1148.png,no tb,none,active_tb
+unknown_1123.png,tb,"{'xmin': 73.45725, 'ymin': 31.19549, 'width': 35.17715, 'height': 44.33736}",latent_tb
+unknown_263.png,no tb,none,none
+unknown_3131.png,no tb,none,none
+unknown_212.png,no tb,none,none
+unknown_2093.png,no tb,none,none
+unknown_558.png,no tb,none,none
+unknown_1327.png,no tb,none,none
+unknown_154.png,no tb,none,none
+unknown_2872.png,no tb,none,active_tb
+unknown_2331.png,no tb,none,none
+unknown_1265.png,no tb,none,none
+unknown_1756.png,no tb,none,none
+unknown_163.png,no tb,none,none
+unknown_1890.png,tb,"{'xmin': 152.24979, 'ymin': 70.22526, 'width': 88.57708, 'height': 95.05397}",active_tb
+unknown_1464.png,no tb,none,none
+unknown_1820.png,no tb,none,none
+unknown_1580.png,tb,"{'xmin': 45.02724, 'ymin': 9.4456415, 'width': 33.01048, 'height': 35.443493}",none
+unknown_2041.png,no tb,none,none
+unknown_1967.png,no tb,none,none
+unknown_2506.png,tb,"{'xmin': 108.67623, 'ymin': 40.625275, 'width': 78.8814, 'height': 105.45593}",active_tb
+unknown_873.png,no tb,none,none
+unknown_3261.png,no tb,none,none
+unknown_2991.png,no tb,none,none
+unknown_1334.png,no tb,none,none
+unknown_2999.png,no tb,none,none
+unknown_1938.png,no tb,none,none
+unknown_1805.png,no tb,none,none
+unknown_2636.png,no tb,none,none
+unknown_835.png,no tb,none,none
+unknown_1113.png,tb,"{'xmin': 158.21025, 'ymin': 46.354286, 'width': 104.22658, 'height': 120.801544}",active_tb
+unknown_1864.png,no tb,none,none
+unknown_1182.png,tb,"{'xmin': 221.13062, 'ymin': 80.08838, 'width': 126.547226, 'height': 135.58688}",active_tb
+unknown_3205.png,no tb,none,none
+unknown_2153.png,no tb,none,none
+unknown_2863.png,no tb,none,none
+unknown_292.png,no tb,none,none
+unknown_2809.png,no tb,none,none
+unknown_2016.png,tb,"{'xmin': 224.86508, 'ymin': 118.43813, 'width': 107.673935, 'height': 145.86168}",active_tb
+unknown_369.png,no tb,none,none
+unknown_1158.png,no tb,none,none
+unknown_705.png,no tb,none,none
+unknown_3207.png,no tb,none,none
+unknown_1604.png,no tb,none,none
+unknown_1918.png,no tb,none,none
+unknown_2713.png,tb,"{'xmin': 38.44812, 'ymin': 31.670317, 'width': 29.34068, 'height': 31.75202}",none
+unknown_2923.png,no tb,none,none
+unknown_1525.png,no tb,none,none
+unknown_728.png,no tb,none,none
+unknown_3000.png,tb,"{'xmin': 71.67116, 'ymin': 31.637144, 'width': 59.681698, 'height': 75.51641}",active_tb
+unknown_628.png,no tb,none,active_tb
+unknown_19.png,no tb,none,none
+unknown_3280.png,no tb,none,none
+unknown_2398.png,no tb,none,none
+unknown_1873.png,no tb,none,none
+unknown_1720.png,no tb,none,none
+unknown_3006.png,no tb,none,none
+unknown_1726.png,no tb,none,none
+unknown_2105.png,no tb,none,none
+unknown_3138.png,no tb,none,none
+unknown_1508.png,no tb,none,none
+unknown_1492.png,no tb,none,none
+unknown_2976.png,no tb,none,none
+unknown_1139.png,no tb,none,none
+unknown_437.png,no tb,none,none
+unknown_109.png,no tb,none,none
+unknown_932.png,no tb,none,none
+unknown_458.png,no tb,none,none
+unknown_2907.png,no tb,none,none
+unknown_1013.png,no tb,none,none
+unknown_2121.png,tb,"{'xmin': 161.16013, 'ymin': 57.629, 'width': 106.60454, 'height': 124.773315}",active_tb
+unknown_1296.png,tb,"{'xmin': 77.22901, 'ymin': 36.550262, 'width': 60.869473, 'height': 79.42508}",latent_tb
+unknown_1040.png,no tb,none,none
+unknown_1126.png,no tb,none,none
+unknown_2253.png,no tb,none,none
+unknown_400.png,no tb,none,none
+unknown_3009.png,no tb,none,none
+unknown_2403.png,no tb,none,none
+unknown_1775.png,no tb,none,none
+unknown_1702.png,no tb,none,none
+unknown_2631.png,no tb,none,none
+unknown_2955.png,no tb,none,none
+unknown_1248.png,no tb,none,none
+unknown_1180.png,no tb,none,none
+unknown_418.png,no tb,none,none
+unknown_529.png,no tb,none,none
+unknown_3229.png,no tb,none,none
+unknown_2715.png,no tb,none,none
+unknown_2531.png,no tb,none,none
+unknown_183.png,no tb,none,none
+unknown_862.png,no tb,none,none
+unknown_680.png,no tb,none,none
+unknown_1224.png,no tb,none,none
+unknown_1095.png,no tb,none,none
+unknown_3157.png,no tb,none,none
+unknown_1413.png,no tb,none,none
+unknown_1693.png,no tb,none,none
+unknown_677.png,no tb,none,none
+unknown_2129.png,tb,"{'xmin': 219.39078, 'ymin': 94.49646, 'width': 132.06697, 'height': 144.6351}",active_tb
+unknown_150.png,no tb,none,none
+unknown_2720.png,tb,"{'xmin': 183.96805, 'ymin': 78.05049, 'width': 128.16753, 'height': 145.14485}",active_tb
+unknown_2198.png,tb,"{'xmin': 144.26163, 'ymin': 37.846794, 'width': 70.97458, 'height': 95.33304}",active_tb
+unknown_3214.png,tb,"{'xmin': 36.057407, 'ymin': 46.513504, 'width': 46.372456, 'height': 58.019333}",active_tb
+unknown_2319.png,no tb,none,none
+unknown_1842.png,no tb,none,none
+unknown_2113.png,tb,"{'xmin': 129.03943, 'ymin': 64.80563, 'width': 95.24132, 'height': 99.92276}",active_tb
+unknown_2730.png,no tb,none,none
+unknown_1565.png,tb,"{'xmin': 93.23061, 'ymin': 22.394972, 'width': 69.85471, 'height': 86.83561}",active_tb
+unknown_1449.png,no tb,none,none
+unknown_225.png,no tb,none,none
+unknown_1190.png,no tb,none,none
+unknown_1770.png,tb,"{'xmin': 68.275475, 'ymin': 20.691093, 'width': 51.102932, 'height': 58.52029}",none
+unknown_1099.png,tb,"{'xmin': 150.41676, 'ymin': 55.317825, 'width': 90.39163, 'height': 111.504944}",active_tb
+unknown_945.png,no tb,none,none
+unknown_982.png,no tb,none,none
+unknown_2380.png,no tb,none,none
+unknown_1103.png,no tb,none,none
+unknown_1877.png,no tb,none,active_tb
+unknown_2472.png,tb,"{'xmin': 36.320576, 'ymin': 17.752975, 'width': 39.63042, 'height': 48.469524}",active_tb
+unknown_3083.png,no tb,none,none
+unknown_3301.png,no tb,none,none
+unknown_3183.png,no tb,none,none
+unknown_1651.png,no tb,none,none
+unknown_2947.png,no tb,none,none
+unknown_1830.png,no tb,none,none
+unknown_2325.png,no tb,none,none
+unknown_1163.png,tb,"{'xmin': 136.38416, 'ymin': 70.98417, 'width': 78.83318, 'height': 94.08387}",active_tb
+unknown_2951.png,tb,"{'xmin': 136.24408, 'ymin': 24.214813, 'width': 105.80168, 'height': 94.87788}",active_tb
+unknown_104.png,no tb,none,none
+unknown_1943.png,tb,"{'xmin': 50.018448, 'ymin': 12.699277, 'width': 40.542637, 'height': 43.11176}",latent_tb
+unknown_389.png,no tb,none,active_tb
+unknown_1619.png,no tb,none,active_tb
+unknown_1002.png,no tb,none,none
+unknown_3048.png,tb,"{'xmin': 44.0115, 'ymin': 55.63955, 'width': 44.085575, 'height': 47.86381}",active_tb
+unknown_697.png,no tb,none,none
+unknown_2010.png,no tb,none,none
+unknown_584.png,no tb,none,none
+unknown_996.png,no tb,none,none
+unknown_2152.png,no tb,none,active_tb
+unknown_1656.png,no tb,none,none
+unknown_2627.png,no tb,none,active_tb
+unknown_1993.png,no tb,none,none
+unknown_1039.png,no tb,none,none
+unknown_2926.png,no tb,none,none
+unknown_490.png,no tb,none,none
+unknown_2624.png,no tb,none,none
+unknown_2556.png,no tb,none,none
+unknown_3243.png,no tb,none,none
+unknown_56.png,no tb,none,none
+unknown_547.png,no tb,none,none
+unknown_3045.png,no tb,none,none
+unknown_297.png,no tb,none,active_tb
+unknown_1950.png,tb,"{'xmin': 230.75458, 'ymin': 94.06462, 'width': 146.60555, 'height': 204.76984}",active_tb
+unknown_1101.png,no tb,none,none
+unknown_2301.png,no tb,none,none
+unknown_758.png,no tb,none,none
+unknown_2260.png,no tb,none,none
+unknown_1649.png,no tb,none,none
+unknown_978.png,no tb,none,active_tb
+unknown_867.png,no tb,none,active_tb
+unknown_1155.png,no tb,none,active_tb
+unknown_1471.png,no tb,none,none
+unknown_25.png,tb,"{'xmin': 247.90846, 'ymin': 128.37234, 'width': 151.62901, 'height': 200.40805}",active_tb
+unknown_751.png,no tb,none,none
+unknown_1510.png,no tb,none,none
+unknown_1287.png,no tb,none,active_tb
+unknown_538.png,tb,"{'xmin': 228.43665, 'ymin': 110.79444, 'width': 127.33942, 'height': 140.48453}",active_tb
+unknown_2683.png,no tb,none,none
+unknown_1745.png,no tb,none,none
+unknown_1205.png,no tb,none,none
+unknown_1328.png,no tb,none,none
+unknown_48.png,tb,"{'xmin': 258.6704, 'ymin': 123.0103, 'width': 126.44416, 'height': 170.88669}",active_tb
+unknown_2144.png,no tb,none,none
+unknown_239.png,tb,"{'xmin': 190.23915, 'ymin': 102.861084, 'width': 96.76485, 'height': 112.40036}",active_tb
+unknown_608.png,no tb,none,none
+unknown_2933.png,no tb,none,none
+unknown_980.png,no tb,none,none
+unknown_2966.png,no tb,none,none
+unknown_303.png,no tb,none,latent_tb
+unknown_2423.png,no tb,none,none
+unknown_2248.png,no tb,none,none
+unknown_1863.png,no tb,none,none
+unknown_560.png,no tb,none,none
+unknown_539.png,no tb,none,none
+unknown_1665.png,no tb,none,none
+unknown_119.png,no tb,none,none
+unknown_1989.png,no tb,none,none
+unknown_2574.png,tb,"{'xmin': 235.3266, 'ymin': 88.79716, 'width': 148.56767, 'height': 165.50539}",active_tb
+unknown_1011.png,tb,"{'xmin': 192.45227, 'ymin': 98.96303, 'width': 86.25608, 'height': 96.78798}",active_tb
+unknown_382.png,no tb,none,none
+unknown_1349.png,tb,"{'xmin': 177.18921, 'ymin': 86.77202, 'width': 83.44162, 'height': 95.2901}",active_tb
+unknown_341.png,no tb,none,none
+unknown_2241.png,no tb,none,none
+unknown_1257.png,no tb,none,none
+unknown_906.png,no tb,none,active_tb
+unknown_481.png,tb,"{'xmin': 202.22664, 'ymin': 46.729485, 'width': 124.36412, 'height': 160.42401}",active_tb
+unknown_185.png,no tb,none,none
+unknown_2869.png,no tb,none,none
+unknown_2141.png,no tb,none,none
+unknown_721.png,tb,"{'xmin': 112.14429, 'ymin': 41.611782, 'width': 73.96166, 'height': 87.21559}",active_tb
+unknown_2382.png,no tb,none,none
+unknown_2295.png,no tb,none,none
+unknown_1676.png,no tb,none,none
+unknown_176.png,no tb,none,none
+unknown_3246.png,no tb,none,none
+unknown_1077.png,no tb,none,none
+unknown_1388.png,no tb,none,none
+unknown_1558.png,no tb,none,none
+unknown_941.png,no tb,none,none
+unknown_2158.png,no tb,none,none
+unknown_2986.png,no tb,none,none
+unknown_195.png,tb,"{'xmin': 227.9935, 'ymin': 112.97888, 'width': 161.43596, 'height': 181.0716}",active_tb
+unknown_487.png,no tb,none,active_tb
+unknown_1253.png,no tb,none,none
+unknown_479.png,no tb,none,none
+unknown_76.png,tb,"{'xmin': 181.72374, 'ymin': 80.06674, 'width': 117.40695, 'height': 130.94931}",active_tb
+unknown_351.png,tb,"{'xmin': 40.058506, 'ymin': 13.193066, 'width': 38.445625, 'height': 52.866035}",none
+unknown_2358.png,no tb,none,none
+unknown_1380.png,no tb,none,none
+unknown_2962.png,tb,"{'xmin': 37.195023, 'ymin': -14.901237, 'width': 20.944761, 'height': 16.815983}",active_tb
+unknown_860.png,no tb,none,none
+unknown_3238.png,tb,"{'xmin': 194.93503, 'ymin': 81.42981, 'width': 97.45453, 'height': 121.113846}",active_tb
+unknown_2042.png,no tb,none,none
+unknown_1632.png,no tb,none,none
+unknown_2461.png,no tb,none,none
+unknown_2131.png,no tb,none,none
+unknown_1024.png,no tb,none,none
+unknown_1347.png,no tb,none,none
+unknown_2629.png,no tb,none,none
+unknown_550.png,no tb,none,none
+unknown_2456.png,no tb,none,none
+unknown_2845.png,tb,"{'xmin': 90.3321, 'ymin': 36.017746, 'width': 57.807407, 'height': 62.00668}",active_tb
+unknown_507.png,no tb,none,none
+unknown_38.png,tb,"{'xmin': 256.01443, 'ymin': 139.7029, 'width': 149.58945, 'height': 161.50928}",active_tb
+unknown_2644.png,no tb,none,none
+unknown_727.png,no tb,none,none
+unknown_544.png,no tb,none,none
+unknown_305.png,no tb,none,none
+unknown_3080.png,no tb,none,none
+unknown_815.png,no tb,none,none
+unknown_2614.png,no tb,none,none
+unknown_1983.png,no tb,none,none
+unknown_1456.png,no tb,none,none
+unknown_1276.png,no tb,none,none
+unknown_513.png,no tb,none,none
+unknown_2338.png,no tb,none,none
+unknown_1212.png,no tb,none,none
+unknown_2856.png,tb,"{'xmin': 176.1303, 'ymin': 98.382095, 'width': 97.14905, 'height': 106.17442}",active_tb
+unknown_2003.png,tb,"{'xmin': 150.02611, 'ymin': 61.976936, 'width': 67.32469, 'height': 71.5642}",active_tb
+unknown_101.png,no tb,none,none
+unknown_2455.png,no tb,none,none
+unknown_597.png,no tb,none,none
+unknown_964.png,no tb,none,none
+unknown_2846.png,no tb,none,none
+unknown_3116.png,no tb,none,none
+unknown_2681.png,no tb,none,active_tb
+unknown_1865.png,no tb,none,none
+unknown_259.png,no tb,none,none
+unknown_1400.png,no tb,none,none
+unknown_991.png,tb,"{'xmin': 279.6191, 'ymin': 116.86362, 'width': 176.5275, 'height': 215.02466}",active_tb
+unknown_1168.png,no tb,none,none
+unknown_3202.png,tb,"{'xmin': 115.21607, 'ymin': 49.954033, 'width': 73.1409, 'height': 88.97837}",active_tb
+unknown_1645.png,no tb,none,none
+unknown_2718.png,no tb,none,none
+unknown_3071.png,no tb,none,none
+unknown_1749.png,no tb,none,none
+unknown_1836.png,no tb,none,none
+unknown_2495.png,no tb,none,none
+unknown_2336.png,tb,"{'xmin': 53.200237, 'ymin': 23.079859, 'width': 35.19948, 'height': 42.65863}",active_tb
+unknown_691.png,no tb,none,none
+unknown_2482.png,no tb,none,none
+unknown_1157.png,no tb,none,none
+unknown_943.png,no tb,none,active_tb
+unknown_2974.png,no tb,none,none
+unknown_2640.png,no tb,none,none
+unknown_567.png,no tb,none,none
+unknown_2501.png,no tb,none,active_tb
+unknown_1131.png,no tb,none,none
+unknown_2948.png,tb,"{'xmin': 92.577034, 'ymin': 80.48986, 'width': 94.721756, 'height': 95.64369}",active_tb
+unknown_2617.png,no tb,none,none
+unknown_596.png,no tb,none,none
+unknown_346.png,no tb,none,none
+unknown_1923.png,no tb,none,none
+unknown_681.png,no tb,none,none
+unknown_1599.png,no tb,none,none
+unknown_579.png,no tb,none,none
+unknown_1794.png,no tb,none,none
+unknown_3147.png,no tb,none,none
+unknown_107.png,no tb,none,none
+unknown_1778.png,tb,"{'xmin': 20.964466, 'ymin': 29.59891, 'width': 23.112213, 'height': 26.82113}",active_tb
+unknown_1728.png,tb,"{'xmin': 69.573074, 'ymin': 24.00503, 'width': 44.235783, 'height': 52.205254}",active_tb
+unknown_1089.png,no tb,none,none
+unknown_610.png,no tb,none,none
+unknown_335.png,no tb,none,none
+unknown_1250.png,no tb,none,none
+unknown_2559.png,no tb,none,none
+unknown_1556.png,tb,"{'xmin': 256.89673, 'ymin': 109.57985, 'width': 151.41852, 'height': 203.2909}",active_tb
+unknown_3285.png,no tb,none,none
+unknown_2191.png,no tb,none,none
+unknown_1338.png,no tb,none,none
+unknown_2805.png,no tb,none,none
+unknown_1179.png,no tb,none,none
+unknown_1951.png,no tb,none,none
+unknown_1052.png,no tb,none,none
+unknown_3057.png,no tb,none,none
+unknown_1500.png,no tb,none,none
+unknown_1946.png,no tb,none,none
+unknown_3299.png,no tb,none,none
+unknown_3259.png,no tb,none,none
+unknown_2286.png,no tb,none,none
+unknown_1406.png,no tb,none,none
+unknown_556.png,no tb,none,none
+unknown_802.png,tb,"{'xmin': 224.58563, 'ymin': 106.086426, 'width': 134.64891, 'height': 140.91595}",active_tb
+unknown_2882.png,no tb,none,none
+unknown_208.png,no tb,none,none
+unknown_2843.png,tb,"{'xmin': 204.47899, 'ymin': 94.01696, 'width': 112.71625, 'height': 126.551315}",active_tb
+unknown_1065.png,no tb,none,none
+unknown_20.png,tb,"{'xmin': 99.48879, 'ymin': 40.126484, 'width': 64.84558, 'height': 78.6734}",active_tb
+unknown_1541.png,no tb,none,none
+unknown_1513.png,no tb,none,none
+unknown_2272.png,no tb,none,none
+unknown_2912.png,no tb,none,none
+unknown_952.png,no tb,none,none
+unknown_2143.png,no tb,none,active_tb
+unknown_333.png,tb,"{'xmin': 207.19928, 'ymin': 107.6046, 'width': 116.16945, 'height': 130.77844}",active_tb
+unknown_480.png,no tb,none,none
+unknown_2659.png,no tb,none,none
+unknown_2764.png,no tb,none,none
+unknown_1528.png,no tb,none,none
+unknown_2773.png,no tb,none,none
+unknown_2004.png,no tb,none,none
+unknown_1856.png,no tb,none,none
+unknown_2759.png,tb,"{'xmin': 200.03839, 'ymin': 88.61435, 'width': 142.3032, 'height': 169.58478}",active_tb
+unknown_1986.png,no tb,none,none
+unknown_1572.png,tb,"{'xmin': 77.82384, 'ymin': 51.48905, 'width': 48.736732, 'height': 64.76618}",active_tb
+unknown_2674.png,no tb,none,none
+unknown_2363.png,no tb,none,none
+unknown_1033.png,no tb,none,none
+unknown_1259.png,no tb,none,none
+unknown_2996.png,no tb,none,none
+unknown_619.png,no tb,none,none
+unknown_1837.png,no tb,none,none
+unknown_817.png,no tb,none,none
+unknown_379.png,no tb,none,none
+unknown_586.png,no tb,none,none
+unknown_1843.png,no tb,none,active_tb
+unknown_2972.png,tb,"{'xmin': 129.96846, 'ymin': 97.57789, 'width': 74.826904, 'height': 86.36072}",none
+unknown_1096.png,no tb,none,none
+unknown_1692.png,tb,"{'xmin': 159.32446, 'ymin': 61.057827, 'width': 85.95521, 'height': 98.01378}",latent_tb
+unknown_1748.png,no tb,none,none
+unknown_2453.png,no tb,none,none
+unknown_926.png,no tb,none,none
+unknown_407.png,no tb,none,none
+unknown_267.png,no tb,none,none
+unknown_3195.png,tb,"{'xmin': 89.89167, 'ymin': 0.7684053, 'width': 62.78947, 'height': 74.21048}",active_tb
+unknown_890.png,tb,"{'xmin': 131.4655, 'ymin': 71.261024, 'width': 86.134514, 'height': 104.08559}",none
+unknown_3079.png,no tb,none,none
+unknown_2471.png,no tb,none,none
+unknown_2285.png,tb,"{'xmin': 78.23997, 'ymin': 26.023909, 'width': 57.517654, 'height': 72.10928}",active_tb
+unknown_1060.png,tb,"{'xmin': 109.631935, 'ymin': 48.20027, 'width': 84.42283, 'height': 99.980606}",active_tb
+unknown_2110.png,no tb,none,none
+unknown_1678.png,no tb,none,none
+unknown_929.png,no tb,none,none
+unknown_465.png,no tb,none,none
+unknown_842.png,no tb,none,none
+unknown_3107.png,no tb,none,none
+unknown_3140.png,no tb,none,none
+unknown_206.png,no tb,none,none
+unknown_2116.png,no tb,none,none
+unknown_3054.png,no tb,none,none
+unknown_1969.png,no tb,none,none
+unknown_1237.png,no tb,none,none
+unknown_2172.png,tb,"{'xmin': 105.90069, 'ymin': 41.747555, 'width': 76.02772, 'height': 96.59582}",none
+unknown_2054.png,no tb,none,none
+unknown_2385.png,tb,"{'xmin': 130.91348, 'ymin': 42.380005, 'width': 82.4355, 'height': 93.05621}",active_tb
+unknown_1476.png,no tb,none,none
+unknown_741.png,no tb,none,none
+unknown_53.png,no tb,none,none
+unknown_2474.png,no tb,none,none
+unknown_1403.png,no tb,none,none
+unknown_3165.png,no tb,none,none
+unknown_2049.png,no tb,none,none
+unknown_960.png,no tb,none,none
+unknown_2184.png,no tb,none,none
+unknown_281.png,no tb,none,none
+unknown_1118.png,no tb,none,none
+unknown_1358.png,no tb,none,none
+unknown_2585.png,no tb,none,none
+unknown_570.png,no tb,none,none
+unknown_252.png,no tb,none,none
+unknown_2621.png,no tb,none,none
+unknown_1891.png,no tb,none,active_tb
+unknown_416.png,no tb,none,none
+unknown_719.png,tb,"{'xmin': 292.70123, 'ymin': 132.29182, 'width': 151.24478, 'height': 156.82346}",active_tb
+unknown_708.png,no tb,none,none
+unknown_913.png,no tb,none,none
+unknown_2320.png,no tb,none,none
+unknown_2504.png,no tb,none,none
+unknown_1981.png,no tb,none,none
+unknown_1642.png,no tb,none,none
+unknown_2185.png,no tb,none,none
+unknown_1640.png,no tb,none,none
+unknown_331.png,no tb,none,active_tb
+unknown_1045.png,tb,"{'xmin': 110.65384, 'ymin': 35.758617, 'width': 56.246513, 'height': 76.81923}",active_tb
+unknown_512.png,no tb,none,active_tb
+unknown_16.png,tb,"{'xmin': 115.00441, 'ymin': -6.9925666, 'width': 84.46488, 'height': 75.63028}",active_tb
+unknown_958.png,no tb,none,none
+unknown_1220.png,no tb,none,none
+unknown_1706.png,no tb,none,none
+unknown_3064.png,tb,"{'xmin': 62.40214, 'ymin': 28.446829, 'width': 48.45679, 'height': 63.244392}",active_tb
+unknown_80.png,tb,"{'xmin': 145.21803, 'ymin': 48.47289, 'width': 90.90986, 'height': 109.64749}",active_tb
+unknown_693.png,no tb,none,none
+unknown_1424.png,tb,"{'xmin': 97.20217, 'ymin': 46.344864, 'width': 74.297295, 'height': 95.31741}",none
+unknown_3234.png,no tb,none,none
+unknown_215.png,no tb,none,none
+unknown_644.png,no tb,none,active_tb
+unknown_3148.png,no tb,none,none
+unknown_1430.png,no tb,none,none
+unknown_214.png,no tb,none,none
+unknown_1909.png,no tb,none,none
+unknown_3094.png,no tb,none,none
+unknown_3082.png,no tb,none,none
+unknown_2650.png,no tb,none,none
+unknown_2132.png,no tb,none,none
+unknown_2591.png,no tb,none,none
+unknown_1617.png,no tb,none,none
+unknown_460.png,no tb,none,none
+unknown_1929.png,no tb,none,none
+unknown_631.png,no tb,none,none
+unknown_2405.png,no tb,none,none
+unknown_1854.png,no tb,none,none
+unknown_2549.png,no tb,none,none
+unknown_2463.png,no tb,none,latent_tb
+unknown_446.png,no tb,none,none
+unknown_3247.png,tb,"{'xmin': 43.23, 'ymin': 19.76629, 'width': 23.426292, 'height': 28.24774}",none
+unknown_3256.png,no tb,none,none
+unknown_3171.png,tb,"{'xmin': 59.35185, 'ymin': 36.92452, 'width': 40.58427, 'height': 52.741234}",active_tb
+unknown_1669.png,tb,"{'xmin': 144.70007, 'ymin': 71.9849, 'width': 78.99469, 'height': 95.22879}",active_tb
+unknown_1290.png,tb,"{'xmin': 55.470413, 'ymin': 30.183714, 'width': 43.658024, 'height': 51.624035}",active_tb
+unknown_1361.png,no tb,none,none
+unknown_793.png,no tb,none,none
+unknown_661.png,no tb,none,none
+unknown_1412.png,no tb,none,none
+unknown_2173.png,no tb,none,none
+unknown_429.png,no tb,none,none
+unknown_778.png,no tb,none,none
+unknown_2079.png,tb,"{'xmin': 100.67692, 'ymin': 43.157967, 'width': 60.733265, 'height': 71.69589}",active_tb
+unknown_2818.png,no tb,none,none
+unknown_2906.png,no tb,none,none
+unknown_740.png,no tb,none,none
+unknown_2543.png,no tb,none,none
+unknown_2680.png,no tb,none,none
+unknown_1605.png,no tb,none,none
+unknown_325.png,tb,"{'xmin': 41.57108, 'ymin': 26.535608, 'width': 28.050802, 'height': 31.120335}",none
+unknown_3191.png,no tb,none,none
+unknown_1771.png,no tb,none,none
+unknown_2256.png,no tb,none,none
+unknown_3018.png,no tb,none,none
+unknown_2148.png,tb,"{'xmin': 40.42042, 'ymin': 11.167027, 'width': 30.132435, 'height': 33.9198}",none
+unknown_3200.png,no tb,none,none
+unknown_1644.png,no tb,none,none
+unknown_695.png,no tb,none,none
+unknown_2762.png,no tb,none,none
+unknown_1752.png,no tb,none,none
+unknown_35.png,tb,"{'xmin': 206.61594, 'ymin': 95.41731, 'width': 104.48978, 'height': 125.88895}",active_tb
+unknown_2467.png,tb,"{'xmin': 243.61014, 'ymin': 136.28825, 'width': 162.54456, 'height': 161.49826}",active_tb
+unknown_2786.png,tb,"{'xmin': 149.00404, 'ymin': 55.016438, 'width': 92.65732, 'height': 110.00638}",active_tb
+unknown_1469.png,no tb,none,none
+unknown_2066.png,no tb,none,none
+unknown_819.png,no tb,none,none
+unknown_1834.png,no tb,none,none
+unknown_1548.png,no tb,none,none
+unknown_747.png,no tb,none,none
+unknown_822.png,no tb,none,none
+unknown_1192.png,tb,"{'xmin': 167.93906, 'ymin': 74.72854, 'width': 120.42664, 'height': 125.99113}",active_tb
+unknown_2008.png,tb,"{'xmin': 60.763374, 'ymin': 41.211693, 'width': 46.3456, 'height': 59.30172}",none
+unknown_1078.png,no tb,none,none
+unknown_2700.png,no tb,none,none
+unknown_1100.png,tb,"{'xmin': 110.40473, 'ymin': 68.30238, 'width': 62.688583, 'height': 71.271576}",active_tb
+unknown_2656.png,no tb,none,none
+unknown_2535.png,no tb,none,active_tb
+unknown_2772.png,no tb,none,active_tb
+unknown_155.png,tb,"{'xmin': 181.79587, 'ymin': 87.65289, 'width': 102.69994, 'height': 118.3114}",active_tb
+unknown_339.png,no tb,none,none
+unknown_1277.png,no tb,none,none
+unknown_2725.png,no tb,none,none
+unknown_1421.png,no tb,none,none
+unknown_1980.png,tb,"{'xmin': 24.603035, 'ymin': 21.772306, 'width': 15.968188, 'height': 19.763042}",active_tb
+unknown_2207.png,no tb,none,active_tb
+unknown_2518.png,no tb,none,none
+unknown_2087.png,no tb,none,none
+unknown_278.png,no tb,none,none
+unknown_106.png,no tb,none,none
+unknown_580.png,no tb,none,none
+unknown_756.png,no tb,none,none
+unknown_541.png,no tb,none,none
+unknown_1112.png,tb,"{'xmin': 82.35818, 'ymin': 23.176767, 'width': 48.506268, 'height': 61.17824}",none
+unknown_1738.png,no tb,none,none
+unknown_3086.png,tb,"{'xmin': 188.16049, 'ymin': 69.62261, 'width': 89.927925, 'height': 98.154976}",active_tb
+unknown_2913.png,no tb,none,none
+unknown_406.png,no tb,none,none
+unknown_1006.png,no tb,none,none
+unknown_3176.png,no tb,none,none
+unknown_1999.png,no tb,none,none
+unknown_1625.png,no tb,none,none
+unknown_1376.png,no tb,none,none
+unknown_2056.png,no tb,none,none
+unknown_2406.png,no tb,none,none
+unknown_1371.png,tb,"{'xmin': 94.006996, 'ymin': 37.99379, 'width': 51.98761, 'height': 60.355896}",latent_tb
+unknown_907.png,no tb,none,none
+unknown_2396.png,no tb,none,none
+unknown_1174.png,tb,"{'xmin': 141.99687, 'ymin': 55.575825, 'width': 90.32223, 'height': 109.80605}",active_tb
+unknown_1608.png,tb,"{'xmin': 277.10342, 'ymin': 126.11384, 'width': 141.86821, 'height': 160.68839}",active_tb
+unknown_276.png,no tb,none,none
+unknown_1555.png,no tb,none,none
+unknown_2448.png,no tb,none,none
+unknown_74.png,tb,"{'xmin': 213.41336, 'ymin': 95.48487, 'width': 149.49301, 'height': 169.14194}",active_tb
+unknown_2284.png,no tb,none,none
+unknown_97.png,no tb,none,none
+unknown_66.png,no tb,none,none
+unknown_511.png,tb,"{'xmin': 184.89203, 'ymin': 93.32116, 'width': 91.68654, 'height': 112.692474}",active_tb
+unknown_622.png,no tb,none,none
+unknown_834.png,no tb,none,none
+unknown_2031.png,no tb,none,none
+unknown_1543.png,tb,"{'xmin': 255.67134, 'ymin': 110.133484, 'width': 136.77998, 'height': 167.30751}",active_tb
+unknown_748.png,no tb,none,none
+unknown_2100.png,no tb,none,none
+unknown_2419.png,no tb,none,none
+unknown_1584.png,no tb,none,none
+unknown_1855.png,no tb,none,none
+unknown_2128.png,no tb,none,none
+unknown_1323.png,no tb,none,none
+unknown_3012.png,no tb,none,none
+unknown_940.png,tb,"{'xmin': 224.70456, 'ymin': 96.66864, 'width': 115.043236, 'height': 122.18898}",active_tb
+unknown_2401.png,no tb,none,none
+unknown_1172.png,no tb,none,none
+unknown_2068.png,no tb,none,none
+unknown_1116.png,tb,"{'xmin': 227.46895, 'ymin': 81.02329, 'width': 146.82318, 'height': 171.50966}",active_tb
+unknown_114.png,no tb,none,none
+unknown_1239.png,no tb,none,none
+unknown_377.png,no tb,none,none
+unknown_1082.png,no tb,none,none
+unknown_2050.png,no tb,none,none
+unknown_2579.png,no tb,none,active_tb
+unknown_2890.png,no tb,none,none
+unknown_804.png,no tb,none,none
+unknown_884.png,no tb,none,none
+unknown_167.png,no tb,none,none
+unknown_211.png,no tb,none,none
+unknown_1285.png,no tb,none,active_tb
+unknown_307.png,no tb,none,none
+unknown_1003.png,tb,"{'xmin': 241.15135, 'ymin': 83.89451, 'width': 135.93861, 'height': 165.69101}",active_tb
+unknown_1303.png,no tb,none,none
+unknown_2362.png,no tb,none,active_tb
+unknown_1232.png,no tb,none,none
+unknown_3137.png,no tb,none,none
+unknown_1425.png,no tb,none,none
+unknown_2514.png,no tb,none,none
+unknown_1415.png,no tb,none,none
+unknown_2851.png,no tb,none,none
+unknown_1037.png,no tb,none,none
+unknown_1885.png,no tb,none,none
+unknown_1717.png,no tb,none,none
+unknown_918.png,no tb,none,none
+unknown_633.png,no tb,none,none
+unknown_1381.png,no tb,none,none
+unknown_1490.png,no tb,none,none
+unknown_562.png,no tb,none,active_tb
+unknown_785.png,no tb,none,none
+unknown_70.png,no tb,none,none
+unknown_1171.png,no tb,none,none
+unknown_1652.png,no tb,none,active_tb
+unknown_2219.png,no tb,none,none
+unknown_1484.png,no tb,none,none
+unknown_2135.png,no tb,none,none
+unknown_2613.png,no tb,none,none
+unknown_1092.png,tb,"{'xmin': 254.74197, 'ymin': 123.55455, 'width': 137.0739, 'height': 152.87653}",active_tb
+unknown_2187.png,no tb,none,none
+unknown_1044.png,no tb,none,none
+unknown_559.png,no tb,none,none
+unknown_698.png,no tb,none,none
+unknown_2961.png,no tb,none,none
+unknown_1845.png,no tb,none,none
+unknown_2197.png,no tb,none,none
+unknown_2881.png,no tb,none,none
+unknown_745.png,no tb,none,none
+unknown_722.png,tb,"{'xmin': 254.20953, 'ymin': 76.23624, 'width': 141.83827, 'height': 150.17523}",active_tb
+unknown_2953.png,no tb,none,active_tb
+unknown_1258.png,no tb,none,none
+unknown_3081.png,no tb,none,none
+unknown_1499.png,tb,"{'xmin': 69.51964, 'ymin': 38.273724, 'width': 66.13655, 'height': 71.44505}",active_tb
+unknown_1899.png,no tb,none,none
+unknown_899.png,no tb,none,none
+unknown_846.png,no tb,none,none
+unknown_2058.png,tb,"{'xmin': 114.48931, 'ymin': 55.87256, 'width': 53.42754, 'height': 67.89298}",active_tb
+unknown_2508.png,no tb,none,none
+unknown_532.png,no tb,none,active_tb
+unknown_1947.png,no tb,none,none
+unknown_1912.png,no tb,none,none
+unknown_469.png,no tb,none,active_tb
+unknown_876.png,tb,"{'xmin': 66.25588, 'ymin': 25.28913, 'width': 45.320618, 'height': 55.249138}",none
+unknown_750.png,no tb,none,none
+unknown_1896.png,no tb,none,none
+unknown_2305.png,no tb,none,none
+unknown_2350.png,no tb,none,none
+unknown_949.png,no tb,none,none
+unknown_711.png,no tb,none,none
+unknown_3128.png,no tb,none,none
+unknown_2090.png,no tb,none,none
+unknown_2898.png,no tb,none,none
+unknown_557.png,no tb,none,none
+unknown_1722.png,no tb,none,none
+unknown_1028.png,tb,"{'xmin': 101.754234, 'ymin': 47.425755, 'width': 71.96221, 'height': 94.46986}",active_tb
+unknown_289.png,no tb,none,none
+unknown_1552.png,no tb,none,none
+unknown_3037.png,tb,"{'xmin': 109.404205, 'ymin': 48.909782, 'width': 69.813835, 'height': 87.06693}",active_tb
+unknown_1851.png,no tb,none,none
+unknown_895.png,no tb,none,none
+unknown_3251.png,no tb,none,none
+unknown_41.png,no tb,none,none
+unknown_1420.png,no tb,none,none
+unknown_1322.png,no tb,none,none
+unknown_1071.png,no tb,none,none
+unknown_2983.png,tb,"{'xmin': 227.0103, 'ymin': 71.10748, 'width': 144.07097, 'height': 165.49165}",latent_tb
+unknown_1397.png,no tb,none,none
+unknown_2969.png,no tb,none,none
+unknown_2147.png,no tb,none,none
+unknown_2763.png,no tb,none,none
+unknown_2397.png,no tb,none,none
+unknown_997.png,tb,"{'xmin': 201.46269, 'ymin': 79.227234, 'width': 124.79923, 'height': 128.3146}",active_tb
+unknown_1653.png,no tb,none,none
+unknown_1378.png,no tb,none,none
+unknown_2136.png,no tb,none,none
+unknown_2053.png,no tb,none,none
+unknown_348.png,no tb,none,none
+unknown_2269.png,no tb,none,none
+unknown_2746.png,no tb,none,none
+unknown_2963.png,no tb,none,none
+unknown_3203.png,no tb,none,none
+unknown_1162.png,no tb,none,none
+unknown_40.png,no tb,none,none
+unknown_1485.png,no tb,none,none
+unknown_118.png,tb,"{'xmin': 162.78299, 'ymin': 87.165375, 'width': 96.0533, 'height': 106.946106}",active_tb
+unknown_1486.png,no tb,none,none
+unknown_959.png,no tb,none,none
+unknown_3087.png,no tb,none,none
+unknown_1280.png,tb,"{'xmin': 127.03686, 'ymin': 49.37558, 'width': 73.724464, 'height': 90.132286}",active_tb
+unknown_256.png,no tb,none,none
+unknown_2726.png,no tb,none,none
+unknown_2791.png,tb,"{'xmin': 184.952, 'ymin': 54.91161, 'width': 115.929886, 'height': 128.66852}",active_tb
+unknown_2370.png,no tb,none,none
+unknown_391.png,no tb,none,none
+unknown_1218.png,no tb,none,none
+unknown_1793.png,no tb,none,none
+unknown_3053.png,no tb,none,none
+unknown_2293.png,tb,"{'xmin': 228.5729, 'ymin': 94.62848, 'width': 164.59764, 'height': 218.40125}",active_tb
+unknown_1815.png,no tb,none,none
+unknown_935.png,no tb,none,none
+unknown_1898.png,no tb,none,none
+unknown_2259.png,no tb,none,none
+unknown_1502.png,no tb,none,none
+unknown_492.png,no tb,none,none
+unknown_3021.png,no tb,none,none
+unknown_1255.png,tb,"{'xmin': 232.9427, 'ymin': 155.90561, 'width': 149.25331, 'height': 161.64029}",active_tb
+unknown_1610.png,no tb,none,none
+unknown_2328.png,no tb,none,none
+unknown_45.png,no tb,none,none
+unknown_2444.png,no tb,none,none
+unknown_1115.png,no tb,none,none
+unknown_2505.png,no tb,none,none
+unknown_1922.png,tb,"{'xmin': 107.07383, 'ymin': 41.153618, 'width': 76.19906, 'height': 95.67791}",none
+unknown_1467.png,tb,"{'xmin': 90.81628, 'ymin': 30.221128, 'width': 57.979305, 'height': 70.917854}",active_tb
+unknown_2740.png,no tb,none,none
+unknown_3166.png,no tb,none,none
+unknown_2487.png,tb,"{'xmin': 235.20451, 'ymin': 87.10356, 'width': 151.36156, 'height': 167.35794}",active_tb
+unknown_2239.png,tb,"{'xmin': 165.91147, 'ymin': 83.6208, 'width': 98.65688, 'height': 106.600266}",active_tb
+unknown_861.png,no tb,none,none
+unknown_853.png,no tb,none,none
+unknown_1523.png,no tb,none,none
+unknown_3091.png,no tb,none,none
+unknown_26.png,no tb,none,none
+unknown_970.png,no tb,none,none
+unknown_2967.png,no tb,none,none
+unknown_1862.png,no tb,none,none
+unknown_979.png,no tb,none,none
+unknown_65.png,tb,"{'xmin': 196.2399, 'ymin': 87.35855, 'width': 134.90512, 'height': 146.54884}",active_tb
+unknown_2242.png,no tb,none,none
+unknown_412.png,no tb,none,none
+unknown_2072.png,no tb,none,none
+unknown_233.png,tb,"{'xmin': 186.53879, 'ymin': 79.04353, 'width': 140.80269, 'height': 174.01114}",active_tb
+unknown_720.png,tb,"{'xmin': 245.09642, 'ymin': 102.377396, 'width': 134.77704, 'height': 171.58478}",active_tb
+unknown_2799.png,no tb,none,none
+unknown_1779.png,no tb,none,none
+unknown_2393.png,no tb,none,none
+unknown_2027.png,no tb,none,none
+unknown_2375.png,no tb,none,none
+unknown_1230.png,no tb,none,none
+unknown_1744.png,tb,"{'xmin': 161.35895, 'ymin': 45.921455, 'width': 88.259155, 'height': 96.8145}",active_tb
+unknown_1159.png,tb,"{'xmin': 161.16519, 'ymin': 57.682846, 'width': 69.54358, 'height': 74.925934}",active_tb
+unknown_829.png,no tb,none,active_tb
+unknown_553.png,no tb,none,none
+unknown_2186.png,no tb,none,none
+unknown_2660.png,tb,"{'xmin': 235.55618, 'ymin': 130.99957, 'width': 166.14833, 'height': 184.82184}",active_tb
+unknown_1196.png,no tb,none,none
+unknown_3113.png,no tb,none,none
+unknown_2721.png,no tb,none,none
+unknown_1578.png,no tb,none,none
+unknown_2426.png,tb,"{'xmin': 169.90567, 'ymin': 75.52174, 'width': 116.39444, 'height': 143.27956}",active_tb
+unknown_2083.png,tb,"{'xmin': 56.53473, 'ymin': 49.30799, 'width': 52.705982, 'height': 58.10267}",active_tb
+unknown_32.png,no tb,none,none
+unknown_1198.png,tb,"{'xmin': 135.43225, 'ymin': 35.243587, 'width': 105.86833, 'height': 117.180115}",active_tb
+unknown_2588.png,no tb,none,none
+unknown_2489.png,no tb,none,none
+unknown_1883.png,no tb,none,none
+unknown_1073.png,no tb,none,none
+unknown_1178.png,no tb,none,none
+unknown_776.png,no tb,none,none
+unknown_2703.png,tb,"{'xmin': 129.78836, 'ymin': 56.799118, 'width': 69.01834, 'height': 73.497765}",active_tb
+unknown_836.png,no tb,none,none
+unknown_1790.png,no tb,none,none
+unknown_2107.png,no tb,none,active_tb
+unknown_1161.png,no tb,none,none
+unknown_304.png,no tb,none,none
+unknown_67.png,no tb,none,none
+unknown_255.png,no tb,none,none
+unknown_2160.png,no tb,none,none
+unknown_2164.png,no tb,none,none
+unknown_79.png,no tb,none,none
+unknown_316.png,tb,"{'xmin': 55.48687, 'ymin': 25.181686, 'width': 40.183723, 'height': 53.928627}",active_tb
+unknown_2737.png,no tb,none,active_tb
+unknown_72.png,tb,"{'xmin': 244.70651, 'ymin': 91.621, 'width': 152.88911, 'height': 175.15738}",active_tb
+unknown_152.png,no tb,none,none
+unknown_540.png,no tb,none,none
+unknown_1940.png,no tb,none,active_tb
+unknown_2193.png,no tb,none,none
+unknown_969.png,no tb,none,none
+unknown_2583.png,no tb,none,none
+unknown_2255.png,no tb,none,none
+unknown_431.png,no tb,none,none
+unknown_933.png,no tb,none,none
+unknown_2519.png,no tb,none,none
+unknown_954.png,no tb,none,none
+unknown_2023.png,no tb,none,none
+unknown_3179.png,no tb,none,none
+unknown_1716.png,no tb,none,none
+unknown_3056.png,no tb,none,none
+unknown_683.png,no tb,none,none
+unknown_5.png,no tb,none,none
+unknown_125.png,tb,"{'xmin': 204.68634, 'ymin': 122.69798, 'width': 114.1669, 'height': 128.72247}",active_tb
+unknown_2641.png,no tb,none,none
+unknown_2119.png,no tb,none,none
+unknown_2813.png,no tb,none,none
+unknown_1446.png,no tb,none,none
+unknown_3185.png,no tb,none,none
+unknown_1422.png,no tb,none,none
+unknown_1342.png,no tb,none,none
+unknown_1598.png,no tb,none,none
+unknown_1441.png,no tb,none,none
+unknown_99.png,no tb,none,none
+unknown_2581.png,tb,"{'xmin': 139.79755, 'ymin': 73.11238, 'width': 73.1215, 'height': 85.25847}",active_tb
+unknown_188.png,no tb,none,active_tb
+unknown_1742.png,no tb,none,none
+unknown_823.png,no tb,none,none
+unknown_121.png,tb,"{'xmin': 63.38314, 'ymin': 17.544125, 'width': 96.57517, 'height': 114.33706}",latent_tb
+unknown_1288.png,no tb,none,none
+unknown_1575.png,no tb,none,active_tb
+unknown_3124.png,no tb,none,none
+unknown_1659.png,no tb,none,none
+unknown_1309.png,no tb,none,none
+unknown_1348.png,no tb,none,active_tb
+unknown_971.png,tb,"{'xmin': 148.22333, 'ymin': 63.722458, 'width': 111.3017, 'height': 137.8968}",active_tb
+unknown_2308.png,no tb,none,none
+unknown_2036.png,no tb,none,none
+unknown_1483.png,tb,"{'xmin': 200.65631, 'ymin': 82.02719, 'width': 82.26103, 'height': 107.62355}",active_tb
+unknown_2960.png,no tb,none,none
+unknown_1533.png,no tb,none,none
+unknown_994.png,no tb,none,none
+unknown_2028.png,no tb,none,none
+unknown_329.png,tb,"{'xmin': 124.077194, 'ymin': 35.358814, 'width': 90.91695, 'height': 106.56562}",active_tb
+unknown_1970.png,no tb,none,none
+unknown_2864.png,tb,"{'xmin': 128.75046, 'ymin': 53.749657, 'width': 93.05255, 'height': 113.031906}",active_tb
+unknown_2290.png,no tb,none,none
+unknown_3155.png,no tb,none,none
+unknown_927.png,no tb,none,none
+unknown_2941.png,no tb,none,none
+unknown_2357.png,no tb,none,none
+unknown_175.png,no tb,none,none
+unknown_837.png,no tb,none,none
+unknown_401.png,no tb,none,none
+unknown_2916.png,no tb,none,none
+unknown_1451.png,no tb,none,none
+unknown_1229.png,no tb,none,latent_tb
+unknown_398.png,no tb,none,none
+unknown_2112.png,no tb,none,none
+unknown_3169.png,no tb,none,none
+unknown_2661.png,no tb,none,none
+unknown_12.png,no tb,none,none
+unknown_973.png,no tb,none,none
+unknown_2739.png,no tb,none,none
+unknown_1189.png,no tb,none,none
+unknown_2499.png,no tb,none,none
+unknown_904.png,no tb,none,none
+unknown_3232.png,no tb,none,none
+unknown_2545.png,no tb,none,none
+unknown_1410.png,no tb,none,none
+unknown_2639.png,no tb,none,none
+unknown_845.png,tb,"{'xmin': 145.26826, 'ymin': 54.083843, 'width': 89.35921, 'height': 106.594376}",active_tb
+unknown_466.png,no tb,none,none
+unknown_1386.png,no tb,none,none
+unknown_3192.png,no tb,none,none
+unknown_471.png,no tb,none,none
+unknown_1680.png,no tb,none,none
+unknown_3151.png,no tb,none,none
+unknown_3109.png,tb,"{'xmin': 154.21846, 'ymin': 71.70633, 'width': 105.79382, 'height': 130.66402}",active_tb
+unknown_1211.png,no tb,none,none
+unknown_2323.png,no tb,none,none
+unknown_1812.png,no tb,none,none
+unknown_760.png,no tb,none,none
+unknown_1140.png,tb,"{'xmin': 271.51892, 'ymin': 143.68324, 'width': 142.59488, 'height': 180.19943}",active_tb
+unknown_1289.png,no tb,none,none
+unknown_238.png,no tb,none,none
+unknown_3262.png,no tb,none,none
+unknown_2995.png,no tb,none,none
+unknown_2443.png,no tb,none,none
+unknown_232.png,no tb,none,none
+unknown_3134.png,no tb,none,none
+unknown_2547.png,no tb,none,none
+unknown_2263.png,no tb,none,none
+unknown_311.png,no tb,none,none
+unknown_2024.png,no tb,none,none
+unknown_2353.png,no tb,none,none
+unknown_60.png,no tb,none,none
+unknown_987.png,no tb,none,none
+unknown_796.png,tb,"{'xmin': 249.25687, 'ymin': 101.87322, 'width': 120.53347, 'height': 148.17888}",active_tb
+unknown_2428.png,no tb,none,none
+unknown_687.png,no tb,none,active_tb
+unknown_2573.png,no tb,none,none
+unknown_2216.png,no tb,none,none
+unknown_2551.png,no tb,none,none
+unknown_478.png,no tb,none,none
+unknown_1823.png,no tb,none,none
+unknown_2878.png,no tb,none,none
+unknown_1577.png,no tb,none,none
+unknown_520.png,no tb,none,none
+unknown_2578.png,no tb,none,none
+unknown_2180.png,no tb,none,active_tb
+unknown_1360.png,no tb,none,none
+unknown_184.png,no tb,none,none
+unknown_2111.png,no tb,none,none
+unknown_2892.png,no tb,none,none
+unknown_3163.png,tb,"{'xmin': 220.86224, 'ymin': 97.99484, 'width': 166.9874, 'height': 183.27649}",active_tb
+unknown_2541.png,no tb,none,none
+unknown_2077.png,no tb,none,none
+unknown_3034.png,tb,"{'xmin': 179.7133, 'ymin': 68.39107, 'width': 130.42308, 'height': 163.0807}",active_tb
+unknown_321.png,tb,"{'xmin': 222.73303, 'ymin': 93.58049, 'width': 141.00787, 'height': 168.95453}",active_tb
+unknown_410.png,no tb,none,none
+unknown_352.png,no tb,none,none
+unknown_2904.png,no tb,none,none
+unknown_3100.png,no tb,none,none
+unknown_3168.png,no tb,none,none
+unknown_1281.png,tb,"{'xmin': 229.2127, 'ymin': 82.2158, 'width': 147.03328, 'height': 174.24435}",active_tb
+unknown_1335.png,no tb,none,none
+unknown_1760.png,no tb,none,none
+unknown_386.png,no tb,none,none
+unknown_694.png,tb,"{'xmin': 169.93097, 'ymin': 78.72177, 'width': 122.13208, 'height': 130.73743}",active_tb
+unknown_703.png,no tb,none,none
+unknown_1761.png,no tb,none,none
+unknown_1223.png,no tb,none,none
+unknown_1048.png,no tb,none,none
+unknown_2831.png,no tb,none,none
+unknown_3159.png,no tb,none,none
+unknown_2352.png,tb,"{'xmin': 246.82764, 'ymin': 116.978134, 'width': 181.76288, 'height': 208.49951}",active_tb
+unknown_2304.png,tb,"{'xmin': 145.24544, 'ymin': 70.04503, 'width': 106.94717, 'height': 126.54529}",latent_tb
+unknown_2142.png,no tb,none,none
+unknown_2337.png,no tb,none,none
+unknown_2728.png,no tb,none,none
+unknown_3084.png,no tb,none,none
+unknown_2509.png,no tb,none,none
+unknown_659.png,no tb,none,none
+unknown_2480.png,tb,"{'xmin': 180.5174, 'ymin': 125.680725, 'width': 120.3452, 'height': 116.23497}",active_tb
+unknown_2167.png,no tb,none,none
+unknown_1593.png,no tb,none,none
+unknown_2306.png,no tb,none,none
+unknown_1975.png,no tb,none,none
+unknown_2314.png,no tb,none,none
+unknown_1283.png,no tb,none,none
+unknown_2798.png,no tb,none,none
+unknown_1727.png,no tb,none,none
+unknown_2602.png,no tb,none,none
+unknown_673.png,no tb,none,none
+unknown_1098.png,tb,"{'xmin': 91.94915, 'ymin': 29.762175, 'width': 52.26801, 'height': 66.59472}",active_tb
+unknown_179.png,no tb,none,none
+unknown_843.png,tb,"{'xmin': 41.799244, 'ymin': 26.004961, 'width': 32.168617, 'height': 32.455444}",active_tb
+unknown_1267.png,tb,"{'xmin': 240.92429, 'ymin': 101.33313, 'width': 131.23712, 'height': 158.62596}",active_tb
+unknown_589.png,no tb,none,none
+unknown_3265.png,no tb,none,none
+unknown_404.png,no tb,none,none
+unknown_857.png,no tb,none,none
+unknown_2731.png,no tb,none,none
+unknown_2060.png,no tb,none,none
+unknown_1937.png,no tb,none,active_tb
+unknown_2176.png,no tb,none,active_tb
+unknown_497.png,no tb,none,none
+unknown_2212.png,no tb,none,none
+unknown_1439.png,no tb,none,none
+unknown_692.png,tb,"{'xmin': 160.28354, 'ymin': 60.32852, 'width': 112.18762, 'height': 131.92596}",active_tb
+unknown_3101.png,tb,"{'xmin': 98.68893, 'ymin': 26.561369, 'width': 75.23595, 'height': 83.08993}",active_tb
+unknown_2057.png,no tb,none,none
+unknown_1292.png,no tb,none,none
+unknown_2873.png,no tb,none,none
+unknown_449.png,no tb,none,none
+unknown_64.png,no tb,none,none
+unknown_2450.png,no tb,none,none
+unknown_2838.png,no tb,none,none
+unknown_1458.png,no tb,none,none
+unknown_2612.png,no tb,none,none
+unknown_3016.png,no tb,none,none
+unknown_300.png,tb,"{'xmin': 248.12064, 'ymin': 108.33433, 'width': 130.21971, 'height': 163.19484}",active_tb
+unknown_1321.png,no tb,none,none
+unknown_3268.png,no tb,none,none
+unknown_37.png,tb,"{'xmin': 72.60201, 'ymin': 31.150917, 'width': 49.309826, 'height': 50.281128}",active_tb
+unknown_1015.png,no tb,none,none
+unknown_810.png,tb,"{'xmin': 211.54762, 'ymin': 94.84839, 'width': 103.835625, 'height': 122.416046}",active_tb
+unknown_145.png,no tb,none,none
+unknown_657.png,no tb,none,none
+unknown_2383.png,tb,"{'xmin': 57.315178, 'ymin': 17.632126, 'width': 37.13855, 'height': 44.138176}",active_tb
+unknown_448.png,no tb,none,none
+unknown_3211.png,tb,"{'xmin': 261.32156, 'ymin': 100.053055, 'width': 151.20874, 'height': 165.79782}",active_tb
+unknown_1886.png,no tb,none,none
+unknown_3005.png,no tb,none,none
+unknown_3008.png,no tb,none,none
+unknown_2657.png,no tb,none,none
+unknown_2339.png,tb,"{'xmin': 196.49547, 'ymin': 75.10535, 'width': 110.18268, 'height': 131.24353}",active_tb
+unknown_1278.png,no tb,none,none
+unknown_3271.png,no tb,none,none
+unknown_3110.png,no tb,none,none
+unknown_723.png,no tb,none,none
+unknown_2278.png,no tb,none,none
+unknown_3142.png,no tb,none,none
+unknown_1911.png,tb,"{'xmin': 196.64616, 'ymin': 50.512825, 'width': 108.05311, 'height': 125.61261}",active_tb
+unknown_674.png,no tb,none,none
+unknown_770.png,no tb,none,none
+unknown_268.png,tb,"{'xmin': 261.31903, 'ymin': 148.0767, 'width': 155.18251, 'height': 184.64217}",active_tb
+unknown_3119.png,tb,"{'xmin': 81.45044, 'ymin': 24.93601, 'width': 48.295666, 'height': 58.662365}",active_tb
+unknown_197.png,no tb,none,none
+unknown_809.png,no tb,none,none
+unknown_1551.png,no tb,none,none
+unknown_3139.png,no tb,none,none
+unknown_1626.png,no tb,none,none
+unknown_1173.png,no tb,none,none
+unknown_2678.png,tb,"{'xmin': 183.15372, 'ymin': 116.102684, 'width': 120.77161, 'height': 150.05302}",active_tb
+unknown_2258.png,no tb,none,none
+unknown_1160.png,no tb,none,none
+unknown_1573.png,no tb,none,none
+unknown_2564.png,no tb,none,none
+unknown_2492.png,no tb,none,none
+unknown_1566.png,no tb,none,none
+unknown_2005.png,no tb,none,none
+unknown_1751.png,tb,"{'xmin': 274.13385, 'ymin': 111.16794, 'width': 143.56009, 'height': 174.56792}",active_tb
+unknown_1582.png,no tb,none,none
+unknown_2002.png,no tb,none,none
+unknown_1576.png,tb,"{'xmin': 40.019524, 'ymin': 18.551489, 'width': 30.682407, 'height': 40.561184}",none
+unknown_1368.png,no tb,none,none
+unknown_340.png,tb,"{'xmin': 186.88647, 'ymin': 77.474594, 'width': 121.730934, 'height': 150.13974}",active_tb
+unknown_790.png,no tb,none,none
+unknown_408.png,no tb,none,none
+unknown_3011.png,tb,"{'xmin': 194.65128, 'ymin': 114.5948, 'width': 117.96329, 'height': 113.28501}",active_tb
+unknown_1202.png,tb,"{'xmin': 81.475784, 'ymin': 31.04292, 'width': 62.25617, 'height': 81.00127}",active_tb
+unknown_2183.png,no tb,none,none
+unknown_1029.png,no tb,none,none
+unknown_1714.png,no tb,none,none
+unknown_2620.png,no tb,none,none
+unknown_3103.png,no tb,none,none
+unknown_548.png,no tb,none,none
+unknown_69.png,no tb,none,none
+unknown_228.png,no tb,none,none
+unknown_246.png,no tb,none,none
+unknown_3030.png,tb,"{'xmin': 258.07306, 'ymin': 88.95952, 'width': 171.9692, 'height': 213.47104}",active_tb
+unknown_2546.png,no tb,none,none
+unknown_1114.png,no tb,none,none
+unknown_1339.png,tb,"{'xmin': 232.28677, 'ymin': 120.93025, 'width': 130.98042, 'height': 156.96246}",active_tb
+unknown_2522.png,tb,"{'xmin': 263.92606, 'ymin': 125.1096, 'width': 198.9305, 'height': 233.89421}",active_tb
+unknown_2883.png,no tb,none,none
+unknown_813.png,no tb,none,none
+unknown_1291.png,no tb,none,none
+unknown_1273.png,no tb,none,none
+unknown_2540.png,no tb,none,active_tb
+unknown_344.png,no tb,none,none
+unknown_1059.png,no tb,none,none
+unknown_2074.png,no tb,none,none
+unknown_1463.png,no tb,none,none
+unknown_2122.png,no tb,none,none
+unknown_358.png,no tb,none,none
+unknown_6.png,no tb,none,none
+unknown_2486.png,no tb,none,none
+unknown_2633.png,no tb,none,none
+unknown_1982.png,tb,"{'xmin': 284.03394, 'ymin': 117.6869, 'width': 158.59451, 'height': 183.5696}",active_tb
+unknown_3090.png,no tb,none,none
+unknown_2779.png,no tb,none,none
+unknown_995.png,no tb,none,none
+unknown_2832.png,no tb,none,none
+unknown_9.png,no tb,none,none
+unknown_2165.png,no tb,none,none
+unknown_3105.png,no tb,none,none
+unknown_468.png,no tb,none,none
+unknown_3255.png,tb,"{'xmin': 193.2782, 'ymin': 57.097397, 'width': 105.84192, 'height': 131.21017}",active_tb
+unknown_1801.png,no tb,none,none
+unknown_241.png,tb,"{'xmin': 95.344475, 'ymin': 41.695877, 'width': 58.41052, 'height': 67.73832}",active_tb
+unknown_2369.png,no tb,none,none
+unknown_2457.png,no tb,none,none
+unknown_2496.png,no tb,none,none
+unknown_2322.png,no tb,none,none
+unknown_1848.png,no tb,none,none
+unknown_3106.png,no tb,none,none
+unknown_1496.png,no tb,none,none
+unknown_1908.png,no tb,none,none
+unknown_2694.png,no tb,none,none
+unknown_3281.png,no tb,none,none
+unknown_473.png,no tb,none,none
+unknown_2347.png,no tb,none,none
+unknown_1905.png,no tb,none,none
+unknown_593.png,no tb,none,none
+unknown_2679.png,no tb,none,none
+unknown_3298.png,no tb,none,none
+unknown_3112.png,no tb,none,none
+unknown_2920.png,no tb,none,active_tb
+unknown_336.png,no tb,none,none
+unknown_3224.png,no tb,none,none
+unknown_2750.png,no tb,none,none
+unknown_600.png,no tb,none,none
+unknown_590.png,no tb,none,none
+unknown_2664.png,no tb,none,none
+unknown_419.png,tb,"{'xmin': 275.56503, 'ymin': 114.42481, 'width': 189.17738, 'height': 222.08145}",active_tb
+unknown_806.png,no tb,none,none
+unknown_1847.png,tb,"{'xmin': 59.11768, 'ymin': 11.143111, 'width': 39.265232, 'height': 51.565865}",none
+unknown_1227.png,no tb,none,none
+unknown_1489.png,no tb,none,none
+unknown_2277.png,tb,"{'xmin': 219.90146, 'ymin': 79.40634, 'width': 140.97482, 'height': 165.26541}",active_tb
+unknown_220.png,no tb,none,none
+unknown_504.png,no tb,none,none
+unknown_3040.png,no tb,none,none
+unknown_1133.png,no tb,none,none
+unknown_1383.png,no tb,none,none
+unknown_235.png,no tb,none,none
+unknown_2262.png,no tb,none,none
+unknown_2069.png,no tb,none,none
+unknown_613.png,no tb,none,none
+unknown_3213.png,no tb,none,none
+unknown_1740.png,tb,"{'xmin': 100.02132, 'ymin': 38.90484, 'width': 66.40519, 'height': 85.674385}",none
+unknown_672.png,no tb,none,none
+unknown_93.png,no tb,none,none
+unknown_757.png,no tb,none,none
+unknown_1715.png,tb,"{'xmin': 213.90738, 'ymin': 97.58719, 'width': 138.54633, 'height': 165.65318}",active_tb
+unknown_903.png,tb,"{'xmin': 173.20105, 'ymin': 100.79188, 'width': 107.60739, 'height': 105.13205}",active_tb
+unknown_1695.png,tb,"{'xmin': 318.7774, 'ymin': 130.92436, 'width': 189.18541, 'height': 206.98749}",active_tb
+unknown_423.png,no tb,none,none
+unknown_2609.png,no tb,none,none
+unknown_2622.png,no tb,none,none
+unknown_1658.png,no tb,none,none
+unknown_1879.png,no tb,none,none
+unknown_1917.png,no tb,none,none
+unknown_1612.png,tb,"{'xmin': 87.58848, 'ymin': 25.343828, 'width': 85.11741, 'height': 72.73955}",active_tb
+unknown_2662.png,no tb,none,none
+unknown_2498.png,no tb,none,none
+unknown_1018.png,no tb,none,none
+unknown_663.png,no tb,none,none
+unknown_2623.png,no tb,none,none
+unknown_112.png,no tb,none,none
+unknown_1408.png,no tb,none,none
+unknown_1394.png,tb,"{'xmin': 61.616535, 'ymin': 22.309706, 'width': 46.59943, 'height': 46.915115}",active_tb
+unknown_1503.png,no tb,none,none
+unknown_2178.png,no tb,none,none
+unknown_1356.png,tb,"{'xmin': 168.8835, 'ymin': 45.07493, 'width': 82.24034, 'height': 92.88832}",active_tb
+unknown_789.png,tb,"{'xmin': 75.47352, 'ymin': 41.17557, 'width': 79.51271, 'height': 80.668304}",active_tb
+unknown_638.png,no tb,none,none
+unknown_2035.png,no tb,none,none
+unknown_1600.png,no tb,none,none
+unknown_2849.png,no tb,none,none
+unknown_1620.png,no tb,none,none
+unknown_885.png,no tb,none,active_tb
+unknown_3272.png,no tb,none,none
+unknown_1007.png,no tb,none,none
+unknown_2782.png,no tb,none,none
+unknown_1242.png,no tb,none,none
+unknown_1186.png,no tb,none,none
+unknown_380.png,no tb,none,none
+unknown_1597.png,no tb,none,none
+unknown_2243.png,no tb,none,none
+unknown_1012.png,no tb,none,none
+unknown_585.png,no tb,none,none
+unknown_1673.png,no tb,none,none
+unknown_2767.png,no tb,none,none
+unknown_1840.png,no tb,none,active_tb
+unknown_372.png,tb,"{'xmin': 86.01156, 'ymin': 43.480873, 'width': 41.002186, 'height': 56.046753}",active_tb
+unknown_1318.png,no tb,none,none
+unknown_425.png,tb,"{'xmin': 52.722534, 'ymin': 27.15634, 'width': 24.76619, 'height': 30.343666}",active_tb
+unknown_2702.png,no tb,none,none
+unknown_1314.png,no tb,none,none
+unknown_869.png,no tb,none,none
+unknown_2459.png,no tb,none,active_tb
+unknown_2944.png,no tb,none,none
+unknown_2275.png,no tb,none,none
+unknown_2179.png,no tb,none,none
+unknown_1311.png,no tb,none,none
+unknown_1664.png,no tb,none,none
+unknown_587.png,tb,"{'xmin': 115.94471, 'ymin': 53.348137, 'width': 90.68306, 'height': 104.51639}",active_tb
+unknown_1319.png,tb,"{'xmin': 211.79602, 'ymin': 97.228546, 'width': 117.96756, 'height': 127.42883}",active_tb
+unknown_1284.png,no tb,none,none
+unknown_2647.png,no tb,none,none
+unknown_1487.png,no tb,none,none
+unknown_1614.png,tb,"{'xmin': 269.34656, 'ymin': 99.03583, 'width': 157.38979, 'height': 167.82559}",active_tb
+unknown_415.png,no tb,none,none
+unknown_1106.png,tb,"{'xmin': 57.753765, 'ymin': 24.15435, 'width': 39.524048, 'height': 54.68112}",active_tb
+unknown_1860.png,no tb,none,none
+unknown_849.png,no tb,none,none
+unknown_2666.png,no tb,none,none
+unknown_701.png,no tb,none,none
+unknown_3077.png,no tb,none,none
+unknown_2154.png,no tb,none,none
+unknown_1135.png,no tb,none,none
+unknown_2822.png,no tb,none,none
+unknown_1871.png,no tb,none,none
+unknown_888.png,tb,"{'xmin': 107.14272, 'ymin': 69.85647, 'width': 58.060127, 'height': 65.934715}",none
+unknown_2422.png,tb,"{'xmin': 108.30563, 'ymin': 48.36753, 'width': 68.15231, 'height': 70.71425}",active_tb
+unknown_731.png,tb,"{'xmin': 123.41358, 'ymin': 56.63354, 'width': 87.90967, 'height': 94.33507}",latent_tb
+unknown_494.png,no tb,none,none
+unknown_1719.png,tb,"{'xmin': 68.75507, 'ymin': 43.009308, 'width': 40.427322, 'height': 49.084106}",latent_tb
+unknown_3193.png,no tb,none,none
+unknown_111.png,no tb,none,none
+unknown_1712.png,no tb,none,none
+unknown_816.png,no tb,none,none
+unknown_2440.png,no tb,none,none
+unknown_430.png,no tb,none,none
+unknown_963.png,no tb,none,none
+unknown_594.png,no tb,none,none
+unknown_1882.png,no tb,none,none
+unknown_308.png,no tb,none,none
+unknown_709.png,no tb,none,none
+unknown_3290.png,no tb,none,none
+unknown_1588.png,tb,"{'xmin': 227.43762, 'ymin': 82.62875, 'width': 121.7482, 'height': 144.16003}",active_tb
+unknown_2569.png,tb,"{'xmin': 175.4441, 'ymin': 88.3924, 'width': 94.02855, 'height': 102.67675}",active_tb
+unknown_868.png,no tb,none,none
+unknown_2825.png,no tb,none,none
+unknown_1650.png,no tb,none,none
+unknown_182.png,no tb,none,active_tb
+unknown_2802.png,no tb,none,none
+unknown_2181.png,no tb,none,none
+unknown_583.png,no tb,none,active_tb
+unknown_1000.png,tb,"{'xmin': 294.8757, 'ymin': 120.486, 'width': 174.78935, 'height': 238.79648}",active_tb
+unknown_132.png,tb,"{'xmin': 180.77347, 'ymin': 90.44279, 'width': 90.04773, 'height': 113.54352}",none
+unknown_2705.png,no tb,none,none
+unknown_1710.png,tb,"{'xmin': 172.42412, 'ymin': 57.91749, 'width': 122.46315, 'height': 142.53479}",active_tb
+unknown_388.png,no tb,none,none
+unknown_2392.png,no tb,none,none
+unknown_2257.png,no tb,none,none
+unknown_1628.png,tb,"{'xmin': 102.98211, 'ymin': 38.447823, 'width': 71.031525, 'height': 85.99647}",active_tb
+unknown_976.png,no tb,none,none
+unknown_229.png,no tb,none,none
+unknown_618.png,no tb,none,none
+unknown_108.png,no tb,none,none
+unknown_134.png,no tb,none,none
+unknown_1589.png,no tb,none,none
+unknown_236.png,no tb,none,none
+unknown_871.png,no tb,none,none
+unknown_337.png,tb,"{'xmin': 242.19249, 'ymin': 112.59973, 'width': 157.84708, 'height': 207.52481}",active_tb
+unknown_1301.png,no tb,none,none
+unknown_2784.png,no tb,none,none
+unknown_1743.png,no tb,none,none
+unknown_1191.png,no tb,none,none
+unknown_2348.png,no tb,none,latent_tb
+unknown_362.png,tb,"{'xmin': 173.38364, 'ymin': 51.685257, 'width': 110.4343, 'height': 140.0289}",active_tb
+unknown_3190.png,no tb,none,none
+unknown_737.png,no tb,none,none
+unknown_1616.png,no tb,none,none
+unknown_442.png,no tb,none,none
+unknown_968.png,no tb,none,none
+unknown_1261.png,no tb,none,none
+unknown_2389.png,no tb,none,none
+unknown_2608.png,no tb,none,none
+unknown_1111.png,no tb,none,none
+unknown_2894.png,tb,"{'xmin': 131.70694, 'ymin': 44.0789, 'width': 91.8894, 'height': 111.0138}",active_tb
+unknown_1477.png,no tb,none,none
+unknown_57.png,no tb,none,none
+unknown_3248.png,no tb,none,active_tb
+unknown_2391.png,no tb,none,none
+unknown_738.png,no tb,none,none
+unknown_1638.png,no tb,none,none
+unknown_1398.png,no tb,none,active_tb
+unknown_1256.png,no tb,none,none
+unknown_1035.png,no tb,none,none
+unknown_2252.png,no tb,none,none
+unknown_2754.png,no tb,none,none
+unknown_1763.png,tb,"{'xmin': 78.18709, 'ymin': 4.1963286, 'width': 41.479603, 'height': 50.583595}",none
+unknown_684.png,no tb,none,none
+unknown_545.png,no tb,none,none
+unknown_710.png,no tb,none,none
+unknown_2870.png,no tb,none,none
+unknown_950.png,no tb,none,none
+unknown_1647.png,no tb,none,none
+unknown_2433.png,tb,"{'xmin': 66.86847, 'ymin': 33.469704, 'width': 52.29134, 'height': 63.649727}",none
+unknown_3240.png,no tb,none,none
+unknown_2936.png,no tb,none,none
+unknown_422.png,no tb,none,none
+unknown_2300.png,no tb,none,none
+unknown_367.png,no tb,none,active_tb
+unknown_375.png,no tb,none,none
+unknown_457.png,tb,"{'xmin': 260.0122, 'ymin': 118.23169, 'width': 146.53226, 'height': 154.13904}",active_tb
+unknown_2993.png,no tb,none,none
+unknown_165.png,no tb,none,active_tb
+unknown_792.png,no tb,none,none
+unknown_2790.png,no tb,none,none
+unknown_173.png,no tb,none,none
+unknown_2211.png,no tb,none,none
+unknown_807.png,no tb,none,none
+unknown_627.png,no tb,none,none
+unknown_2861.png,no tb,none,none
+unknown_2106.png,no tb,none,none
+unknown_2570.png,no tb,none,none
+unknown_2743.png,no tb,none,none
+unknown_2840.png,tb,"{'xmin': 129.47252, 'ymin': 49.67404, 'width': 87.864296, 'height': 106.562744}",active_tb
+unknown_186.png,no tb,none,none
+unknown_1353.png,no tb,none,none
+unknown_1732.png,no tb,none,none
+unknown_1696.png,no tb,none,none
+unknown_516.png,no tb,none,none
+unknown_1758.png,no tb,none,none
+unknown_704.png,tb,"{'xmin': 229.53139, 'ymin': 112.84231, 'width': 136.65402, 'height': 139.17169}",active_tb
+unknown_1457.png,no tb,none,none
+unknown_2500.png,no tb,none,none
+unknown_133.png,no tb,none,none
+unknown_660.png,no tb,none,none
+unknown_2655.png,no tb,none,none
+unknown_2081.png,no tb,none,none
+unknown_2368.png,no tb,none,none
+unknown_1900.png,no tb,none,active_tb
+unknown_2190.png,tb,"{'xmin': 265.2342, 'ymin': 113.6149, 'width': 180.36986, 'height': 213.96518}",active_tb
+unknown_2914.png,no tb,none,none
+unknown_655.png,tb,"{'xmin': 241.11217, 'ymin': 87.411964, 'width': 148.81929, 'height': 191.92038}",active_tb
+unknown_345.png,no tb,none,active_tb
+unknown_277.png,no tb,none,none
+unknown_2686.png,no tb,none,none
+unknown_1952.png,no tb,none,none
+unknown_1927.png,no tb,none,none
+unknown_2475.png,no tb,none,none
+unknown_1764.png,no tb,none,none
+unknown_1266.png,no tb,none,active_tb
+unknown_2240.png,no tb,none,none
+unknown_2227.png,no tb,none,none
+unknown_714.png,no tb,none,none
+unknown_1124.png,no tb,none,none
+unknown_2811.png,no tb,none,none
+unknown_764.png,no tb,none,none
+unknown_2857.png,tb,"{'xmin': 260.60748, 'ymin': 102.144615, 'width': 171.32065, 'height': 201.16658}",active_tb
+unknown_2823.png,no tb,none,none
+unknown_1939.png,no tb,none,none
+unknown_123.png,no tb,none,none
+unknown_2785.png,no tb,none,none
+unknown_725.png,no tb,none,none
+unknown_746.png,no tb,none,none
+unknown_100.png,no tb,none,none
+unknown_2.png,no tb,none,none
+unknown_1698.png,no tb,none,none
+unknown_113.png,no tb,none,none
+unknown_1876.png,no tb,none,none
+unknown_373.png,no tb,none,none
+unknown_1238.png,no tb,none,none
+unknown_916.png,no tb,none,none
+unknown_1491.png,no tb,none,none
+unknown_2251.png,no tb,none,active_tb
+unknown_3059.png,no tb,none,none
+unknown_2330.png,no tb,none,none
+unknown_2125.png,no tb,none,none
+unknown_334.png,no tb,none,none
+unknown_652.png,tb,"{'xmin': 50.839455, 'ymin': 31.271242, 'width': 40.14931, 'height': 47.88102}",active_tb
+unknown_858.png,no tb,none,none
+unknown_1512.png,no tb,none,none
+unknown_875.png,no tb,none,none
+unknown_414.png,no tb,none,none
+unknown_1402.png,no tb,none,none
+unknown_3146.png,no tb,none,none
+unknown_1568.png,no tb,none,none
+unknown_501.png,no tb,none,none
+unknown_1544.png,no tb,none,latent_tb
+unknown_2536.png,no tb,none,none
+unknown_2842.png,tb,"{'xmin': 50.848694, 'ymin': 26.754683, 'width': 47.39864, 'height': 54.483566}",active_tb
+unknown_2905.png,no tb,none,none
+unknown_3144.png,no tb,none,none
+unknown_1755.png,no tb,none,none
+unknown_1666.png,tb,"{'xmin': 261.70792, 'ymin': 122.41359, 'width': 164.46495, 'height': 188.42358}",active_tb
+unknown_2844.png,tb,"{'xmin': 164.76987, 'ymin': 108.68297, 'width': 114.32665, 'height': 119.48836}",active_tb
+unknown_2827.png,no tb,none,none
+unknown_1867.png,tb,"{'xmin': 222.73808, 'ymin': 96.84159, 'width': 140.24886, 'height': 178.26016}",active_tb
+unknown_921.png,no tb,none,none
+unknown_1058.png,no tb,none,none
+unknown_368.png,no tb,none,none
+unknown_2296.png,no tb,none,none
+unknown_159.png,no tb,none,none
+unknown_2109.png,no tb,none,none
+unknown_1374.png,tb,"{'xmin': 271.06573, 'ymin': 119.47734, 'width': 145.89581, 'height': 176.41736}",active_tb
+unknown_1629.png,no tb,none,none
+unknown_2896.png,no tb,none,none
+unknown_821.png,no tb,none,none
+unknown_2126.png,no tb,none,none
+unknown_110.png,no tb,none,none
+unknown_1705.png,no tb,none,none
+unknown_95.png,no tb,none,none
+unknown_1965.png,no tb,none,none
+unknown_1493.png,no tb,none,none
+unknown_223.png,no tb,none,none
+unknown_1641.png,no tb,none,none
+unknown_1733.png,no tb,none,none
+unknown_2229.png,no tb,none,none
+unknown_2971.png,no tb,none,none
+unknown_2017.png,no tb,none,none
+unknown_1470.png,no tb,none,none
+unknown_1783.png,no tb,none,none
+unknown_2431.png,no tb,none,none
+unknown_2748.png,tb,"{'xmin': 91.6363, 'ymin': 26.748333, 'width': 69.95981, 'height': 86.62686}",active_tb
+unknown_426.png,no tb,none,none
+unknown_2862.png,no tb,none,none
+unknown_3121.png,no tb,none,none
+unknown_261.png,tb,"{'xmin': 153.1187, 'ymin': 67.434296, 'width': 98.236244, 'height': 109.905266}",active_tb
+unknown_441.png,no tb,none,none
+unknown_1709.png,no tb,none,none
+unknown_700.png,no tb,none,none
+unknown_3182.png,no tb,none,none
+unknown_3135.png,no tb,none,none
+unknown_662.png,no tb,none,none
+unknown_2815.png,tb,"{'xmin': 254.45135, 'ymin': 90.65529, 'width': 112.9342, 'height': 124.009125}",active_tb
+unknown_1737.png,no tb,none,none
+unknown_2030.png,no tb,none,none
+unknown_1450.png,tb,"{'xmin': 252.0733, 'ymin': 162.02968, 'width': 139.34752, 'height': 175.76865}",active_tb
+unknown_2712.png,tb,"{'xmin': 162.88777, 'ymin': 61.543846, 'width': 90.29976, 'height': 106.77656}",active_tb
+unknown_732.png,no tb,none,none
+unknown_169.png,no tb,none,active_tb
+unknown_1920.png,no tb,none,active_tb
+unknown_3208.png,tb,"{'xmin': 209.22498, 'ymin': 102.45451, 'width': 130.34578, 'height': 168.65451}",active_tb
+unknown_1718.png,no tb,none,none
+unknown_3181.png,no tb,none,active_tb
+unknown_1825.png,no tb,none,none
+unknown_2312.png,no tb,none,none
+unknown_1559.png,no tb,none,none
+unknown_814.png,no tb,none,none
+unknown_2270.png,no tb,none,none
+unknown_23.png,no tb,none,none
+unknown_2928.png,tb,"{'xmin': 173.40523, 'ymin': 79.62883, 'width': 132.3927, 'height': 128.6185}",active_tb
+unknown_2025.png,no tb,none,active_tb
+unknown_2390.png,no tb,none,none
+unknown_1857.png,no tb,none,none
+unknown_763.png,no tb,none,none
+unknown_803.png,no tb,none,none
+unknown_1689.png,no tb,none,none
+unknown_3015.png,no tb,none,none
+unknown_467.png,no tb,none,none
+unknown_1150.png,tb,"{'xmin': 76.15853, 'ymin': 23.47026, 'width': 44.650806, 'height': 64.426765}",active_tb
+unknown_332.png,no tb,none,none
+unknown_3254.png,no tb,none,none
+unknown_1607.png,no tb,none,none
+unknown_2151.png,no tb,none,none
+unknown_2534.png,tb,"{'xmin': 250.71718, 'ymin': 103.697716, 'width': 132.02487, 'height': 163.27936}",active_tb
+unknown_947.png,no tb,none,none
+unknown_1521.png,no tb,none,none
+unknown_1596.png,no tb,none,none
+unknown_1122.png,no tb,none,none
+unknown_234.png,no tb,none,active_tb
+unknown_2732.png,tb,"{'xmin': 136.53506, 'ymin': 41.286232, 'width': 68.93533, 'height': 79.76091}",active_tb
+unknown_2751.png,no tb,none,active_tb
+unknown_135.png,no tb,none,none
+unknown_2992.png,no tb,none,none
+unknown_2231.png,no tb,none,active_tb
+unknown_2605.png,no tb,none,none
+unknown_374.png,tb,"{'xmin': 148.4718, 'ymin': 76.20388, 'width': 66.493065, 'height': 74.168274}",active_tb
+unknown_1399.png,no tb,none,none
+unknown_1810.png,tb,"{'xmin': 60.867626, 'ymin': 31.775259, 'width': 46.585144, 'height': 57.737152}",none
+unknown_2071.png,no tb,none,none
+unknown_3282.png,no tb,none,none
+unknown_14.png,tb,"{'xmin': 148.66745, 'ymin': 70.166985, 'width': 63.853725, 'height': 78.19855}",active_tb
+unknown_546.png,no tb,none,none
+unknown_43.png,no tb,none,none
+unknown_2938.png,no tb,none,none
+unknown_1468.png,no tb,none,none
+unknown_2897.png,no tb,none,none
+unknown_4.png,no tb,none,none
+unknown_3115.png,no tb,none,none
+unknown_1249.png,no tb,none,active_tb
+unknown_296.png,tb,"{'xmin': 84.57492, 'ymin': 52.293285, 'width': 47.612076, 'height': 57.626495}",active_tb
+unknown_1332.png,no tb,none,none
+unknown_2855.png,no tb,none,none
+unknown_1164.png,no tb,none,none
+unknown_1461.png,no tb,none,none
+unknown_616.png,tb,"{'xmin': 235.66647, 'ymin': 159.78964, 'width': 153.1422, 'height': 174.19455}",active_tb
+unknown_1222.png,no tb,none,none
+unknown_2479.png,no tb,none,none
+unknown_459.png,no tb,none,none
+unknown_1373.png,no tb,none,none
+unknown_2649.png,no tb,none,none
+unknown_646.png,no tb,none,none
+unknown_1832.png,no tb,none,none
+unknown_1902.png,tb,"{'xmin': 238.23892, 'ymin': 106.86288, 'width': 117.38841, 'height': 131.18735}",active_tb
+unknown_290.png,no tb,none,none
+unknown_330.png,no tb,none,none
+unknown_383.png,no tb,none,none
+unknown_2729.png,no tb,none,active_tb
+unknown_2012.png,no tb,none,none
+unknown_1241.png,no tb,none,active_tb
+unknown_2196.png,no tb,none,none
+unknown_768.png,no tb,none,none
+unknown_2340.png,no tb,none,none
+unknown_1245.png,no tb,none,none
+unknown_1996.png,no tb,none,active_tb
+unknown_1270.png,no tb,none,none
+unknown_1170.png,no tb,none,none
+unknown_678.png,no tb,none,active_tb
+unknown_1796.png,no tb,none,none
+unknown_2022.png,no tb,none,none
+unknown_491.png,no tb,none,none
+unknown_870.png,no tb,none,none
+unknown_1804.png,tb,"{'xmin': 99.763176, 'ymin': 50.610794, 'width': 67.1835, 'height': 72.03294}",active_tb
+unknown_820.png,no tb,none,none
+unknown_2021.png,tb,"{'xmin': 277.73624, 'ymin': 120.95102, 'width': 173.43811, 'height': 216.77132}",active_tb
+unknown_1136.png,no tb,none,none
+unknown_2235.png,no tb,none,none
+unknown_1325.png,no tb,none,none
+unknown_1661.png,no tb,none,none
+unknown_611.png,tb,"{'xmin': 106.5829, 'ymin': 47.985832, 'width': 54.435226, 'height': 65.2438}",active_tb
+unknown_1973.png,no tb,none,none
+unknown_3284.png,tb,"{'xmin': 104.577965, 'ymin': 43.29407, 'width': 54.031384, 'height': 78.527054}",active_tb
+unknown_1251.png,no tb,none,none
+unknown_216.png,no tb,none,none
+unknown_31.png,no tb,none,none
+unknown_774.png,no tb,none,active_tb
+unknown_2409.png,no tb,none,none
+unknown_2470.png,no tb,none,none
+unknown_3297.png,tb,"{'xmin': 256.34845, 'ymin': 150.23189, 'width': 181.10439, 'height': 223.1453}",active_tb
+unknown_1553.png,no tb,none,none
+unknown_2271.png,no tb,none,none
+unknown_347.png,no tb,none,active_tb
+unknown_1539.png,no tb,none,none
+unknown_1636.png,no tb,none,active_tb
+unknown_2749.png,no tb,none,none
+unknown_1540.png,no tb,none,none
+unknown_1524.png,no tb,none,none
+unknown_2924.png,no tb,none,none
+unknown_1074.png,no tb,none,none
+unknown_2469.png,no tb,none,none
+unknown_456.png,no tb,none,none
+unknown_318.png,tb,"{'xmin': 297.748, 'ymin': 140.19214, 'width': 161.31226, 'height': 193.69214}",active_tb
+unknown_1569.png,no tb,none,none
+unknown_36.png,no tb,none,none
+unknown_3239.png,tb,"{'xmin': 174.83029, 'ymin': 69.255455, 'width': 107.76642, 'height': 123.770615}",active_tb
+unknown_1903.png,no tb,none,none
+unknown_3173.png,no tb,none,none
+unknown_2557.png,no tb,none,none
+unknown_2875.png,no tb,none,none
+unknown_1497.png,no tb,none,none
+unknown_1134.png,no tb,none,none
+unknown_2658.png,no tb,none,none
+unknown_27.png,no tb,none,none
+unknown_983.png,tb,"{'xmin': 35.5592, 'ymin': 13.04037, 'width': 29.01974, 'height': 33.198605}",none
+unknown_1861.png,no tb,none,none
+unknown_642.png,tb,"{'xmin': 230.55986, 'ymin': 101.404335, 'width': 142.97343, 'height': 166.95839}",active_tb
+unknown_462.png,no tb,none,none
+unknown_1583.png,no tb,none,none
+unknown_2787.png,no tb,none,none
+unknown_3222.png,no tb,none,none
+unknown_1268.png,no tb,none,none
+unknown_1404.png,no tb,none,active_tb
+unknown_50.png,no tb,none,active_tb
+unknown_856.png,no tb,none,none
+unknown_2770.png,no tb,none,none
+unknown_30.png,no tb,none,none
+unknown_298.png,tb,"{'xmin': 142.63245, 'ymin': 89.573814, 'width': 105.35896, 'height': 114.46634}",active_tb
+unknown_1204.png,no tb,none,none
+unknown_2854.png,no tb,none,none
+unknown_1244.png,no tb,none,none
+unknown_1964.png,no tb,none,none
+unknown_81.png,no tb,none,none
+unknown_139.png,no tb,none,none
+unknown_1930.png,no tb,none,none
+unknown_1997.png,tb,"{'xmin': 145.38373, 'ymin': 73.94504, 'width': 100.71306, 'height': 112.24704}",active_tb
+unknown_2724.png,no tb,none,none
+unknown_1595.png,no tb,none,active_tb
+unknown_128.png,no tb,none,none
+unknown_2828.png,no tb,none,none
+unknown_2755.png,tb,"{'xmin': 262.51907, 'ymin': 145.08644, 'width': 152.27898, 'height': 162.64957}",active_tb
+unknown_688.png,no tb,none,active_tb
+unknown_2742.png,no tb,none,none
+unknown_572.png,no tb,none,none
+unknown_3184.png,no tb,none,none
+unknown_1482.png,no tb,none,none
+unknown_3032.png,tb,"{'xmin': 243.16603, 'ymin': 117.68854, 'width': 135.5468, 'height': 144.81084}",active_tb
+unknown_1128.png,tb,"{'xmin': 78.58637, 'ymin': 31.022852, 'width': 55.90231, 'height': 64.14372}",active_tb
+unknown_153.png,no tb,none,none
+unknown_536.png,tb,"{'xmin': 277.55392, 'ymin': 124.777435, 'width': 161.9087, 'height': 172.35281}",active_tb
+unknown_1988.png,no tb,none,active_tb
+unknown_3204.png,no tb,none,none
+unknown_2596.png,no tb,none,none
+unknown_3241.png,no tb,none,none
+unknown_2466.png,tb,"{'xmin': 129.47208, 'ymin': 13.756112, 'width': 102.40533, 'height': 90.78269}",active_tb
+unknown_1331.png,no tb,none,none
+unknown_2202.png,no tb,none,active_tb
+unknown_3007.png,no tb,none,none
+unknown_205.png,no tb,none,none
+unknown_1364.png,tb,"{'xmin': 169.27173, 'ymin': 85.560616, 'width': 101.008095, 'height': 114.99369}",active_tb
+unknown_1530.png,no tb,none,none
+unknown_2067.png,tb,"{'xmin': 135.46115, 'ymin': 59.365326, 'width': 99.55757, 'height': 109.465096}",active_tb
+unknown_689.png,tb,"{'xmin': 246.76439, 'ymin': 87.86784, 'width': 154.13814, 'height': 171.13333}",active_tb
+unknown_3209.png,no tb,none,none
+unknown_1460.png,no tb,none,none
+unknown_474.png,tb,"{'xmin': 161.1091, 'ymin': 68.802124, 'width': 101.52475, 'height': 119.44638}",active_tb
+unknown_2978.png,no tb,none,none
+unknown_1087.png,no tb,none,none
+unknown_1934.png,no tb,none,none
+unknown_141.png,no tb,none,none
+unknown_2757.png,no tb,none,none
+unknown_1531.png,tb,"{'xmin': 180.48605, 'ymin': 40.836327, 'width': 112.29759, 'height': 143.89679}",active_tb
+unknown_1169.png,no tb,none,none
+unknown_2796.png,no tb,none,none
+unknown_1047.png,no tb,none,none
+unknown_753.png,no tb,none,none
+unknown_2973.png,tb,"{'xmin': 120.851295, 'ymin': 55.186363, 'width': 86.05668, 'height': 98.260376}",active_tb
+unknown_2210.png,no tb,none,none
+unknown_1137.png,no tb,none,active_tb
+unknown_1772.png,tb,"{'xmin': 234.5015, 'ymin': 83.24109, 'width': 154.67296, 'height': 178.88004}",active_tb
+unknown_808.png,no tb,none,none
+unknown_2745.png,no tb,none,none
+unknown_3226.png,no tb,none,none
+unknown_571.png,no tb,none,none
+unknown_2537.png,tb,"{'xmin': 192.42458, 'ymin': 92.59948, 'width': 128.5381, 'height': 133.59479}",latent_tb
+unknown_3123.png,no tb,none,none
+unknown_1086.png,tb,"{'xmin': 220.11172, 'ymin': 89.074905, 'width': 114.148285, 'height': 129.35728}",active_tb
+unknown_944.png,no tb,none,none
+unknown_2610.png,no tb,none,none
+unknown_2394.png,no tb,none,none
+unknown_196.png,no tb,none,none
+unknown_301.png,no tb,none,none
+unknown_2594.png,no tb,none,none
+unknown_2929.png,no tb,none,none
+unknown_1455.png,no tb,none,none
+unknown_522.png,tb,"{'xmin': 60.77126, 'ymin': 33.52744, 'width': 43.227802, 'height': 51.605022}",latent_tb
+unknown_2927.png,no tb,none,none
+unknown_2563.png,no tb,none,none
+unknown_3060.png,no tb,none,active_tb
+unknown_2781.png,no tb,none,none
+unknown_78.png,no tb,none,none
+unknown_2561.png,tb,"{'xmin': 214.0134, 'ymin': 111.10641, 'width': 107.925766, 'height': 110.55446}",active_tb
+unknown_1235.png,no tb,none,none
+unknown_405.png,no tb,none,none
+unknown_433.png,no tb,none,none
+unknown_650.png,no tb,none,none
+unknown_2268.png,no tb,none,none
+unknown_2045.png,tb,"{'xmin': 118.57444, 'ymin': 45.023182, 'width': 83.58357, 'height': 97.954895}",active_tb
+unknown_2117.png,no tb,none,none
+unknown_226.png,tb,"{'xmin': 181.8198, 'ymin': 75.74598, 'width': 100.4952, 'height': 107.46629}",active_tb
+unknown_826.png,no tb,none,none
+unknown_2824.png,tb,"{'xmin': 197.41025, 'ymin': 69.58071, 'width': 128.56671, 'height': 150.72025}",active_tb
+unknown_149.png,no tb,none,none
+unknown_2615.png,no tb,none,none
+unknown_2814.png,no tb,none,none
+unknown_1166.png,tb,"{'xmin': 192.21634, 'ymin': 87.62589, 'width': 91.63637, 'height': 108.48745}",active_tb
+unknown_1146.png,no tb,none,none
+unknown_1868.png,no tb,none,active_tb
+unknown_68.png,no tb,none,none
+unknown_376.png,no tb,none,none
+unknown_865.png,no tb,none,none
+unknown_1797.png,no tb,none,none
+unknown_1352.png,no tb,none,none
+unknown_575.png,no tb,none,none
+unknown_3289.png,no tb,none,none
+unknown_734.png,no tb,none,none
+unknown_1786.png,no tb,none,none
+unknown_1826.png,no tb,none,active_tb
+unknown_909.png,no tb,none,none
+unknown_1627.png,no tb,none,none
+unknown_2402.png,no tb,none,none
+unknown_592.png,no tb,none,none
+unknown_2225.png,no tb,none,none
+unknown_922.png,no tb,none,none
+unknown_1675.png,no tb,none,none
+unknown_2194.png,no tb,none,none
+unknown_1279.png,no tb,none,none
+unknown_1063.png,no tb,none,none
+unknown_3023.png,no tb,none,active_tb
+unknown_273.png,no tb,none,none
+unknown_2478.png,no tb,none,none
+unknown_485.png,no tb,none,none
+unknown_1944.png,no tb,none,none
+unknown_665.png,no tb,none,none
+unknown_3288.png,no tb,none,none
+unknown_1254.png,tb,"{'xmin': 241.3418, 'ymin': 97.957825, 'width': 127.0764, 'height': 159.217}",active_tb
+unknown_686.png,no tb,none,none
+unknown_1928.png,no tb,none,none
+unknown_105.png,no tb,none,none
+unknown_454.png,tb,"{'xmin': 114.31202, 'ymin': 21.197683, 'width': 83.30552, 'height': 88.638824}",active_tb
+unknown_3024.png,no tb,none,none
+unknown_1306.png,no tb,none,none
+unknown_795.png,tb,"{'xmin': 244.31203, 'ymin': 101.10834, 'width': 153.53171, 'height': 174.35335}",active_tb
+unknown_2968.png,no tb,none,none
+unknown_1440.png,tb,"{'xmin': 374.47256, 'ymin': 123.47685, 'width': 223.65303, 'height': 257.70413}",active_tb
+unknown_2134.png,no tb,none,none
+unknown_2695.png,no tb,none,none
+unknown_1479.png,no tb,none,none
+unknown_649.png,no tb,none,none
+unknown_930.png,no tb,none,none
+unknown_1924.png,tb,"{'xmin': 131.99988, 'ymin': 9.751454, 'width': 91.08174, 'height': 84.85764}",active_tb
+unknown_1901.png,no tb,none,none
+unknown_772.png,no tb,none,none
+unknown_1142.png,no tb,none,none
+unknown_1660.png,no tb,none,none
+unknown_2434.png,no tb,none,active_tb
+unknown_787.png,no tb,none,none
+unknown_1881.png,no tb,none,none
+unknown_1409.png,no tb,none,none
+unknown_1312.png,no tb,none,none
+unknown_1341.png,no tb,none,none
+unknown_1657.png,no tb,none,none
+unknown_1554.png,no tb,none,none
+unknown_1443.png,tb,"{'xmin': 245.49507, 'ymin': 131.8465, 'width': 157.03792, 'height': 181.6164}",active_tb
+unknown_1979.png,no tb,none,active_tb
+unknown_34.png,no tb,none,none
+unknown_3287.png,tb,"{'xmin': 62.018215, 'ymin': 27.13121, 'width': 40.917915, 'height': 59.5379}",none
+unknown_355.png,no tb,none,none
+unknown_2847.png,no tb,none,none
+unknown_210.png,tb,"{'xmin': 227.77275, 'ymin': 98.29362, 'width': 149.58241, 'height': 175.24814}",active_tb
+unknown_3085.png,no tb,none,none
+unknown_765.png,no tb,none,none
+unknown_2520.png,no tb,none,none
+unknown_2329.png,no tb,none,none
+unknown_319.png,tb,"{'xmin': 203.79745, 'ymin': 123.47984, 'width': 137.95912, 'height': 148.19746}",active_tb
+unknown_818.png,no tb,none,none
+unknown_11.png,no tb,none,none
+unknown_1888.png,no tb,none,none
+unknown_2577.png,no tb,none,none
+unknown_47.png,no tb,none,active_tb
+unknown_1686.png,no tb,none,none
+unknown_2511.png,no tb,none,none
+unknown_2483.png,no tb,none,none
+unknown_651.png,tb,"{'xmin': 145.36816, 'ymin': 54.483894, 'width': 87.77058, 'height': 98.21783}",active_tb
+unknown_824.png,no tb,none,none
+unknown_1505.png,no tb,none,none
+unknown_555.png,no tb,none,none
+unknown_1130.png,no tb,none,active_tb
+unknown_2048.png,no tb,none,none
+unknown_2663.png,no tb,none,none
+unknown_1684.png,no tb,none,none
+unknown_2208.png,no tb,none,none
+unknown_1687.png,no tb,none,none
+unknown_1895.png,no tb,none,none
+unknown_1972.png,no tb,none,none
+unknown_1936.png,no tb,none,none
+unknown_726.png,tb,"{'xmin': 64.39564, 'ymin': 19.422678, 'width': 54.53162, 'height': 61.42846}",latent_tb
+unknown_2407.png,no tb,none,none
+unknown_2438.png,tb,"{'xmin': 151.5015, 'ymin': 66.353325, 'width': 99.136055, 'height': 95.79414}",active_tb
+unknown_2874.png,no tb,none,none
+unknown_1519.png,no tb,none,none
+unknown_2836.png,no tb,none,none
+unknown_831.png,no tb,none,active_tb
+unknown_1488.png,no tb,none,none
+unknown_716.png,no tb,none,none
+unknown_2868.png,no tb,none,none
+unknown_312.png,tb,"{'xmin': 98.98066, 'ymin': 45.71646, 'width': 71.0981, 'height': 80.443306}",active_tb
+unknown_574.png,no tb,none,none
+unknown_3270.png,no tb,none,none
+unknown_395.png,no tb,none,none
+unknown_2780.png,no tb,none,none
+unknown_934.png,no tb,none,none
+unknown_2170.png,no tb,none,none
+unknown_1730.png,no tb,none,none
+unknown_961.png,no tb,none,none
+unknown_2096.png,no tb,none,none
+unknown_92.png,no tb,none,none
+unknown_178.png,no tb,none,active_tb
+unknown_632.png,no tb,none,none
+unknown_2410.png,tb,"{'xmin': 150.58525, 'ymin': 58.726532, 'width': 87.557076, 'height': 107.95912}",active_tb
+unknown_2957.png,no tb,none,none
+unknown_530.png,no tb,none,none
+unknown_1444.png,no tb,none,none
+unknown_396.png,no tb,none,none
+unknown_1925.png,no tb,none,none
+unknown_2675.png,no tb,none,none
+unknown_2711.png,no tb,none,none
+unknown_2488.png,no tb,none,none
+unknown_526.png,no tb,none,none
+unknown_1807.png,no tb,none,none
+unknown_2516.png,tb,"{'xmin': 282.89093, 'ymin': 113.70317, 'width': 143.8933, 'height': 188.53114}",active_tb
+unknown_576.png,no tb,none,none
+unknown_1108.png,tb,"{'xmin': 208.53947, 'ymin': 96.17647, 'width': 123.31572, 'height': 166.86475}",active_tb
+unknown_1107.png,no tb,none,active_tb
+unknown_495.png,no tb,none,none
+unknown_326.png,no tb,none,none
+unknown_475.png,no tb,none,none
+unknown_1859.png,no tb,none,none
+unknown_2302.png,tb,"{'xmin': 114.30853, 'ymin': 64.62547, 'width': 64.85841, 'height': 84.367584}",active_tb
+unknown_2982.png,tb,"{'xmin': 240.60172, 'ymin': 86.86587, 'width': 157.56187, 'height': 177.49608}",active_tb
+unknown_1207.png,no tb,none,none
+unknown_1252.png,no tb,none,none
+unknown_2075.png,no tb,none,none
+unknown_2237.png,no tb,none,none
+unknown_2417.png,no tb,none,none
+unknown_525.png,no tb,none,none
+unknown_2085.png,no tb,none,none
+unknown_2932.png,no tb,none,none
+unknown_2092.png,no tb,none,none
+unknown_2945.png,no tb,none,none
+unknown_2616.png,no tb,none,none
+unknown_2084.png,tb,"{'xmin': 53.961216, 'ymin': 26.218626, 'width': 26.386648, 'height': 36.953087}",active_tb
+unknown_3070.png,no tb,none,none
+unknown_993.png,no tb,none,none
+unknown_1102.png,no tb,none,none
+unknown_766.png,no tb,none,none
+unknown_317.png,no tb,none,none
+unknown_2374.png,no tb,none,none
+unknown_1370.png,no tb,none,none
+unknown_3039.png,no tb,none,none
+unknown_1021.png,no tb,none,latent_tb
+unknown_2381.png,no tb,none,none
+unknown_1811.png,no tb,none,none
+unknown_2018.png,no tb,none,none
+unknown_1916.png,no tb,none,none
+unknown_1379.png,tb,"{'xmin': 50.96166, 'ymin': 24.141836, 'width': 44.177402, 'height': 61.326267}",active_tb
+unknown_102.png,no tb,none,none
+unknown_2879.png,no tb,none,none
+unknown_1391.png,no tb,none,none
+unknown_455.png,no tb,none,none
+unknown_1104.png,no tb,none,none
+unknown_2029.png,tb,"{'xmin': 40.045376, 'ymin': 21.429426, 'width': 28.519283, 'height': 39.238663}",none
+unknown_2989.png,no tb,none,none
+unknown_1184.png,no tb,none,none
+unknown_1426.png,no tb,none,none
+unknown_1646.png,no tb,none,none
+unknown_3058.png,no tb,none,none
+unknown_250.png,no tb,none,none
+unknown_3072.png,no tb,none,none
+unknown_3055.png,no tb,none,none
+unknown_2589.png,no tb,none,none
+unknown_2956.png,no tb,none,none
+unknown_2891.png,no tb,none,none
+unknown_2668.png,tb,"{'xmin': 320.7362, 'ymin': 111.412445, 'width': 153.4329, 'height': 204.09175}",active_tb
+unknown_436.png,no tb,none,none
+unknown_1537.png,no tb,none,none
+unknown_2001.png,tb,"{'xmin': 61.801243, 'ymin': 27.803072, 'width': 37.699493, 'height': 40.496796}",active_tb
+unknown_844.png,no tb,none,none
+unknown_2515.png,no tb,none,none
+unknown_1043.png,tb,"{'xmin': 205.62631, 'ymin': 115.78371, 'width': 122.765625, 'height': 147.77843}",active_tb
+unknown_237.png,no tb,none,none
+unknown_882.png,no tb,none,none
+unknown_1955.png,no tb,none,none
+unknown_2265.png,no tb,none,none
+unknown_1880.png,no tb,none,none
+unknown_413.png,no tb,none,none
+unknown_2458.png,no tb,none,none
+unknown_2741.png,no tb,none,none
+unknown_1001.png,no tb,none,none
+unknown_1780.png,no tb,none,none
+unknown_117.png,no tb,none,none
+unknown_942.png,no tb,none,none
+unknown_965.png,no tb,none,none
+unknown_444.png,no tb,none,none
+unknown_1746.png,no tb,none,none
+unknown_1683.png,no tb,none,none
+unknown_286.png,no tb,none,none
+unknown_2797.png,no tb,none,none
+unknown_2408.png,no tb,none,none
+unknown_1915.png,tb,"{'xmin': 189.01422, 'ymin': 121.52166, 'width': 128.23935, 'height': 144.98428}",active_tb
+unknown_28.png,no tb,none,none
+unknown_2672.png,no tb,none,none
+unknown_338.png,no tb,none,none
+unknown_534.png,no tb,none,none
+unknown_3089.png,no tb,none,active_tb
+unknown_2059.png,no tb,none,none
+unknown_527.png,no tb,none,none
+unknown_2462.png,no tb,none,none
+unknown_2395.png,tb,"{'xmin': 256.3123, 'ymin': 108.84371, 'width': 188.471, 'height': 233.47942}",active_tb
+unknown_166.png,tb,"{'xmin': 161.50446, 'ymin': 66.11621, 'width': 79.68065, 'height': 96.677155}",active_tb
+unknown_360.png,tb,"{'xmin': 52.7086, 'ymin': 23.375942, 'width': 34.81346, 'height': 47.019417}",none
+unknown_2412.png,no tb,none,active_tb
+unknown_1197.png,no tb,none,none
+unknown_773.png,no tb,none,none
+unknown_2228.png,no tb,none,none
+unknown_668.png,no tb,none,none
+unknown_986.png,no tb,none,none
+unknown_3277.png,no tb,none,active_tb
+unknown_310.png,no tb,none,none
+unknown_2981.png,tb,"{'xmin': 259.95935, 'ymin': 106.20209, 'width': 161.7296, 'height': 178.19319}",active_tb
+unknown_2512.png,no tb,none,none
+unknown_157.png,no tb,none,none
+unknown_2673.png,no tb,none,none
+unknown_2101.png,no tb,none,none
+unknown_588.png,tb,"{'xmin': 167.72372, 'ymin': 92.131966, 'width': 97.1077, 'height': 118.380165}",active_tb
+unknown_1125.png,no tb,none,none
+unknown_1367.png,no tb,none,none
+unknown_515.png,no tb,none,none
+unknown_754.png,no tb,none,none
+unknown_1127.png,no tb,none,none
+unknown_894.png,no tb,none,none
+unknown_639.png,no tb,none,none
+unknown_2525.png,no tb,none,none
+unknown_1337.png,no tb,none,none
+unknown_2946.png,tb,"{'xmin': 176.52715, 'ymin': 103.77989, 'width': 117.79674, 'height': 116.164276}",active_tb
+unknown_199.png,no tb,none,none
+unknown_2294.png,no tb,none,none
+unknown_2224.png,no tb,none,none
+unknown_977.png,no tb,none,none
+unknown_755.png,no tb,none,none
+unknown_62.png,no tb,none,none
+unknown_854.png,no tb,none,none
+unknown_962.png,no tb,none,none
+unknown_2866.png,no tb,none,none
+unknown_2669.png,no tb,none,none
+unknown_2653.png,no tb,none,none
+unknown_1008.png,no tb,none,none
+unknown_2034.png,no tb,none,none
+unknown_1704.png,tb,"{'xmin': 181.80136, 'ymin': 78.254524, 'width': 114.23973, 'height': 132.37962}",active_tb
+unknown_744.png,tb,"{'xmin': 57.62173, 'ymin': 16.727795, 'width': 37.586468, 'height': 30.157223}",active_tb
+unknown_629.png,tb,"{'xmin': 321.52298, 'ymin': 106.19827, 'width': 173.1834, 'height': 204.09648}",active_tb
+unknown_194.png,no tb,none,none
+unknown_811.png,tb,"{'xmin': 125.72102, 'ymin': 46.79744, 'width': 91.0119, 'height': 112.23735}",latent_tb
+unknown_1501.png,no tb,none,none
+unknown_2387.png,tb,"{'xmin': 134.88164, 'ymin': 20.696642, 'width': 93.02428, 'height': 86.28528}",active_tb
+unknown_1473.png,no tb,none,none
+unknown_825.png,tb,"{'xmin': 187.30267, 'ymin': 66.35997, 'width': 119.73583, 'height': 165.62465}",active_tb
+unknown_902.png,no tb,none,none
+unknown_3219.png,no tb,none,none
+unknown_974.png,no tb,none,none
+unknown_1858.png,no tb,none,active_tb
+unknown_46.png,no tb,none,none
+unknown_1064.png,no tb,none,none
+unknown_2279.png,no tb,none,none
+unknown_84.png,no tb,none,none
+unknown_148.png,no tb,none,none
+unknown_3216.png,no tb,none,none
+unknown_2415.png,no tb,none,none
+unknown_1542.png,tb,"{'xmin': 150.50732, 'ymin': 78.21082, 'width': 91.3878, 'height': 106.38127}",active_tb
+unknown_1631.png,no tb,none,active_tb
+unknown_1385.png,no tb,none,none
+unknown_2460.png,no tb,none,none
+unknown_1978.png,no tb,none,none
+unknown_730.png,no tb,none,none
+unknown_2133.png,no tb,none,none
+unknown_1831.png,no tb,none,none
+unknown_1053.png,tb,"{'xmin': 274.0741, 'ymin': 121.48254, 'width': 176.4984, 'height': 205.20097}",active_tb
+unknown_3198.png,no tb,none,none
+unknown_3152.png,no tb,none,none
+unknown_1010.png,no tb,none,none
+unknown_2994.png,no tb,none,active_tb
+unknown_1083.png,tb,"{'xmin': 309.95718, 'ymin': 137.21104, 'width': 187.85786, 'height': 206.18741}",active_tb
+unknown_2795.png,no tb,none,none
+unknown_1433.png,no tb,none,none
+unknown_1216.png,no tb,none,none
+unknown_1808.png,no tb,none,none
+unknown_217.png,no tb,none,none
+unknown_1767.png,no tb,none,none
+unknown_85.png,no tb,none,none
+unknown_523.png,no tb,none,none
+unknown_648.png,no tb,none,none
+unknown_1819.png,no tb,none,none
+unknown_3279.png,no tb,none,none
+unknown_258.png,no tb,none,none
+unknown_1038.png,no tb,none,none
+unknown_1109.png,no tb,none,none
+unknown_3283.png,no tb,none,none
+unknown_193.png,no tb,none,none
+unknown_2311.png,no tb,none,none
+unknown_2162.png,no tb,none,none
+unknown_2091.png,no tb,none,none
+unknown_2464.png,no tb,none,none
+unknown_1957.png,no tb,none,none
+unknown_2998.png,no tb,none,none
+unknown_1889.png,no tb,none,none
+unknown_87.png,tb,"{'xmin': 99.01977, 'ymin': 32.02388, 'width': 72.23909, 'height': 80.13563}",active_tb
+unknown_354.png,no tb,none,none
+unknown_2037.png,tb,"{'xmin': 87.14761, 'ymin': 17.204485, 'width': 52.185715, 'height': 59.35579}",active_tb
+unknown_1431.png,tb,"{'xmin': 57.402027, 'ymin': 27.031176, 'width': 43.66218, 'height': 51.398163}",active_tb
+unknown_2651.png,tb,"{'xmin': 189.66443, 'ymin': 91.125015, 'width': 91.62924, 'height': 118.18539}",active_tb
+unknown_2064.png,no tb,none,none
+unknown_313.png,tb,"{'xmin': 213.44357, 'ymin': 104.3866, 'width': 123.30099, 'height': 142.65407}",active_tb
+unknown_2123.png,no tb,none,none
+unknown_2051.png,no tb,none,none
+unknown_2806.png,no tb,none,none
+unknown_3172.png,no tb,none,none
+unknown_3252.png,no tb,none,none
+unknown_1093.png,no tb,none,none
+unknown_624.png,no tb,none,none
+unknown_2439.png,no tb,none,none
+unknown_3069.png,tb,"{'xmin': 100.746895, 'ymin': 38.001167, 'width': 77.98259, 'height': 95.426956}",active_tb
+unknown_3127.png,no tb,none,none
+unknown_2685.png,no tb,none,none
+unknown_656.png,no tb,none,none
+unknown_1754.png,no tb,none,none
+unknown_3122.png,tb,"{'xmin': 231.52563, 'ymin': 93.574776, 'width': 135.02914, 'height': 177.20877}",active_tb
+unknown_919.png,tb,"{'xmin': 258.074, 'ymin': 114.32793, 'width': 133.0932, 'height': 139.27512}",active_tb
+unknown_1504.png,no tb,none,none
+unknown_409.png,no tb,none,none
+unknown_2345.png,no tb,none,none
+unknown_1014.png,no tb,none,none
+unknown_1913.png,no tb,none,none
+unknown_3099.png,no tb,none,none
+unknown_1872.png,no tb,none,none
+unknown_3035.png,no tb,none,none
+unknown_840.png,no tb,none,none
+unknown_1954.png,no tb,none,none
+unknown_1667.png,no tb,none,none
+unknown_2209.png,no tb,none,none
+unknown_2104.png,no tb,none,none
+unknown_1377.png,tb,"{'xmin': 214.01218, 'ymin': 50.80725, 'width': 142.60863, 'height': 152.7232}",active_tb
+unknown_2719.png,no tb,none,none
+unknown_2157.png,no tb,none,active_tb
+unknown_2373.png,no tb,none,none
+unknown_1787.png,no tb,none,none
+unknown_3180.png,no tb,none,none
+unknown_2086.png,tb,"{'xmin': 161.70901, 'ymin': 63.277008, 'width': 95.22879, 'height': 110.22014}",active_tb
+unknown_1824.png,no tb,none,none
+unknown_2652.png,tb,"{'xmin': 121.75436, 'ymin': 78.88129, 'width': 105.58677, 'height': 133.01483}",active_tb
+unknown_2130.png,no tb,none,none
+unknown_1949.png,no tb,none,none
+unknown_637.png,no tb,none,none
+unknown_1310.png,no tb,none,none
+unknown_799.png,tb,"{'xmin': 223.15889, 'ymin': 106.82489, 'width': 130.26297, 'height': 147.13974}",active_tb
+unknown_1005.png,no tb,none,none
+unknown_1699.png,no tb,none,none
+unknown_2333.png,no tb,none,none
+unknown_2451.png,tb,"{'xmin': 137.22325, 'ymin': 70.34393, 'width': 83.491066, 'height': 85.684906}",active_tb
+unknown_2365.png,no tb,none,none
+unknown_201.png,no tb,none,none
+unknown_2940.png,no tb,none,none
+unknown_595.png,no tb,none,none
+unknown_552.png,no tb,none,none
+unknown_190.png,no tb,none,none
+unknown_420.png,no tb,none,none
+unknown_3065.png,no tb,none,none
+unknown_2449.png,no tb,none,none
+unknown_231.png,no tb,none,none
+unknown_784.png,no tb,none,none
+unknown_3206.png,no tb,none,none
+unknown_1183.png,no tb,none,none
+unknown_2527.png,no tb,none,none
+unknown_2404.png,no tb,none,none
+unknown_2189.png,no tb,none,none
+unknown_3258.png,no tb,none,none
+unknown_1345.png,no tb,none,none
+unknown_699.png,no tb,none,none
+unknown_2848.png,no tb,none,none
+unknown_2510.png,no tb,none,none
+unknown_1264.png,no tb,none,none
+unknown_1419.png,no tb,none,none
+unknown_621.png,no tb,none,none
+unknown_1799.png,no tb,none,none
+unknown_90.png,no tb,none,none
+unknown_1369.png,tb,"{'xmin': 215.4176, 'ymin': 83.8713, 'width': 106.204414, 'height': 122.07978}",latent_tb
+unknown_2625.png,no tb,none,none
+unknown_914.png,no tb,none,none
+unknown_2917.png,no tb,none,none
+unknown_2088.png,tb,"{'xmin': 62.324833, 'ymin': 19.617369, 'width': 46.872826, 'height': 59.606285}",active_tb
+unknown_604.png,no tb,none,none
+unknown_1897.png,no tb,none,none
+unknown_1991.png,no tb,none,none
+unknown_1080.png,no tb,none,none
+unknown_1803.png,no tb,none,none
+unknown_58.png,no tb,none,none
+unknown_1119.png,no tb,none,none
+unknown_598.png,no tb,none,none
+unknown_1085.png,no tb,none,none
+unknown_2473.png,no tb,none,none
+unknown_461.png,no tb,none,none
+unknown_1574.png,tb,"{'xmin': 141.71915, 'ymin': 39.15589, 'width': 94.960236, 'height': 113.826645}",active_tb
+unknown_1959.png,no tb,none,none
+unknown_1396.png,no tb,none,none
+unknown_2910.png,no tb,none,none
+unknown_1662.png,no tb,none,none
+unknown_3078.png,no tb,none,none
+unknown_361.png,no tb,none,none
+unknown_2343.png,no tb,none,none
+unknown_2931.png,no tb,none,none
+unknown_1023.png,no tb,none,none
+unknown_1618.png,tb,"{'xmin': 274.3366, 'ymin': 106.90958, 'width': 159.97275, 'height': 207.11777}",active_tb
+unknown_1333.png,tb,"{'xmin': 130.34244, 'ymin': 57.73696, 'width': 97.09898, 'height': 107.82228}",active_tb
+unknown_2063.png,no tb,none,none
+unknown_1056.png,no tb,none,none
+unknown_1869.png,tb,"{'xmin': 113.98327, 'ymin': 37.2576, 'width': 71.22616, 'height': 84.97813}",active_tb
+unknown_1518.png,tb,"{'xmin': 169.99661, 'ymin': 82.9037, 'width': 113.77635, 'height': 118.76116}",active_tb
+unknown_3269.png,no tb,none,none
+unknown_3264.png,no tb,none,none
+unknown_2970.png,no tb,none,none
+unknown_1445.png,no tb,none,none
+unknown_2378.png,tb,"{'xmin': 229.6346, 'ymin': 115.202515, 'width': 112.363846, 'height': 122.10936}",active_tb
+unknown_2099.png,tb,"{'xmin': 77.86621, 'ymin': 39.395786, 'width': 45.32867, 'height': 53.6887}",none
+unknown_1734.png,no tb,none,none
+unknown_2756.png,tb,"{'xmin': 224.661, 'ymin': 99.72162, 'width': 136.1587, 'height': 152.29732}",active_tb
+unknown_2889.png,no tb,none,none
+unknown_2738.png,tb,"{'xmin': 65.07862, 'ymin': 14.264344, 'width': 31.010319, 'height': 38.504044}",none
+unknown_174.png,no tb,none,none
+unknown_1798.png,no tb,none,none
+unknown_713.png,no tb,none,none
+unknown_582.png,no tb,none,none
+unknown_1271.png,no tb,none,none
+unknown_1359.png,no tb,none,none
+unknown_2359.png,no tb,none,none
+unknown_2552.png,no tb,none,none
+unknown_1081.png,no tb,none,none
+unknown_1448.png,no tb,none,none
+unknown_1286.png,no tb,none,none
+unknown_1788.png,no tb,none,none
+unknown_1735.png,no tb,none,none
+unknown_1850.png,no tb,none,none
+unknown_879.png,no tb,none,none
+unknown_551.png,no tb,none,none
+unknown_1466.png,no tb,none,none
+unknown_2465.png,tb,"{'xmin': 137.37778, 'ymin': 54.36669, 'width': 88.448875, 'height': 104.8813}",active_tb
+unknown_2076.png,tb,"{'xmin': 281.42368, 'ymin': 108.63997, 'width': 162.48103, 'height': 184.07684}",active_tb
+unknown_2014.png,no tb,none,none
+unknown_172.png,no tb,none,none
+unknown_2817.png,no tb,none,none
+unknown_535.png,no tb,none,none
+unknown_143.png,no tb,none,none
+unknown_1571.png,no tb,none,none
+unknown_696.png,no tb,none,none
+unknown_3111.png,no tb,none,none
+unknown_2902.png,tb,"{'xmin': 116.96414, 'ymin': 50.235153, 'width': 92.66577, 'height': 109.278}",active_tb
+unknown_302.png,tb,"{'xmin': 134.58472, 'ymin': 81.07084, 'width': 101.45885, 'height': 100.53017}",active_tb
+unknown_147.png,no tb,none,none
+unknown_55.png,tb,"{'xmin': 189.83339, 'ymin': 88.094284, 'width': 97.19542, 'height': 117.78122}",latent_tb
+unknown_63.png,tb,"{'xmin': 121.895874, 'ymin': 65.991516, 'width': 60.58413, 'height': 69.24549}",active_tb
+unknown_3293.png,no tb,none,none
+unknown_2204.png,no tb,none,active_tb
+unknown_910.png,no tb,none,none
+unknown_2571.png,no tb,none,none
+unknown_984.png,tb,"{'xmin': 107.69519, 'ymin': 45.40544, 'width': 70.36576, 'height': 89.73499}",active_tb
+unknown_447.png,no tb,none,none
+unknown_421.png,no tb,none,none
+unknown_187.png,no tb,none,none
+unknown_500.png,no tb,none,none
+unknown_7.png,no tb,none,none
+unknown_900.png,no tb,none,none
+unknown_2371.png,tb,"{'xmin': 233.71904, 'ymin': 119.70735, 'width': 156.4625, 'height': 164.88506}",active_tb
+unknown_1703.png,no tb,none,none
+unknown_271.png,no tb,none,none
+unknown_1741.png,tb,"{'xmin': 108.93453, 'ymin': 29.770372, 'width': 54.679882, 'height': 89.543274}",active_tb
+unknown_2019.png,no tb,none,none
+unknown_1275.png,tb,"{'xmin': 224.54245, 'ymin': 101.16922, 'width': 159.03065, 'height': 189.19554}",active_tb
+unknown_948.png,no tb,none,none
+unknown_1725.png,no tb,none,none
+unknown_1305.png,no tb,none,none
+unknown_2524.png,no tb,none,none
+unknown_1355.png,tb,"{'xmin': 224.46466, 'ymin': 119.62731, 'width': 141.05775, 'height': 173.80948}",latent_tb
+unknown_1546.png,no tb,none,none
+unknown_1221.png,no tb,none,none
+unknown_240.png,no tb,none,none
+unknown_2638.png,tb,"{'xmin': 162.87613, 'ymin': 51.47264, 'width': 102.0895, 'height': 128.23952}",active_tb
+unknown_2850.png,no tb,none,none
+unknown_3031.png,no tb,none,none
+unknown_3118.png,no tb,none,none
+unknown_17.png,no tb,none,none
+unknown_542.png,no tb,none,none
+unknown_1046.png,no tb,none,none
+unknown_2533.png,tb,"{'xmin': 177.64145, 'ymin': 78.05304, 'width': 119.06676, 'height': 133.79424}",active_tb
+unknown_1295.png,no tb,none,none
+unknown_2950.png,no tb,none,none
+unknown_2606.png,no tb,none,none
+unknown_2267.png,no tb,none,none
+unknown_3041.png,no tb,none,none
+unknown_427.png,no tb,none,none
+unknown_2819.png,no tb,none,none
+unknown_213.png,no tb,none,none
+unknown_2837.png,no tb,none,none
+unknown_498.png,no tb,none,none
+unknown_1193.png,no tb,none,none
+unknown_2775.png,no tb,none,active_tb
+unknown_615.png,no tb,none,none
+unknown_499.png,no tb,none,none
+unknown_568.png,no tb,none,none
+unknown_282.png,no tb,none,none
+unknown_2418.png,no tb,none,none
+unknown_2291.png,no tb,none,none
+unknown_2386.png,no tb,none,none
+unknown_3050.png,no tb,none,none
+unknown_357.png,tb,"{'xmin': 186.05327, 'ymin': 90.033035, 'width': 98.7278, 'height': 99.231895}",active_tb
+unknown_1016.png,no tb,none,none
+unknown_2377.png,no tb,none,none
+unknown_443.png,no tb,none,none
+unknown_767.png,no tb,none,none
+unknown_3300.png,no tb,none,none
+unknown_957.png,no tb,none,none
+unknown_1049.png,tb,"{'xmin': 225.73315, 'ymin': 118.33009, 'width': 133.596, 'height': 143.85751}",active_tb
+unknown_2716.png,no tb,none,none
+unknown_2774.png,no tb,none,none
+unknown_3295.png,no tb,none,none
+unknown_1387.png,no tb,none,active_tb
+unknown_2723.png,no tb,none,none
+unknown_3186.png,no tb,none,none
+unknown_2692.png,no tb,none,none
+unknown_3145.png,no tb,none,none
+unknown_1833.png,no tb,none,none
+unknown_3267.png,no tb,none,none
+unknown_2236.png,no tb,none,none
+unknown_1144.png,no tb,none,none
+unknown_664.png,no tb,none,none
+unknown_2626.png,tb,"{'xmin': 250.92535, 'ymin': 78.59851, 'width': 126.84168, 'height': 136.8805}",active_tb
+unknown_2593.png,no tb,none,none
+unknown_463.png,no tb,none,none
+unknown_3075.png,tb,"{'xmin': 238.11865, 'ymin': 113.87999, 'width': 139.52112, 'height': 181.29773}",active_tb
+unknown_2435.png,no tb,none,latent_tb
+unknown_470.png,no tb,none,none
+unknown_898.png,no tb,none,none
+unknown_1547.png,no tb,none,none
+unknown_2988.png,no tb,none,none
+unknown_2572.png,no tb,none,none
+unknown_1208.png,no tb,none,none
+unknown_2476.png,no tb,none,none
+unknown_323.png,tb,"{'xmin': 184.27153, 'ymin': 78.38653, 'width': 111.93373, 'height': 141.77467}",active_tb
+unknown_724.png,no tb,none,none
+unknown_1875.png,no tb,none,none
+unknown_3043.png,tb,"{'xmin': 268.6948, 'ymin': 127.30969, 'width': 163.55016, 'height': 157.16936}",active_tb
+unknown_2281.png,no tb,none,none
+unknown_1906.png,no tb,none,none
+unknown_783.png,no tb,none,none
+unknown_3130.png,no tb,none,none
+unknown_928.png,tb,"{'xmin': 91.60337, 'ymin': 37.598213, 'width': 46.323715, 'height': 49.85218}",active_tb
+unknown_2687.png,no tb,none,none
+unknown_3274.png,no tb,none,active_tb
+unknown_2568.png,no tb,none,none
+unknown_51.png,tb,"{'xmin': 122.41789, 'ymin': 24.315617, 'width': 74.24367, 'height': 69.91527}",active_tb
+unknown_1438.png,no tb,none,none
+unknown_2145.png,no tb,none,none
+unknown_2384.png,no tb,none,none
+unknown_1942.png,no tb,none,none
+unknown_565.png,tb,"{'xmin': 74.63557, 'ymin': 32.569923, 'width': 44.514942, 'height': 53.15567}",active_tb
+unknown_3088.png,no tb,none,none
+unknown_1117.png,no tb,none,none
+unknown_3013.png,tb,"{'xmin': 32.303905, 'ymin': 16.481812, 'width': 21.10404, 'height': 26.189953}",none
+unknown_288.png,no tb,none,none
+unknown_1084.png,no tb,none,none
+unknown_1390.png,no tb,none,none
+unknown_2137.png,no tb,none,none
+unknown_707.png,no tb,none,none
+unknown_1960.png,tb,"{'xmin': 156.93207, 'ymin': 70.85222, 'width': 113.06623, 'height': 117.970245}",latent_tb
+unknown_1602.png,no tb,none,none
+unknown_227.png,no tb,none,none
+unknown_779.png,no tb,none,none
+unknown_1069.png,tb,"{'xmin': 126.62723, 'ymin': 57.85005, 'width': 102.01048, 'height': 124.7561}",active_tb
+unknown_2321.png,no tb,none,none
+unknown_2587.png,no tb,none,active_tb
+unknown_3194.png,tb,"{'xmin': 252.06102, 'ymin': 124.83373, 'width': 151.28227, 'height': 187.10373}",active_tb
+unknown_180.png,tb,"{'xmin': 229.0715, 'ymin': 99.313446, 'width': 152.40404, 'height': 149.24149}",active_tb
+unknown_3266.png,tb,"{'xmin': 92.70803, 'ymin': 55.62194, 'width': 48.2749, 'height': 46.216984}",none
+unknown_2886.png,no tb,none,none
+unknown_990.png,no tb,none,none
+unknown_2833.png,no tb,none,none
+unknown_115.png,no tb,none,none
+unknown_249.png,no tb,none,none
+unknown_71.png,no tb,none,none
+unknown_3276.png,tb,"{'xmin': 74.57628, 'ymin': 37.73625, 'width': 47.21875, 'height': 56.70974}",latent_tb
+unknown_2634.png,tb,"{'xmin': 224.85422, 'ymin': 123.07677, 'width': 110.49788, 'height': 122.49019}",active_tb
+unknown_3020.png,no tb,none,none
+unknown_2335.png,no tb,none,none
+unknown_275.png,no tb,none,none
+unknown_939.png,no tb,none,none
+unknown_1729.png,no tb,none,none
+unknown_75.png,no tb,none,none
+unknown_1481.png,no tb,none,none
+unknown_1841.png,tb,"{'xmin': 103.23847, 'ymin': 41.266502, 'width': 67.77232, 'height': 77.428444}",active_tb
+unknown_1372.png,no tb,none,none
+unknown_2646.png,no tb,none,none
+unknown_573.png,no tb,none,none
+unknown_2156.png,no tb,none,none
+unknown_2558.png,no tb,none,none
+unknown_742.png,tb,"{'xmin': 203.56145, 'ymin': 114.65806, 'width': 129.89903, 'height': 139.907}",active_tb
+unknown_287.png,no tb,none,none
+unknown_131.png,no tb,none,none
+unknown_518.png,no tb,none,none
+unknown_936.png,no tb,none,none
+unknown_3076.png,no tb,none,none
+unknown_828.png,no tb,none,none
+unknown_2548.png,tb,"{'xmin': 262.3181, 'ymin': 128.70522, 'width': 154.35632, 'height': 164.47302}",active_tb
+unknown_24.png,no tb,none,none
+unknown_2288.png,no tb,none,none
+unknown_1350.png,no tb,none,none
+unknown_61.png,no tb,none,none
+unknown_2220.png,tb,"{'xmin': 292.75864, 'ymin': 113.84478, 'width': 130.79599, 'height': 168.7475}",active_tb
+unknown_1272.png,no tb,none,none
+unknown_2899.png,tb,"{'xmin': 127.0884, 'ymin': 25.596273, 'width': 73.800766, 'height': 98.67532}",active_tb
+unknown_2026.png,no tb,none,active_tb
+unknown_2665.png,no tb,none,none
+unknown_1520.png,tb,"{'xmin': 93.98699, 'ymin': 42.637505, 'width': 57.226177, 'height': 64.30557}",active_tb
+unknown_1736.png,no tb,none,active_tb
+unknown_1206.png,no tb,none,active_tb
+unknown_1129.png,no tb,none,none
+unknown_270.png,no tb,none,none
+unknown_3133.png,no tb,none,none
+unknown_1648.png,tb,"{'xmin': 28.398447, 'ymin': 8.084136, 'width': 22.682316, 'height': 32.54904}",none
+unknown_2630.png,no tb,none,none
+unknown_2217.png,no tb,none,none
+unknown_1623.png,no tb,none,none
+unknown_2055.png,no tb,none,none
+unknown_3230.png,no tb,none,none
+unknown_1366.png,no tb,none,none
+unknown_1567.png,no tb,none,none
+unknown_1494.png,no tb,none,none
+unknown_3160.png,no tb,none,none
+unknown_328.png,no tb,none,none
+unknown_1495.png,tb,"{'xmin': 103.88816, 'ymin': 2.0707078, 'width': 90.072556, 'height': 95.65503}",active_tb
+unknown_1459.png,tb,"{'xmin': 81.05601, 'ymin': 57.91307, 'width': 53.73933, 'height': 67.49581}",active_tb
+unknown_1697.png,no tb,none,none
+unknown_1681.png,no tb,none,none
+unknown_2287.png,no tb,none,none
+unknown_2887.png,no tb,none,none
+unknown_1143.png,no tb,none,none
+unknown_2803.png,tb,"{'xmin': 80.28981, 'ymin': 48.917282, 'width': 49.13987, 'height': 53.155037}",active_tb
+unknown_1634.png,no tb,none,none
+unknown_1846.png,no tb,none,none
+unknown_2701.png,no tb,none,none
+unknown_1462.png,no tb,none,none
+unknown_2885.png,no tb,none,none
+unknown_1557.png,tb,"{'xmin': 111.121735, 'ymin': 33.225563, 'width': 75.788574, 'height': 92.27499}",active_tb
+unknown_666.png,no tb,none,none
+unknown_33.png,no tb,none,none
+unknown_2163.png,no tb,none,none
+unknown_1498.png,no tb,none,none
+unknown_2769.png,no tb,none,none
+unknown_2706.png,no tb,none,none
+unknown_1308.png,no tb,none,none
+unknown_2188.png,no tb,none,none
+unknown_3215.png,no tb,none,none
+unknown_1827.png,no tb,none,none
+unknown_2735.png,no tb,none,none
+unknown_86.png,no tb,none,none
+unknown_2949.png,no tb,none,none
+unknown_702.png,no tb,none,none
+unknown_161.png,tb,"{'xmin': 142.49934, 'ymin': 52.79293, 'width': 86.36376, 'height': 94.55117}",active_tb
+unknown_397.png,no tb,none,none
+unknown_636.png,tb,"{'xmin': 204.88234, 'ymin': 70.96013, 'width': 138.72221, 'height': 174.23547}",active_tb
+unknown_2356.png,tb,"{'xmin': 123.62149, 'ymin': 55.862465, 'width': 60.75407, 'height': 76.49092}",active_tb
+unknown_493.png,no tb,none,none
+unknown_1480.png,no tb,none,none
+unknown_2783.png,no tb,none,none
+unknown_2895.png,no tb,none,none
+unknown_2351.png,no tb,none,none
+unknown_2238.png,no tb,none,none
+unknown_2888.png,no tb,none,none
+unknown_612.png,tb,"{'xmin': 170.31726, 'ymin': 80.38788, 'width': 75.70839, 'height': 73.35995}",active_tb
+unknown_1773.png,no tb,none,active_tb
+unknown_1766.png,no tb,none,active_tb
+unknown_390.png,no tb,none,none
+unknown_897.png,no tb,none,none
+unknown_1724.png,no tb,none,none
+unknown_2273.png,no tb,none,none
+unknown_2494.png,no tb,none,none
+unknown_1019.png,no tb,none,none
+unknown_356.png,no tb,none,active_tb
+unknown_1663.png,no tb,none,none
+unknown_370.png,tb,"{'xmin': 211.00415, 'ymin': 100.56326, 'width': 115.27325, 'height': 123.73334}",active_tb
+unknown_2698.png,no tb,none,none
+unknown_2332.png,no tb,none,active_tb
+unknown_2044.png,tb,"{'xmin': 206.10912, 'ymin': 84.03193, 'width': 96.717026, 'height': 127.572205}",active_tb
+unknown_506.png,tb,"{'xmin': 200.95404, 'ymin': 80.57233, 'width': 124.06922, 'height': 131.68958}",active_tb
+unknown_1613.png,no tb,none,none
+unknown_1304.png,tb,"{'xmin': 119.654724, 'ymin': 43.853226, 'width': 77.368385, 'height': 89.93492}",active_tb
+unknown_866.png,no tb,none,none
+unknown_2274.png,no tb,none,none
+unknown_1316.png,tb,"{'xmin': 145.15076, 'ymin': 71.333694, 'width': 90.26088, 'height': 94.01747}",active_tb
+unknown_2108.png,no tb,none,none
+unknown_2526.png,no tb,none,none
+unknown_2693.png,no tb,none,none
+unknown_3073.png,no tb,none,none
+unknown_2792.png,no tb,none,none
+unknown_2298.png,no tb,none,none
+unknown_2877.png,no tb,none,none
+unknown_2313.png,no tb,none,none
+unknown_886.png,tb,"{'xmin': 119.06923, 'ymin': 30.594637, 'width': 73.013504, 'height': 68.355576}",active_tb
+unknown_1475.png,no tb,none,active_tb
+unknown_158.png,no tb,none,none
+unknown_2201.png,tb,"{'xmin': 277.48438, 'ymin': 103.875534, 'width': 125.96449, 'height': 147.46968}",active_tb
+unknown_658.png,no tb,none,none
+unknown_1609.png,no tb,none,none
+unknown_424.png,no tb,none,none
+unknown_472.png,tb,"{'xmin': 107.527245, 'ymin': 37.973892, 'width': 44.311398, 'height': 57.264557}",active_tb
+unknown_718.png,no tb,none,none
+unknown_671.png,tb,"{'xmin': 108.37641, 'ymin': 35.96421, 'width': 79.471146, 'height': 95.85127}",active_tb
+unknown_3177.png,no tb,none,none
+unknown_953.png,tb,"{'xmin': 114.498436, 'ymin': 44.9493, 'width': 81.87011, 'height': 108.75444}",active_tb
+unknown_2707.png,no tb,none,none
+unknown_1.png,no tb,none,active_tb
+unknown_1839.png,no tb,none,none
+unknown_2691.png,no tb,none,none
+unknown_2684.png,tb,"{'xmin': 89.067894, 'ymin': 39.237495, 'width': 41.30972, 'height': 55.872807}",active_tb
+unknown_2934.png,no tb,none,none
+unknown_3066.png,tb,"{'xmin': 172.16235, 'ymin': 54.03721, 'width': 120.188934, 'height': 131.09978}",active_tb
+unknown_847.png,tb,"{'xmin': 113.138435, 'ymin': 36.099922, 'width': 65.003235, 'height': 81.509796}",active_tb
+unknown_1293.png,no tb,none,none
+unknown_735.png,no tb,none,none
+unknown_1643.png,no tb,none,none
+unknown_1700.png,no tb,none,none
+unknown_144.png,no tb,none,none
+unknown_1070.png,no tb,none,none
+unknown_445.png,no tb,none,none
+unknown_411.png,no tb,none,active_tb
+unknown_1769.png,no tb,none,none
+unknown_569.png,no tb,none,none
+unknown_2226.png,no tb,none,none
+unknown_1522.png,no tb,none,none
+unknown_3038.png,no tb,none,none
+unknown_2800.png,no tb,none,none
+unknown_1998.png,no tb,none,none
+unknown_122.png,no tb,none,none
+unknown_2425.png,no tb,none,none
+unknown_476.png,no tb,none,active_tb
+unknown_129.png,no tb,none,none
+unknown_643.png,tb,"{'xmin': 176.04404, 'ymin': 80.83986, 'width': 94.34094, 'height': 121.65772}",active_tb
+unknown_1346.png,no tb,none,none
+unknown_2416.png,tb,"{'xmin': 158.87598, 'ymin': 79.91154, 'width': 99.01099, 'height': 106.44453}",active_tb
+unknown_2062.png,no tb,none,none
+unknown_477.png,no tb,none,none
+unknown_402.png,no tb,none,none
+unknown_2582.png,no tb,none,active_tb
+unknown_641.png,tb,"{'xmin': 264.69006, 'ymin': 94.960815, 'width': 145.9232, 'height': 208.48167}",active_tb
+unknown_1076.png,no tb,none,none
+unknown_29.png,no tb,none,none
+unknown_1152.png,no tb,none,none
+unknown_2733.png,no tb,none,none
+unknown_3231.png,no tb,none,none
+unknown_384.png,no tb,none,none
+unknown_385.png,no tb,none,none
+unknown_2481.png,no tb,none,none
+unknown_2590.png,no tb,none,none
+unknown_1690.png,no tb,none,active_tb
+unknown_1395.png,no tb,none,none
+unknown_283.png,no tb,none,none
+unknown_623.png,no tb,none,none
+unknown_1677.png,tb,"{'xmin': 68.83323, 'ymin': 28.099318, 'width': 38.392467, 'height': 55.37583}",active_tb
+unknown_3286.png,no tb,none,latent_tb
+unknown_1782.png,no tb,none,none
+unknown_3302.png,tb,"{'xmin': 223.14908, 'ymin': 117.3977, 'width': 137.99983, 'height': 145.88086}",active_tb
+unknown_1051.png,no tb,none,none
+unknown_2867.png,no tb,none,none
+unknown_3201.png,no tb,none,none
+unknown_797.png,no tb,none,none
+unknown_1094.png,no tb,none,none
+unknown_1156.png,no tb,none,none
+unknown_434.png,no tb,none,none
+unknown_1594.png,no tb,none,none
+unknown_1777.png,no tb,none,none
+unknown_2468.png,no tb,none,none
+unknown_2821.png,no tb,none,none
+unknown_1968.png,no tb,none,none
+unknown_2598.png,no tb,none,none
+unknown_1030.png,no tb,none,none
+unknown_2835.png,no tb,none,none
+unknown_295.png,no tb,none,none
+unknown_2954.png,no tb,none,none
+unknown_2484.png,tb,"{'xmin': 129.6402, 'ymin': 49.804623, 'width': 70.0683, 'height': 83.97114}",active_tb
+unknown_2118.png,no tb,none,none
+unknown_966.png,no tb,none,none
+unknown_1515.png,no tb,none,none
+unknown_2424.png,no tb,none,none
+unknown_403.png,no tb,none,none
+unknown_1611.png,no tb,none,none
+unknown_985.png,no tb,none,none
+unknown_3149.png,no tb,none,none
+unknown_1329.png,no tb,none,none
+unknown_1822.png,tb,"{'xmin': 333.38315, 'ymin': 142.35023, 'width': 172.27032, 'height': 204.76947}",active_tb
+unknown_859.png,no tb,none,none
+unknown_2205.png,no tb,none,none
+unknown_1753.png,no tb,none,none
+unknown_2175.png,no tb,none,none
+unknown_378.png,no tb,none,none
+unknown_2497.png,tb,"{'xmin': 214.719, 'ymin': 93.30221, 'width': 140.66943, 'height': 175.23523}",active_tb
+unknown_322.png,no tb,none,none
+unknown_52.png,no tb,none,none
+unknown_1792.png,tb,"{'xmin': 70.33597, 'ymin': 19.473146, 'width': 69.219765, 'height': 66.142395}",active_tb
+unknown_1688.png,no tb,none,none
+unknown_3175.png,no tb,none,none
+unknown_1828.png,no tb,none,none
+unknown_73.png,no tb,none,none
+unknown_955.png,tb,"{'xmin': 98.93276, 'ymin': 48.910988, 'width': 66.84959, 'height': 85.74115}",active_tb
+unknown_1032.png,no tb,none,none
+unknown_647.png,no tb,none,none
+unknown_1545.png,no tb,none,none
+unknown_2200.png,no tb,none,none
+unknown_243.png,no tb,none,active_tb
+unknown_2860.png,no tb,none,none
+unknown_1274.png,tb,"{'xmin': 162.59314, 'ymin': 72.5164, 'width': 100.61296, 'height': 122.09829}",active_tb
+unknown_2727.png,tb,"{'xmin': 89.922035, 'ymin': 63.222168, 'width': 54.95319, 'height': 63.81747}",latent_tb
+unknown_3153.png,no tb,none,none
+unknown_2734.png,no tb,none,none
+unknown_911.png,tb,"{'xmin': 265.72076, 'ymin': 104.094864, 'width': 135.40971, 'height': 140.78925}",active_tb
+unknown_554.png,no tb,none,none
+unknown_2523.png,no tb,none,none
+unknown_2432.png,no tb,none,none
+unknown_371.png,no tb,none,none
+unknown_130.png,no tb,none,none
+unknown_1931.png,no tb,none,none
+unknown_254.png,no tb,none,none
+unknown_2830.png,no tb,none,none
+unknown_1963.png,no tb,none,none
+unknown_1813.png,tb,"{'xmin': 291.036, 'ymin': 133.4345, 'width': 170.4925, 'height': 207.98901}",active_tb
+unknown_1509.png,no tb,none,none
+unknown_2943.png,no tb,none,none
+unknown_1800.png,no tb,none,none
+unknown_3004.png,no tb,none,none
+unknown_2752.png,no tb,none,none
+unknown_896.png,no tb,none,none
+unknown_1362.png,no tb,none,none
+unknown_1465.png,no tb,none,none
+unknown_77.png,no tb,none,none
+unknown_1300.png,no tb,none,none
+unknown_1866.png,no tb,none,none
+unknown_1042.png,tb,"{'xmin': 229.99904, 'ymin': 105.154335, 'width': 124.91135, 'height': 142.06094}",active_tb
+unknown_2485.png,no tb,none,none
+unknown_2859.png,no tb,none,none
+unknown_1966.png,no tb,none,none
+unknown_3063.png,no tb,none,none
+unknown_1549.png,no tb,none,active_tb
+unknown_2317.png,tb,"{'xmin': 89.62919, 'ymin': 44.62638, 'width': 69.02255, 'height': 85.31129}",latent_tb
+unknown_2708.png,no tb,none,none
+unknown_1454.png,no tb,none,none
+unknown_2801.png,no tb,none,none
+unknown_2221.png,tb,"{'xmin': 243.12032, 'ymin': 60.35329, 'width': 119.40439, 'height': 138.46875}",active_tb
+unknown_3003.png,tb,"{'xmin': 204.27072, 'ymin': 73.96824, 'width': 112.87807, 'height': 149.53235}",active_tb
+unknown_1535.png,no tb,none,none
+unknown_171.png,no tb,none,none
+unknown_3052.png,no tb,none,none
+unknown_2532.png,no tb,none,none
+unknown_54.png,no tb,none,none
+unknown_872.png,no tb,none,none
+unknown_2977.png,no tb,none,none
+unknown_2138.png,tb,"{'xmin': 265.37378, 'ymin': 121.5995, 'width': 158.26122, 'height': 154.43414}",active_tb
+unknown_2513.png,no tb,none,none
+unknown_1852.png,no tb,none,none
+unknown_22.png,no tb,none,none
+unknown_761.png,no tb,none,none
+unknown_2584.png,no tb,none,active_tb
+unknown_690.png,no tb,none,none
+unknown_2794.png,no tb,none,none
+unknown_3237.png,no tb,none,none
+unknown_634.png,no tb,none,none
+unknown_350.png,no tb,none,none
+unknown_2264.png,tb,"{'xmin': 227.44984, 'ymin': 96.667076, 'width': 143.6115, 'height': 161.4096}",active_tb
+unknown_2789.png,no tb,none,none
+unknown_1315.png,no tb,none,none
+unknown_786.png,no tb,none,none
+unknown_1507.png,no tb,none,none
+unknown_1165.png,no tb,none,none
+unknown_1057.png,no tb,none,none
+unknown_1097.png,no tb,none,none
+unknown_3167.png,no tb,none,none
+unknown_44.png,no tb,none,none
+unknown_2925.png,no tb,none,none
+unknown_2935.png,no tb,none,none
+unknown_451.png,tb,"{'xmin': 218.41766, 'ymin': 74.24012, 'width': 138.25023, 'height': 165.07668}",active_tb
+unknown_189.png,no tb,none,none
+unknown_2654.png,no tb,none,none
+unknown_3263.png,no tb,none,none
+unknown_1817.png,no tb,none,none
+unknown_2244.png,no tb,none,none
+unknown_2430.png,no tb,none,none
+unknown_284.png,no tb,none,none
+unknown_2550.png,tb,"{'xmin': 98.68686, 'ymin': 39.519676, 'width': 45.16414, 'height': 51.68184}",active_tb
+unknown_780.png,no tb,none,none
+unknown_2168.png,no tb,none,none
+unknown_1654.png,tb,"{'xmin': 96.82342, 'ymin': 10.0833025, 'width': 63.968052, 'height': 69.00266}",active_tb
+unknown_759.png,no tb,none,none
+unknown_452.png,no tb,none,active_tb
+unknown_1209.png,no tb,none,active_tb
+unknown_2858.png,no tb,none,none
+unknown_1213.png,no tb,none,none
+unknown_2919.png,tb,"{'xmin': 208.29645, 'ymin': 96.88197, 'width': 119.810165, 'height': 141.19055}",active_tb
+unknown_1802.png,no tb,none,none
+unknown_2038.png,tb,"{'xmin': 62.415882, 'ymin': 20.160852, 'width': 46.43192, 'height': 54.072735}",active_tb
+unknown_1427.png,tb,"{'xmin': 173.16054, 'ymin': 86.09683, 'width': 90.36633, 'height': 117.07183}",active_tb
+unknown_320.png,no tb,none,none
+unknown_1814.png,no tb,none,none
+unknown_3108.png,no tb,none,none
+unknown_1785.png,no tb,none,none
+unknown_177.png,tb,"{'xmin': 309.52133, 'ymin': 134.98297, 'width': 192.34846, 'height': 235.63882}",active_tb
+unknown_3017.png,no tb,none,none
+unknown_715.png,no tb,none,none
+unknown_1298.png,no tb,none,none
+unknown_3217.png,no tb,none,none
+unknown_82.png,no tb,none,none
+unknown_1357.png,tb,"{'xmin': 231.7999, 'ymin': 99.34755, 'width': 142.74359, 'height': 156.58612}",active_tb
+unknown_2696.png,no tb,none,none
+unknown_2829.png,no tb,none,none
+unknown_591.png,no tb,none,none
+unknown_992.png,no tb,none,none
+unknown_3027.png,no tb,none,none
+unknown_1818.png,no tb,none,none
+unknown_363.png,no tb,none,none
+unknown_1910.png,no tb,none,none
+unknown_3220.png,tb,"{'xmin': 56.221767, 'ymin': 17.512083, 'width': 48.365765, 'height': 57.804176}",none
+unknown_2327.png,no tb,none,none
+unknown_1655.png,no tb,none,none
+unknown_1027.png,no tb,none,none
+unknown_260.png,tb,"{'xmin': 185.03864, 'ymin': 112.41901, 'width': 104.315994, 'height': 113.67141}",active_tb
+unknown_3067.png,tb,"{'xmin': 263.27032, 'ymin': 110.559166, 'width': 162.60762, 'height': 173.83064}",active_tb
+unknown_749.png,no tb,none,none
+unknown_2921.png,no tb,none,none
+unknown_901.png,no tb,none,none
+unknown_1789.png,no tb,none,none
+unknown_1262.png,no tb,none,none
+unknown_381.png,no tb,none,none
+unknown_2040.png,no tb,none,none
+unknown_450.png,no tb,none,none
+unknown_1516.png,no tb,none,none
+unknown_2372.png,no tb,none,active_tb
+unknown_364.png,no tb,none,none
+unknown_3026.png,no tb,none,active_tb
+unknown_2007.png,no tb,none,active_tb
+unknown_654.png,no tb,none,none
+unknown_2114.png,no tb,none,none
+unknown_3196.png,tb,"{'xmin': 50.05051, 'ymin': 16.483253, 'width': 27.000107, 'height': 26.550577}",active_tb
+unknown_200.png,tb,"{'xmin': 230.7489, 'ymin': 88.30784, 'width': 145.07314, 'height': 172.09428}",active_tb
+unknown_874.png,tb,"{'xmin': 270.97943, 'ymin': 138.33119, 'width': 147.59343, 'height': 179.5733}",active_tb
+unknown_937.png,no tb,none,none
+unknown_1199.png,no tb,none,none
+unknown_2517.png,no tb,none,none
+unknown_1105.png,no tb,none,none
+unknown_3178.png,tb,"{'xmin': 98.14535, 'ymin': 35.477875, 'width': 57.541946, 'height': 63.41285}",none
+unknown_1243.png,no tb,none,none
+unknown_2766.png,no tb,none,active_tb
+unknown_2420.png,no tb,none,none
+unknown_1907.png,no tb,none,none
+unknown_2704.png,no tb,none,none
+unknown_2166.png,no tb,none,active_tb
+unknown_508.png,no tb,none,none
+unknown_2446.png,no tb,none,latent_tb
+unknown_1141.png,no tb,none,none
+unknown_830.png,no tb,none,none
+unknown_841.png,no tb,none,none
+unknown_1550.png,no tb,none,none
+unknown_2635.png,no tb,none,none
+unknown_482.png,no tb,none,none
+unknown_3143.png,no tb,none,none
+unknown_2922.png,no tb,none,none
+unknown_2942.png,tb,"{'xmin': 80.007454, 'ymin': 39.35917, 'width': 58.192055, 'height': 72.27144}",active_tb
+unknown_2876.png,no tb,none,none
+unknown_769.png,no tb,none,none
+unknown_417.png,no tb,none,none
+unknown_1153.png,no tb,none,none
+unknown_221.png,no tb,none,none
+unknown_1958.png,no tb,none,none
+unknown_1992.png,no tb,none,none
+unknown_2366.png,no tb,none,none
+unknown_2676.png,tb,"{'xmin': 194.66644, 'ymin': 95.06025, 'width': 127.85028, 'height': 130.8165}",active_tb
+unknown_798.png,no tb,none,none
+unknown_168.png,no tb,none,none
+unknown_162.png,no tb,none,none
+unknown_2841.png,no tb,none,none
+unknown_219.png,no tb,none,none
+unknown_3210.png,no tb,none,none
+unknown_743.png,no tb,none,none
+unknown_517.png,no tb,none,none
+unknown_2893.png,tb,"{'xmin': 65.25767, 'ymin': 45.798115, 'width': 38.4865, 'height': 46.54444}",none
+unknown_2793.png,no tb,none,none
+unknown_1615.png,no tb,none,none
+unknown_15.png,no tb,none,none
+unknown_1985.png,no tb,none,none
+unknown_399.png,no tb,none,none
+unknown_2155.png,no tb,none,none
+unknown_2965.png,no tb,none,none
+unknown_956.png,no tb,none,active_tb
+unknown_848.png,no tb,none,none
+unknown_2261.png,no tb,none,none
+unknown_209.png,no tb,none,none
+unknown_2607.png,no tb,none,none
+unknown_2697.png,no tb,none,none
+unknown_3129.png,tb,"{'xmin': 182.66574, 'ymin': 86.828835, 'width': 75.20201, 'height': 90.709274}",active_tb
+unknown_160.png,no tb,none,none
+unknown_2245.png,no tb,none,none
+unknown_2315.png,no tb,none,none
+unknown_1713.png,no tb,none,none
+unknown_2218.png,no tb,none,none
+unknown_1260.png,no tb,none,none
+unknown_1884.png,no tb,none,none
+unknown_309.png,no tb,none,none
+unknown_1313.png,no tb,none,active_tb
+unknown_394.png,no tb,none,none
+unknown_878.png,no tb,none,none
+unknown_3174.png,no tb,none,none
+unknown_682.png,no tb,none,none
+unknown_617.png,no tb,none,none
+unknown_2528.png,no tb,none,none
+unknown_1701.png,no tb,none,none
+unknown_1393.png,no tb,none,none
+unknown_13.png,no tb,none,none
+unknown_1809.png,no tb,none,none
+unknown_1343.png,no tb,none,none
+unknown_864.png,no tb,none,none
+unknown_1167.png,no tb,none,none
+unknown_2146.png,tb,"{'xmin': 198.22043, 'ymin': 101.80001, 'width': 97.96483, 'height': 111.31729}",active_tb
+unknown_2688.png,no tb,none,none
+unknown_1781.png,no tb,none,none
+unknown_3126.png,no tb,none,none
+unknown_2820.png,no tb,none,none
+unknown_192.png,no tb,none,none
+unknown_502.png,no tb,none,none
+unknown_1269.png,no tb,none,none
+unknown_620.png,no tb,none,none
+unknown_3093.png,no tb,none,none
+unknown_537.png,no tb,none,none
+unknown_3250.png,no tb,none,none
+unknown_2367.png,no tb,none,none
+unknown_533.png,no tb,none,none
+unknown_2632.png,tb,"{'xmin': 80.859566, 'ymin': 22.364155, 'width': 52.97062, 'height': 61.705025}",none
+unknown_2915.png,no tb,none,none
+unknown_2699.png,no tb,none,none
+unknown_805.png,no tb,none,none
+unknown_1984.png,tb,"{'xmin': 231.31169, 'ymin': 101.1273, 'width': 169.27057, 'height': 198.12885}",active_tb
+unknown_2959.png,no tb,none,none
+unknown_3228.png,tb,"{'xmin': 126.106346, 'ymin': 61.6157, 'width': 88.322754, 'height': 100.34774}",active_tb
+unknown_1091.png,no tb,none,none
+unknown_1317.png,no tb,none,none
+unknown_1110.png,no tb,none,none
+unknown_2342.png,no tb,none,none
+unknown_3235.png,no tb,none,none
+unknown_1407.png,no tb,none,none
+unknown_151.png,no tb,none,none
+unknown_1633.png,tb,"{'xmin': 174.3711, 'ymin': 75.342896, 'width': 106.218216, 'height': 120.0403}",active_tb
+unknown_1214.png,no tb,none,none
+unknown_3125.png,tb,"{'xmin': 57.881153, 'ymin': 28.25011, 'width': 37.639854, 'height': 47.509766}",active_tb
+unknown_2778.png,no tb,none,none
+unknown_1326.png,no tb,none,none
+unknown_1215.png,no tb,none,active_tb
+unknown_3061.png,no tb,none,none
+unknown_839.png,no tb,none,none
+unknown_1933.png,no tb,none,none
+unknown_3275.png,no tb,none,none
+unknown_2958.png,no tb,none,none
+unknown_353.png,no tb,none,none
+unknown_1592.png,no tb,none,none
+unknown_293.png,no tb,none,active_tb
+unknown_3158.png,tb,"{'xmin': 154.88351, 'ymin': 63.42144, 'width': 100.46945, 'height': 124.12396}",active_tb
+unknown_438.png,no tb,none,none
+unknown_2254.png,no tb,none,none
+unknown_564.png,tb,"{'xmin': 104.5946, 'ymin': 49.123417, 'width': 86.446594, 'height': 98.82314}",active_tb
+unknown_1365.png,no tb,none,none
+unknown_2539.png,tb,"{'xmin': 38.711525, 'ymin': 12.556611, 'width': 30.304981, 'height': 40.96978}",none
+unknown_3154.png,no tb,none,none
+unknown_1534.png,no tb,none,none
+unknown_521.png,tb,"{'xmin': 104.97265, 'ymin': 23.808743, 'width': 59.586544, 'height': 76.10724}",active_tb
+unknown_3218.png,tb,"{'xmin': 230.73059, 'ymin': 117.57087, 'width': 152.64378, 'height': 166.8523}",active_tb
+unknown_3225.png,tb,"{'xmin': 62.86115, 'ymin': 5.417, 'width': 54.306194, 'height': 60.511246}",active_tb
+unknown_630.png,no tb,none,none
+unknown_729.png,no tb,none,none
+unknown_2682.png,no tb,none,none
+unknown_247.png,no tb,none,none
+unknown_2326.png,tb,"{'xmin': 54.667126, 'ymin': 18.892855, 'width': 40.773937, 'height': 48.449642}",none
+unknown_1538.png,tb,"{'xmin': 315.82773, 'ymin': 123.03612, 'width': 187.16783, 'height': 220.51178}",active_tb
+unknown_2768.png,no tb,none,none
+unknown_1838.png,no tb,none,none
+unknown_1750.png,tb,"{'xmin': 92.05139, 'ymin': 21.057528, 'width': 54.42757, 'height': 68.51309}",active_tb
+unknown_607.png,no tb,none,none
+unknown_136.png,no tb,none,none
+unknown_1506.png,no tb,none,none
+unknown_603.png,tb,"{'xmin': 258.9558, 'ymin': 116.494286, 'width': 146.48729, 'height': 172.27008}",active_tb
+unknown_2880.png,no tb,none,none
+unknown_2206.png,no tb,none,none
+unknown_2355.png,no tb,none,none
+unknown_2032.png,no tb,none,none
+unknown_1995.png,tb,"{'xmin': 74.0661, 'ymin': 22.444061, 'width': 67.96575, 'height': 74.30083}",active_tb
+unknown_3068.png,no tb,none,none
+unknown_453.png,tb,"{'xmin': 51.303825, 'ymin': 29.057283, 'width': 31.18729, 'height': 30.737001}",active_tb
+unknown_3042.png,no tb,none,none
+unknown_1529.png,tb,"{'xmin': 233.25932, 'ymin': 114.872116, 'width': 133.58577, 'height': 149.74321}",active_tb
+unknown_2011.png,tb,"{'xmin': 86.97985, 'ymin': -1.0273882, 'width': 59.43749, 'height': 43.81167}",active_tb
+unknown_543.png,no tb,none,none
+unknown_887.png,no tb,none,none
+unknown_1795.png,tb,"{'xmin': 43.682503, 'ymin': 17.415682, 'width': 48.375263, 'height': 66.50733}",none
+unknown_1561.png,no tb,none,none
+unknown_609.png,no tb,none,none
+unknown_1759.png,no tb,none,none
+unknown_1382.png,tb,"{'xmin': 101.63053, 'ymin': 53.09146, 'width': 59.719204, 'height': 73.69273}",active_tb
+unknown_1401.png,no tb,none,none
+unknown_2871.png,no tb,none,none
+unknown_1120.png,no tb,none,none
+unknown_1961.png,no tb,none,none
+unknown_2115.png,no tb,none,none
+unknown_1579.png,no tb,none,none
+unknown_1363.png,tb,"{'xmin': 214.6828, 'ymin': 105.61013, 'width': 112.4915, 'height': 107.9373}",active_tb
+unknown_599.png,no tb,none,none
+unknown_2595.png,no tb,none,active_tb
+unknown_1570.png,tb,"{'xmin': 58.59995, 'ymin': 36.20053, 'width': 32.909725, 'height': 40.982243}",none
+unknown_781.png,no tb,none,none
+unknown_2364.png,no tb,none,none
+unknown_800.png,tb,"{'xmin': 234.01295, 'ymin': 87.079346, 'width': 142.23892, 'height': 140.60475}",active_tb
+unknown_2192.png,tb,"{'xmin': 215.41563, 'ymin': 107.608444, 'width': 158.99638, 'height': 203.01569}",active_tb
+unknown_428.png,no tb,none,active_tb
+unknown_1932.png,tb,"{'xmin': 195.36809, 'ymin': 106.55903, 'width': 108.03453, 'height': 106.99899}",active_tb
+unknown_242.png,no tb,none,active_tb
+unknown_2560.png,no tb,none,none
+unknown_3291.png,tb,"{'xmin': 225.55345, 'ymin': 75.07132, 'width': 139.23897, 'height': 191.11417}",latent_tb
+unknown_3136.png,no tb,none,none
+unknown_2502.png,no tb,none,none
+unknown_1079.png,no tb,none,none
+unknown_489.png,no tb,none,none
+unknown_1679.png,no tb,none,none
+unknown_2709.png,no tb,none,active_tb
+unknown_1418.png,no tb,none,none
+unknown_1354.png,no tb,none,none
+unknown_850.png,no tb,none,none
+unknown_566.png,no tb,none,none
+unknown_3199.png,no tb,none,none
+unknown_2070.png,no tb,none,none
+unknown_1405.png,no tb,none,none
+unknown_3242.png,no tb,none,none
+unknown_387.png,no tb,none,none
+unknown_2127.png,no tb,none,none
+unknown_262.png,tb,"{'xmin': 64.7008, 'ymin': 44.134773, 'width': 44.016735, 'height': 50.567062}",none
+unknown_877.png,no tb,none,none
+unknown_3114.png,no tb,none,none
+unknown_2985.png,no tb,none,none
+unknown_3120.png,no tb,none,none
+unknown_2918.png,tb,"{'xmin': 334.44745, 'ymin': 123.81684, 'width': 206.1968, 'height': 236.38086}",active_tb
+unknown_2006.png,no tb,none,active_tb
+unknown_2379.png,no tb,none,none
+unknown_503.png,no tb,none,none
+unknown_2039.png,no tb,none,none
+unknown_91.png,no tb,none,none
+unknown_519.png,no tb,none,none
+unknown_2984.png,no tb,none,none
+unknown_1297.png,no tb,none,none
+unknown_893.png,no tb,none,none
+unknown_21.png,no tb,none,none
+unknown_640.png,no tb,none,none
+unknown_1201.png,tb,"{'xmin': 198.3816, 'ymin': 90.86401, 'width': 72.96763, 'height': 88.42746}",active_tb
+unknown_1031.png,no tb,none,active_tb
+unknown_1062.png,no tb,none,none
+unknown_343.png,no tb,none,none
+unknown_2046.png,no tb,none,none
+unknown_2717.png,no tb,none,none
+unknown_120.png,no tb,none,none
+unknown_204.png,no tb,none,none
+unknown_1330.png,tb,"{'xmin': 172.59518, 'ymin': 57.82825, 'width': 104.089874, 'height': 134.1474}",latent_tb
+unknown_2753.png,no tb,none,none
+unknown_1177.png,no tb,none,none
+unknown_2452.png,no tb,none,none
+unknown_1302.png,no tb,none,none
+unknown_771.png,no tb,none,none
+unknown_988.png,no tb,none,active_tb
+unknown_2102.png,no tb,none,none
+unknown_2554.png,no tb,none,none
+unknown_2421.png,no tb,none,none
+unknown_1606.png,no tb,none,none
+unknown_3162.png,no tb,none,active_tb
+unknown_2777.png,tb,"{'xmin': 246.02843, 'ymin': 115.8569, 'width': 142.41696, 'height': 146.98764}",active_tb
+unknown_2667.png,no tb,none,none
+unknown_880.png,no tb,none,none
+unknown_2376.png,no tb,none,none
+unknown_679.png,no tb,none,none
+unknown_2521.png,no tb,none,none
+unknown_946.png,no tb,none,none
+unknown_2491.png,no tb,none,none
+unknown_2097.png,no tb,none,none
+unknown_2413.png,no tb,none,none
+unknown_2400.png,tb,"{'xmin': 208.20538, 'ymin': 97.185104, 'width': 122.75075, 'height': 156.1446}",active_tb
+unknown_156.png,no tb,none,none
+unknown_1392.png,no tb,none,none
+unknown_2758.png,no tb,none,none
+unknown_2344.png,no tb,none,active_tb
+unknown_981.png,tb,"{'xmin': 160.24382, 'ymin': 66.327515, 'width': 114.837585, 'height': 124.59631}",latent_tb
+unknown_2124.png,no tb,none,none
+unknown_2289.png,no tb,none,none
+unknown_1956.png,no tb,none,none
+unknown_138.png,no tb,none,none
+unknown_1246.png,no tb,none,none
+unknown_2297.png,no tb,none,none
+unknown_3002.png,no tb,none,none
+unknown_1417.png,no tb,none,none
+unknown_2776.png,no tb,none,none
+unknown_510.png,tb,"{'xmin': 235.33595, 'ymin': 116.1438, 'width': 134.39693, 'height': 202.02676}",active_tb
+unknown_2334.png,no tb,none,none
+unknown_181.png,tb,"{'xmin': 105.67495, 'ymin': 69.993614, 'width': 64.54197, 'height': 69.77501}",active_tb
+unknown_2566.png,tb,"{'xmin': 99.559555, 'ymin': 31.516258, 'width': 74.24395, 'height': 91.67936}",active_tb
+unknown_1389.png,no tb,none,none
+unknown_2009.png,no tb,none,none
+unknown_733.png,tb,"{'xmin': 63.38314, 'ymin': 17.544125, 'width': 96.57517, 'height': 114.33706}",latent_tb
+unknown_1344.png,tb,"{'xmin': 240.3446, 'ymin': 110.14417, 'width': 158.373, 'height': 212.55551}",active_tb
+unknown_3074.png,no tb,none,none
+unknown_264.png,tb,"{'xmin': 157.98401, 'ymin': 73.26686, 'width': 103.29505, 'height': 106.99203}",active_tb
+unknown_2808.png,no tb,none,active_tb
+unknown_712.png,no tb,none,active_tb
+unknown_1022.png,no tb,none,none
+unknown_2047.png,tb,"{'xmin': 209.7445, 'ymin': 82.81465, 'width': 126.663475, 'height': 140.21492}",active_tb
+unknown_3025.png,no tb,none,none
+unknown_3033.png,no tb,none,none
+unknown_2195.png,tb,"{'xmin': 57.963936, 'ymin': 38.576797, 'width': 46.31306, 'height': 56.962727}",active_tb
+unknown_2454.png,tb,"{'xmin': 60.77126, 'ymin': 33.52744, 'width': 43.227802, 'height': 51.605022}",latent_tb
+unknown_1776.png,no tb,none,active_tb
+unknown_1668.png,no tb,none,none
+unknown_3292.png,no tb,none,none
+unknown_484.png,no tb,none,none
+unknown_1639.png,no tb,none,none
+unknown_2736.png,no tb,none,none
+unknown_2939.png,no tb,none,none
+unknown_483.png,no tb,none,none
+unknown_2765.png,no tb,none,none
+unknown_2427.png,no tb,none,none
+unknown_3188.png,no tb,none,none
+unknown_2592.png,no tb,none,none
+unknown_2199.png,no tb,none,none
+unknown_3102.png,no tb,none,none
+unknown_248.png,no tb,none,none
+unknown_291.png,no tb,none,none
+unknown_191.png,no tb,none,none
+unknown_2597.png,tb,"{'xmin': 304.71317, 'ymin': 120.82193, 'width': 182.05058, 'height': 222.35829}",active_tb
+unknown_280.png,tb,"{'xmin': 117.18543, 'ymin': 40.60658, 'width': 70.384766, 'height': 76.07767}",active_tb
+unknown_103.png,no tb,none,none
+unknown_2542.png,no tb,none,none
+unknown_1072.png,no tb,none,none
+unknown_2964.png,no tb,none,none
+unknown_2538.png,no tb,none,none
+unknown_563.png,no tb,none,active_tb
+unknown_2618.png,no tb,none,none
+unknown_931.png,no tb,none,none
+unknown_3278.png,no tb,none,none
+unknown_1707.png,no tb,none,none
+unknown_2530.png,tb,"{'xmin': 214.32808, 'ymin': 97.38831, 'width': 106.03028, 'height': 125.61159}",active_tb
+unknown_2690.png,no tb,none,none
+unknown_2901.png,no tb,none,none
+unknown_1921.png,no tb,none,none
+unknown_3227.png,no tb,none,none
+unknown_1240.png,no tb,none,none
+unknown_2307.png,no tb,none,none
+unknown_3044.png,tb,"{'xmin': 84.51548, 'ymin': 36.110416, 'width': 78.70327, 'height': 78.321655}",active_tb
+unknown_265.png,no tb,none,none
+unknown_601.png,no tb,none,none
+unknown_2689.png,no tb,none,none
+unknown_8.png,no tb,none,none
+unknown_2171.png,tb,"{'xmin': 158.29478, 'ymin': 88.57236, 'width': 90.82064, 'height': 113.50733}",active_tb
+unknown_2643.png,tb,"{'xmin': 184.92189, 'ymin': 91.55548, 'width': 87.465645, 'height': 115.95653}",active_tb
+unknown_777.png,no tb,none,none
+unknown_2490.png,no tb,none,none
+unknown_635.png,no tb,none,none
+unknown_1138.png,no tb,none,none
+unknown_2987.png,no tb,none,none
+unknown_1090.png,tb,"{'xmin': 44.806324, 'ymin': 22.625013, 'width': 38.230507, 'height': 46.312737}",none
+unknown_645.png,no tb,none,none
+unknown_1175.png,no tb,none,none
+unknown_1721.png,no tb,none,none
+unknown_717.png,tb,"{'xmin': 196.53879, 'ymin': 94.027916, 'width': 100.217316, 'height': 114.40013}",active_tb
+unknown_294.png,no tb,none,none
+unknown_2930.png,tb,"{'xmin': 207.52179, 'ymin': 94.722824, 'width': 134.49031, 'height': 151.20084}",active_tb
+unknown_614.png,no tb,none,none
+unknown_1637.png,no tb,none,none
+unknown_1581.png,no tb,none,none
+unknown_676.png,tb,"{'xmin': 268.61783, 'ymin': 167.27666, 'width': 176.64725, 'height': 192.13348}",active_tb
+unknown_3223.png,no tb,none,none
+unknown_2441.png,no tb,none,none
+unknown_257.png,no tb,none,none
+unknown_1004.png,no tb,none,none
+unknown_49.png,no tb,none,none
+unknown_96.png,no tb,none,none
+unknown_432.png,no tb,none,none
+unknown_923.png,no tb,none,none
+unknown_1210.png,no tb,none,none
+unknown_88.png,no tb,none,none
+unknown_1971.png,no tb,none,none
+unknown_2826.png,tb,"{'xmin': 251.43512, 'ymin': 124.849884, 'width': 173.48093, 'height': 196.75835}",active_tb
+unknown_1685.png,no tb,none,none
+unknown_124.png,no tb,none,none
+unknown_1527.png,no tb,none,none
+unknown_2788.png,no tb,none,none
+unknown_2562.png,no tb,none,none
+unknown_1586.png,tb,"{'xmin': 236.12646, 'ymin': 121.90129, 'width': 151.91658, 'height': 185.66568}",active_tb
+unknown_1041.png,no tb,none,none
+unknown_3097.png,no tb,none,none
+unknown_1829.png,no tb,none,none
+unknown_3253.png,no tb,none,none
+unknown_2033.png,no tb,none,none
+unknown_625.png,no tb,none,none
+unknown_439.png,no tb,none,none
+unknown_1247.png,no tb,none,none
+unknown_2937.png,no tb,none,none
+unknown_3294.png,tb,"{'xmin': 272.92337, 'ymin': 137.69987, 'width': 164.34328, 'height': 192.84738}",active_tb
+unknown_2575.png,tb,"{'xmin': 269.6013, 'ymin': 143.47417, 'width': 150.33946, 'height': 150.99799}",active_tb
+unknown_2503.png,no tb,none,none
+unknown_3010.png,no tb,none,none
+unknown_1672.png,tb,"{'xmin': 189.60426, 'ymin': 89.54712, 'width': 112.42241, 'height': 140.85172}",latent_tb
+unknown_851.png,no tb,none,none
+unknown_1055.png,no tb,none,none
+unknown_675.png,no tb,none,none
+unknown_832.png,tb,"{'xmin': 266.71967, 'ymin': 122.55524, 'width': 133.37032, 'height': 160.63484}",active_tb
+unknown_605.png,no tb,none,none
+unknown_3164.png,no tb,none,none
+unknown_2249.png,no tb,none,none
+unknown_975.png,tb,"{'xmin': 167.23149, 'ymin': 111.20022, 'width': 84.64237, 'height': 83.96916}",active_tb
+unknown_2544.png,no tb,none,none
+unknown_274.png,no tb,none,none
+unknown_2565.png,no tb,none,none
+unknown_2161.png,no tb,none,none
+unknown_1061.png,no tb,none,none
+unknown_852.png,tb,"{'xmin': 189.66791, 'ymin': 97.50052, 'width': 101.36688, 'height': 118.95056}",active_tb
+unknown_1351.png,no tb,none,none
+unknown_3062.png,no tb,none,none
+unknown_2089.png,no tb,none,none
+unknown_2230.png,no tb,none,none
+unknown_1682.png,no tb,none,none
+unknown_2760.png,no tb,none,active_tb
+unknown_2414.png,no tb,none,active_tb
+unknown_2619.png,tb,"{'xmin': 172.66103, 'ymin': 82.05804, 'width': 113.4701, 'height': 134.4651}",active_tb
+unknown_999.png,no tb,none,none
+unknown_1236.png,no tb,none,none
+unknown_2437.png,no tb,none,none
+unknown_440.png,no tb,none,none
+unknown_2804.png,no tb,none,none
+unknown_59.png,no tb,none,none
+unknown_3221.png,no tb,none,none
+unknown_2411.png,no tb,none,none
+unknown_2586.png,no tb,none,none
+unknown_3022.png,no tb,none,none
+unknown_203.png,no tb,none,none
+unknown_1416.png,no tb,none,none
+unknown_2015.png,tb,"{'xmin': 76.56495, 'ymin': 41.380096, 'width': 57.793312, 'height': 68.87188}",active_tb
+unknown_10.png,no tb,none,active_tb
+unknown_1587.png,no tb,none,none
+unknown_1536.png,no tb,none,none
+unknown_359.png,no tb,none,none
+unknown_1075.png,no tb,none,none
+unknown_2628.png,no tb,none,none
+unknown_89.png,no tb,none,none
+unknown_3233.png,no tb,none,none
+unknown_1853.png,no tb,none,none
+unknown_245.png,no tb,none,none
+unknown_1526.png,no tb,none,active_tb
+unknown_198.png,no tb,none,none
+unknown_3046.png,tb,"{'xmin': 179.8075, 'ymin': 65.86362, 'width': 99.407036, 'height': 111.82528}",active_tb
+unknown_3156.png,no tb,none,none
+unknown_794.png,tb,"{'xmin': 289.63013, 'ymin': 150.26796, 'width': 157.45825, 'height': 191.61125}",active_tb
+unknown_3019.png,no tb,none,none
+unknown_279.png,no tb,none,none
+unknown_94.png,no tb,none,none
+unknown_2203.png,no tb,none,none
+unknown_1774.png,no tb,none,none
+unknown_762.png,no tb,none,none
+unknown_2139.png,no tb,none,none
+unknown_2812.png,no tb,none,none
+unknown_3096.png,no tb,none,none
+unknown_2280.png,no tb,none,none
+unknown_1429.png,no tb,none,none
+unknown_230.png,no tb,none,none
+unknown_1691.png,no tb,none,none
+unknown_3132.png,no tb,none,none
+unknown_667.png,no tb,none,none
+unknown_3028.png,no tb,none,none
+unknown_2580.png,no tb,none,none
+unknown_1806.png,tb,"{'xmin': 95.42359, 'ymin': 43.08975, 'width': 71.60783, 'height': 84.6322}",active_tb
+unknown_2980.png,no tb,none,none
+unknown_2807.png,no tb,none,none
+unknown_164.png,no tb,none,none
+unknown_1945.png,no tb,none,none
+unknown_2159.png,no tb,none,none
+unknown_1624.png,no tb,none,none
+unknown_1121.png,no tb,none,active_tb
+unknown_1977.png,no tb,none,none
+unknown_1564.png,no tb,none,none
+unknown_1962.png,no tb,none,none
+unknown_392.png,tb,"{'xmin': 202.01166, 'ymin': 101.71416, 'width': 111.19102, 'height': 124.46359}",active_tb
+unknown_1154.png,no tb,none,none
+unknown_1145.png,no tb,none,none
+unknown_2309.png,no tb,none,none
+unknown_2098.png,no tb,none,none
+unknown_1835.png,no tb,none,active_tb
+unknown_827.png,no tb,none,none
+unknown_1147.png,no tb,none,none
+unknown_1226.png,no tb,none,none
+unknown_2911.png,no tb,none,none
+unknown_1428.png,no tb,none,none
+unknown_1442.png,tb,"{'xmin': 187.24129, 'ymin': 106.572624, 'width': 86.296196, 'height': 99.93675}",active_tb
+unknown_2997.png,no tb,none,none
+unknown_905.png,no tb,none,none
+unknown_1731.png,no tb,none,none
+unknown_2149.png,no tb,none,none
+unknown_137.png,no tb,none,none
+unknown_1816.png,no tb,none,none
+unknown_1621.png,no tb,none,none
+unknown_1935.png,no tb,none,none
+unknown_1590.png,tb,"{'xmin': 159.20543, 'ymin': 77.13948, 'width': 70.56159, 'height': 79.594025}",active_tb
+unknown_1630.png,no tb,none,none
+unknown_3187.png,tb,"{'xmin': 146.8565, 'ymin': 49.212994, 'width': 89.811386, 'height': 106.6365}",latent_tb
+unknown_653.png,tb,"{'xmin': 264.51843, 'ymin': 159.99376, 'width': 133.62221, 'height': 149.08397}",active_tb
+unknown_1299.png,tb,"{'xmin': 118.61883, 'ymin': 55.8649, 'width': 53.775406, 'height': 62.050262}",active_tb
+unknown_2232.png,no tb,none,none
+unknown_2839.png,tb,"{'xmin': 348.9517, 'ymin': 144.3756, 'width': 237.99614, 'height': 274.94897}",latent_tb
+unknown_1585.png,no tb,none,none
+unknown_3273.png,tb,"{'xmin': 259.1181, 'ymin': 108.185104, 'width': 187.18889, 'height': 223.55424}",active_tb
+unknown_1149.png,no tb,none,none
+unknown_1307.png,no tb,none,none
+unknown_1228.png,no tb,none,none
+unknown_1708.png,no tb,none,none
+unknown_669.png,no tb,none,none
+unknown_2900.png,tb,"{'xmin': 224.21768, 'ymin': 149.47905, 'width': 134.95181, 'height': 155.26752}",active_tb
+unknown_2670.png,tb,"{'xmin': 176.1303, 'ymin': 98.382095, 'width': 97.14905, 'height': 106.17442}",active_tb
+unknown_2303.png,no tb,none,none
+unknown_1887.png,no tb,none,none
+unknown_2020.png,tb,"{'xmin': 174.77615, 'ymin': 83.290146, 'width': 84.67489, 'height': 94.38727}",active_tb
+unknown_285.png,no tb,none,none
+unknown_2648.png,no tb,none,none
+unknown_1844.png,no tb,none,active_tb
+unknown_1694.png,no tb,none,none
+unknown_2865.png,no tb,none,none
+unknown_1195.png,no tb,none,none
+unknown_1151.png,no tb,none,none
+unknown_1622.png,no tb,none,none
+unknown_1762.png,no tb,none,none
+unknown_915.png,no tb,none,none
+unknown_2082.png,no tb,none,none
+unknown_2810.png,no tb,none,none
+unknown_2052.png,no tb,none,none
+unknown_1452.png,no tb,none,none
+unknown_2247.png,no tb,none,none
+unknown_3047.png,no tb,none,none
+unknown_752.png,no tb,none,none
+unknown_3236.png,no tb,none,none
+unknown_3095.png,no tb,none,none
+unknown_1514.png,no tb,none,none
+unknown_1974.png,no tb,none,none
+unknown_706.png,no tb,none,none
+unknown_989.png,tb,"{'xmin': 200.2506, 'ymin': 86.50096, 'width': 143.3215, 'height': 170.32175}",active_tb
+unknown_2233.png,no tb,none,none
+unknown_924.png,no tb,none,none
+unknown_2299.png,no tb,none,none
+unknown_2645.png,no tb,none,none
+unknown_272.png,no tb,none,none
+unknown_791.png,no tb,none,active_tb
+unknown_2043.png,no tb,none,none
+unknown_3141.png,no tb,none,none
+unknown_2103.png,no tb,none,none
+unknown_2215.png,no tb,none,none
+unknown_2388.png,no tb,none,none
+unknown_2234.png,no tb,none,active_tb
+unknown_1176.png,no tb,none,none
+unknown_2601.png,tb,"{'xmin': 188.29109, 'ymin': 89.314896, 'width': 93.30258, 'height': 111.177536}",active_tb
+unknown_2493.png,no tb,none,none
+unknown_126.png,no tb,none,none
+unknown_2310.png,no tb,none,none
+unknown_1009.png,no tb,none,none
+unknown_1294.png,no tb,none,none
+unknown_509.png,no tb,none,none
+unknown_365.png,tb,"{'xmin': 143.93414, 'ymin': 54.546875, 'width': 83.51683, 'height': 89.535416}",active_tb
+unknown_1200.png,no tb,none,none
+unknown_1034.png,no tb,none,none
+unknown_1026.png,no tb,none,none
+unknown_1436.png,no tb,none,none
+unknown_685.png,no tb,none,none
+unknown_2576.png,no tb,none,none
+unknown_3049.png,no tb,none,none
+unknown_116.png,no tb,none,none
+unknown_3098.png,no tb,none,none
+unknown_889.png,no tb,none,none
+unknown_1987.png,tb,"{'xmin': 260.06454, 'ymin': 111.690384, 'width': 145.79778, 'height': 160.09262}",active_tb
+unknown_577.png,tb,"{'xmin': 146.70572, 'ymin': 53.362854, 'width': 97.774536, 'height': 123.17411}",active_tb
+unknown_1050.png,tb,"{'xmin': 106.94631, 'ymin': 45.596603, 'width': 89.41558, 'height': 89.264084}",active_tb
+unknown_998.png,no tb,none,none
+unknown_2182.png,no tb,none,none
+unknown_2169.png,no tb,none,none
+unknown_972.png,no tb,none,none
+unknown_2747.png,no tb,none,none
+unknown_1181.png,tb,"{'xmin': 143.58069, 'ymin': 39.769512, 'width': 80.41347, 'height': 108.21993}",active_tb
+unknown_2604.png,no tb,none,none
+unknown_2445.png,no tb,none,none
+unknown_1336.png,no tb,none,none
+unknown_561.png,no tb,none,none
+unknown_1067.png,no tb,none,none
+unknown_1320.png,tb,"{'xmin': 212.38565, 'ymin': 108.17414, 'width': 150.46626, 'height': 160.065}",active_tb
+unknown_1603.png,no tb,none,none
+unknown_1739.png,no tb,none,none
+unknown_1025.png,no tb,none,none
+unknown_2710.png,no tb,none,none
+unknown_2078.png,tb,"{'xmin': 212.76617, 'ymin': 91.760414, 'width': 138.41614, 'height': 157.28922}",active_tb
+unknown_2555.png,tb,"{'xmin': 111.50976, 'ymin': 44.924652, 'width': 67.372635, 'height': 75.276085}",active_tb
+unknown_314.png,no tb,none,active_tb
+unknown_1054.png,no tb,none,none
+unknown_2990.png,no tb,none,none
+unknown_2177.png,no tb,none,none
+unknown_2094.png,no tb,none,none
+unknown_1560.png,no tb,none,none
+unknown_1532.png,no tb,none,none
+unknown_2349.png,no tb,none,none
+unknown_2318.png,no tb,none,none
+unknown_1757.png,tb,"{'xmin': 269.14926, 'ymin': 100.864334, 'width': 131.85835, 'height': 191.07083}",active_tb
+unknown_2399.png,no tb,none,latent_tb
+unknown_3104.png,no tb,none,none
+unknown_801.png,no tb,none,none
+unknown_3212.png,no tb,none,none
+unknown_1068.png,no tb,none,none
+unknown_496.png,no tb,none,none
+unknown_127.png,no tb,none,none
+unknown_3245.png,no tb,none,none
+unknown_1036.png,tb,"{'xmin': 71.685646, 'ymin': -1.5272619, 'width': 63.011425, 'height': 65.7366}",active_tb
+unknown_2120.png,no tb,none,none
+unknown_2354.png,no tb,none,none
+unknown_1671.png,no tb,none,none
+unknown_920.png,no tb,none,none
+unknown_218.png,no tb,none,none
+unknown_2341.png,no tb,none,none
+unknown_912.png,no tb,none,none
+unknown_3170.png,no tb,none,none
+unknown_2213.png,tb,"{'xmin': 77.196266, 'ymin': 36.360493, 'width': 50.052956, 'height': 64.63632}",active_tb
+unknown_324.png,no tb,none,none
+unknown_2599.png,no tb,none,none
+unknown_1870.png,no tb,none,none
+unknown_393.png,no tb,none,none
+unknown_1601.png,no tb,none,none
+unknown_1747.png,tb,"{'xmin': 162.17955, 'ymin': 53.89364, 'width': 73.69414, 'height': 87.09708}",active_tb
+unknown_1674.png,no tb,none,none
+unknown_2852.png,no tb,none,none
+unknown_514.png,tb,"{'xmin': 129.64845, 'ymin': 67.45408, 'width': 66.80716, 'height': 75.46708}",active_tb
+unknown_1414.png,no tb,none,none
+unknown_3.png,no tb,none,none
+unknown_42.png,no tb,none,none
+unknown_1088.png,no tb,none,none
+unknown_1324.png,no tb,none,none
+unknown_2324.png,tb,"{'xmin': 129.73721, 'ymin': 61.46158, 'width': 97.93675, 'height': 113.14151}",active_tb
+unknown_2952.png,no tb,none,none
+unknown_1225.png,no tb,none,none
+unknown_1990.png,no tb,none,none
+unknown_1231.png,tb,"{'xmin': 230.91484, 'ymin': 94.91853, 'width': 123.022736, 'height': 129.97214}",active_tb
+unknown_2283.png,no tb,none,none
+unknown_1914.png,no tb,none,none
+unknown_2429.png,no tb,none,none
+unknown_39.png,no tb,none,none
+unknown_1976.png,no tb,none,none
+unknown_2603.png,no tb,none,none
+unknown_266.png,no tb,none,none
+unknown_1340.png,no tb,none,none
+unknown_1478.png,no tb,none,none
+unknown_315.png,no tb,none,none
+unknown_1447.png,no tb,none,none
+unknown_670.png,no tb,none,none
+unknown_142.png,tb,"{'xmin': 71.24502, 'ymin': 52.08148, 'width': 40.161995, 'height': 56.96543}",active_tb
+unknown_3257.png,no tb,none,none
+unknown_2714.png,no tb,none,none
+unknown_1723.png,no tb,none,none
+unknown_2000.png,no tb,none,none
+unknown_1948.png,no tb,none,none
+unknown_2095.png,tb,"{'xmin': 83.17845, 'ymin': 60.747467, 'width': 42.339928, 'height': 52.854065}",active_tb
+unknown_1194.png,no tb,none,none
+unknown_1437.png,no tb,none,none
+unknown_2250.png,no tb,none,none
+unknown_3150.png,no tb,none,none
+unknown_2246.png,tb,"{'xmin': 177.67026, 'ymin': 60.611855, 'width': 99.36171, 'height': 116.97594}",active_tb
+unknown_925.png,no tb,none,none
+unknown_2979.png,tb,"{'xmin': 228.53368, 'ymin': 85.50242, 'width': 142.69258, 'height': 174.3431}",active_tb
+unknown_951.png,no tb,none,none
+unknown_3197.png,no tb,none,none
+unknown_2223.png,no tb,none,none
+unknown_1474.png,tb,"{'xmin': 99.47906, 'ymin': 6.2739854, 'width': 60.049564, 'height': 62.415237}",active_tb
+unknown_1878.png,tb,"{'xmin': 225.90048, 'ymin': 110.11852, 'width': 142.43521, 'height': 160.49887}",active_tb
+unknown_2642.png,no tb,none,none
+unknown_3051.png,no tb,none,active_tb
+unknown_1953.png,no tb,none,none
+unknown_578.png,tb,"{'xmin': 134.51431, 'ymin': 61.36531, 'width': 53.807377, 'height': 57.056236}",active_tb
+unknown_1234.png,no tb,none,none
+unknown_863.png,no tb,none,active_tb
+unknown_1791.png,no tb,none,none
+unknown_1994.png,no tb,none,none
+unknown_342.png,no tb,none,none
+unknown_18.png,no tb,none,none
+unknown_1894.png,no tb,none,none
+unknown_2140.png,no tb,none,none
+unknown_1434.png,no tb,none,none
+unknown_202.png,no tb,none,none
+unknown_1892.png,no tb,none,none
+unknown_2853.png,no tb,none,none
+unknown_2174.png,no tb,none,none
+unknown_1472.png,tb,"{'xmin': 229.20601, 'ymin': 93.503494, 'width': 121.86216, 'height': 144.40433}",active_tb
+unknown_606.png,no tb,none,none
+unknown_1187.png,no tb,none,none
+unknown_1591.png,tb,"{'xmin': 169.37, 'ymin': 64.024124, 'width': 93.87804, 'height': 96.71858}",active_tb
+unknown_908.png,tb,"{'xmin': 43.256115, 'ymin': -3.4871335, 'width': 61.982994, 'height': 43.368477}",active_tb
+unknown_435.png,no tb,none,none
+unknown_207.png,no tb,none,none
+unknown_3189.png,tb,"{'xmin': 156.48987, 'ymin': 71.95869, 'width': 76.49168, 'height': 94.47498}",active_tb
+unknown_1904.png,no tb,none,none
+unknown_3014.png,no tb,none,none
+unknown_1233.png,no tb,none,none
+unknown_581.png,no tb,none,active_tb
+unknown_3244.png,no tb,none,none
+unknown_253.png,no tb,none,none
+unknown_1926.png,no tb,none,none
+unknown_1375.png,no tb,none,none
+unknown_2761.png,no tb,none,none
+unknown_838.png,no tb,none,none
+unknown_2346.png,tb,"{'xmin': 170.64177, 'ymin': 69.414444, 'width': 112.574615, 'height': 126.11744}",active_tb
+unknown_1563.png,no tb,none,none
+unknown_2908.png,no tb,none,none
+unknown_2361.png,no tb,none,none
+unknown_1217.png,no tb,none,none
+unknown_602.png,no tb,none,none
+unknown_775.png,no tb,none,none
+unknown_788.png,no tb,none,none
+unknown_488.png,no tb,none,none
+unknown_782.png,no tb,none,none
+unknown_3117.png,no tb,none,none

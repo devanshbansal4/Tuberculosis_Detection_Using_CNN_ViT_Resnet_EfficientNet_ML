@@ -1,0 +1,104 @@
+Workflow ::
+LungAbnormalityDetector/
+├── Train/
+│   ├── normal/       # Augmented + resized (resize, clahe, rotation, zooming, brightness, normalization)
+│   ├── abnormal/
+├── Validation/
+│   ├── normal/       # UNaugmented, just resized + CLAHE (resize, clahe, normalize)
+│   ├── abnormal/
+├── Test/
+│   ├── normal/       # UNaugmented, just resized + CLAHE (resize, clahe, normalize)
+│   ├── abnormal/ 
+
+
+
+Code ::
+import os
+import cv2
+import numpy as np
+import random
+
+# ----- CORE FUNCTIONS -----
+
+def apply_clahe(image):
+    lab = cv2.cvtColor(image, cv2.COLOR_BGR2LAB)
+    l, a, b = cv2.split(lab)
+    clahe = cv2.createCLAHE(clipLimit=2.0, tileGridSize=(8, 8))
+    cl = clahe.apply(l)
+    return cv2.cvtColor(cv2.merge((cl, a, b)), cv2.COLOR_LAB2BGR)
+
+def random_rotate(image):
+    angle = random.uniform(-15, 15)
+    h, w = image.shape[:2]
+    matrix = cv2.getRotationMatrix2D((w / 2, h / 2), angle, 1)
+    return cv2.warpAffine(image, matrix, (w, h), borderMode=cv2.BORDER_REFLECT)
+
+def random_zoom(image):
+    zoom_factor = random.uniform(0.8, 1.2)
+    h, w = image.shape[:2]
+    nh, nw = int(h * zoom_factor), int(w * zoom_factor)
+    zoomed = cv2.resize(image, (nw, nh))
+    if zoom_factor < 1.0:
+        pad_top = (256 - nh) // 2
+        pad_left = (256 - nw) // 2
+        return cv2.copyMakeBorder(zoomed, pad_top, 256 - nh - pad_top, pad_left, 256 - nw - pad_left, cv2.BORDER_REFLECT)
+    else:
+        start_y = (nh - 256) // 2
+        start_x = (nw - 256) // 2
+        return zoomed[start_y:start_y + 256, start_x:start_x + 256]
+
+def adjust_brightness(image):
+    factor = random.uniform(0.9, 1.1)
+    return np.clip(image * factor, 0, 255).astype(np.uint8)
+
+def normalize_image(image):
+    return image.astype(np.float32) / 255.0
+
+# ----- PROCESSING FUNCTIONS -----
+
+def preprocess_image(image, do_augment):
+    image = cv2.resize(image, (256, 256), interpolation=cv2.INTER_AREA)
+    image = apply_clahe(image)
+    if do_augment:
+        image = random_rotate(image)
+        image = random_zoom(image)
+        image = adjust_brightness(image)
+    image = normalize_image(image)
+    return image
+
+def preprocess_folder(folder_path, do_augment):
+    for filename in os.listdir(folder_path):
+        file_path = os.path.join(folder_path, filename)
+        if not (filename.lower().endswith('.jpg') or filename.lower().endswith('.jpeg') or filename.lower().endswith('.png')):
+            continue
+
+        image = cv2.imread(file_path)
+        if image is None:
+            continue
+
+        if not filename.lower().endswith('.png'):
+            new_filename = os.path.splitext(filename)[0] + '.png'
+            file_path_png = os.path.join(folder_path, new_filename)
+            os.remove(file_path)
+            filename = new_filename
+            file_path = file_path_png
+
+        processed = preprocess_image(image, do_augment)
+        processed = (processed * 255).astype(np.uint8)
+        cv2.imwrite(file_path, processed)
+
+# ----- RUN ON ALL FOLDERS -----
+
+base_path = r"C:\Users\Devansh\Desktop\Project Backups\LungAbnormalityDetectorDataset(Plain)"
+
+# Train folders (apply augmentation)
+preprocess_folder(os.path.join(base_path, "Train", "Normal"), do_augment=True)
+preprocess_folder(os.path.join(base_path, "Train", "Abnormal"), do_augment=True)
+
+# Validation folders (no augmentation)
+preprocess_folder(os.path.join(base_path, "Validation", "Normal"), do_augment=False)
+preprocess_folder(os.path.join(base_path, "Validation", "Abnormal"), do_augment=False)
+
+# Test folders (no augmentation)
+preprocess_folder(os.path.join(base_path, "Test", "Normal"), do_augment=False)
+preprocess_folder(os.path.join(base_path, "Test", "Abnormal"), do_augment=False)

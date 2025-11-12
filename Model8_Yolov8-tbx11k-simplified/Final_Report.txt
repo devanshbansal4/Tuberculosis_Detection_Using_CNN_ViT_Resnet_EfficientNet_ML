@@ -1,0 +1,13 @@
+On a sample of totally unseen, test images the model performed as followos :: 
+
+
+Mean IoU = 58.47 %
+Recall = 70.5 %
+RMSE = 18.3
+
+
+IoU -> Are of Intersection over Union refers to the [(Intersection area of predicted and true bounding box) / (Union area of predicted and true bounding box)]
+
+Recall -> Percentage of the true bounding box covered by the predicted bounding box. It has only been calculated for images with an IoU >= 0.5.
+
+RMSE -> Gives the root of the mean of our predicted coordinated of Xmin and Ymin.
