@@ -1,4 +1,5 @@
 The .pt/ .keras/ .h5 files mentioned below have been removed, since many were too big for git. 
+This repo contains multiple Models trained for detecting TB in Chest X-ray PA/AP view images.
 
 1) The folder Model2 contains all contents of the EfficientNetB3 model(384 layers).
 	-lungabnormalitydetectortwo.ipynb contains the code that trained the model.
